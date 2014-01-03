@@ -1,0 +1,13 @@
+title:        Alex Singleton
+tagline:      'Alex Singleton'
+description:  'is a Reader in Geographic Information Science at the University of Liverpool'
+url:          http://www.alex-singleton.com
+version:      1.1.1
+author:
+  name:       Alex Singleton
+  email:      alex.singleton@liverpool.ac.uk
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     4
+paginate_path: "blog/page:num"

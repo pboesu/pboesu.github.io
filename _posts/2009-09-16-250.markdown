@@ -1,0 +1,12 @@
+---
+author: Alex Singleton
+layout: post
+title: Geodemographic Visualisation
+categories:
+- Talk
+---
+
+Yesterday I spoke at an [OAC User Group](http://areaclassification.org.uk/) event at the [RSS ](http://www.rss.org.uk)about [geographic visualisation](http://areaclassification.org.uk/2009/06/16/visualisation/) and area classification more generally. The slides as usual are on slideshare!
+
+<script async class="speakerdeck-embed" data-id="be5b3e5055c6013170677a910018b245" data-ratio="1.41436464088398" src="//speakerdeck.com/assets/embed.js"></script>
+

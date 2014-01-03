@@ -1,0 +1,9 @@
+---
+author: Alex Singleton
+layout: post
+title: CATMOG
+categories:
+- Teaching
+---
+
+I am also affiliated with the QMRG and we have just finished digitising the vast majority of the CATMOG series of quantitative methods guides. These are a great resource and can be downloaded from [[here](http://www.qmrg.org.uk/?page_id=141)]
