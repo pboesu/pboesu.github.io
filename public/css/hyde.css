@@ -423,6 +423,26 @@ a:focus {
 }
 
 
+
+/*Extras
+
+*/
+
+.img-circular{
+ width: 80px;
+ height: 80px;
+ background-image: url('/public/images/alexsingleton2.jpg');
+ background-size: cover;
+ display: block;
+ border-radius: 40px;
+ -webkit-border-radius: 40px;
+ -moz-border-radius: 40px;
+}
+
+
+
+
+
 /*
  * Themes
  *
@@ -521,3 +541,4 @@ a:focus {
 .theme-base-01 .related-posts li a:hover {
   color: #036564;
 }
+
