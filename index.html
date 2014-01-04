@@ -25,7 +25,7 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
-    <a href="blog/page{{paginator.next_page}}" class="older">Older</a>
+    <a href="/page{{paginator.next_page}}" class="older">Older</a>
   {% else %}
     <span class="next">Older</span>
   {% endif %}
@@ -33,7 +33,7 @@ layout: default
     {% if paginator.page == 2 %}
       <a href="/" class="newer">Newer</a>
     {% else %}
-      <a href="{{paginator.previous_page}}" class="newer">Newer</a>
+      <a href="/page{{paginator.previous_page}}" class="newer">Newer</a>
     {% endif %}
   {% else %}
     <span class="previous">Newer</span>
