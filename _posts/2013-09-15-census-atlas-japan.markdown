@@ -21,7 +21,7 @@ And for the cities:
   * [Osaka [190MB]](http://data.alex-singleton.com/Japan/City/Osaka.pdf)
   * [Tokyo [466MB]](http://data.alex-singleton.com/Japan/City/Tokyo.pdf)
 
-The full list of maps are available [here](http://www.alex-singleton.com/census-atlas-japan-downloads/).
+The full list of maps are available [here](/japandownload/).
 
 [![tokyo](/public/images/tokyo-300x273.png)](/public/images/tokyo.png)
 

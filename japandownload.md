@@ -1,9 +1,6 @@
 ---
-author: Alex Singleton
-layout: post
+layout: page
 title: Census Atlas Japan Downloads
-categories:
-- r
 ---
 
 ## Cities
@@ -31,8 +28,6 @@ Some of these files are large, you might be best right clicking and selecting do
 * [Yokohama - 365MB](http://data.alex-singleton.com/Japan/City/Yokohama.pdf)
 
 For the Municipality maps, see the [full map list](/r/2013/08/15/census-atlas-japan-downloads/).
-
-<!-- more -->
 
 ## Municipality
 

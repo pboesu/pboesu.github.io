@@ -188,6 +188,16 @@ img {
   vertical-align:text-bottom;
 }
 
+.img-feed {
+  display: inline;
+  margin: 5px;
+  opacity:0.4;
+  filter:alpha(opacity=40); /* For IE8 and earlier */
+  width:32px; /* you can use % */
+  height: auto;
+  vertical-align:text-bottom;
+}
+
 /*
  * Custom type
  *
@@ -200,7 +210,7 @@ img {
 }
 @media (min-width: 990px) {
   .lead {
-    font-size: 24px;
+    font-size: 16px;
   }
 }
 
@@ -252,7 +262,7 @@ a:focus {
 
 /* Footer area of masthead */
 .colophon {
-  margin-top: 20px;
+  margin-top: 15px;
   color: rgba(255,255,255,.5);
 }
 .colophon-links {
@@ -286,10 +296,10 @@ a:focus {
     left: 0;
   }
   .masthead h1 {
-    font-size: 64px;
+    font-size: 53px;
   }
   .colophon {
-    margin-top: 40px;
+    margin-top: 10px;
   }
 }
 
