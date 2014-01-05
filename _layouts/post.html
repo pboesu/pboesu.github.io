@@ -9,6 +9,7 @@ layout: default
     <img class="img-icon" src="/public/images/iconmonstr-user-icon.svg"></img>{{ page.author }}
     <img class="img-icon" src="/public/images/iconmonstr-tags-3-icon.svg"></img>{% for categories in page.categories %} {{ categories }} {% if forloop.last != true %} {% endif %} {% endfor %}
     <img class="img-icon" src="/public/images/iconmonstr-speech-bubble-14-icon.svg"></img><a href="http://localhost:4000{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>
+    <img class="img-icon" src="/public/images/iconmonstr-twitter-icon.svg"><a href="https://twitter.com/share?url={{ site.url | uri_escape }}{{ page.url | uri_escape }}&text={{ page.title }}" target="_blank">Tweet this!</a>
 </span>
   {{ content }}
 </div>
