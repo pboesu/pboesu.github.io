@@ -13,7 +13,7 @@ My Google Scholar Profile is also [here](http://scholar.google.co.uk/citations?h
 
 <img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Singleton, A. (2013) [A GIS Approach to Modelling CO2 Emissions Associated with the Pupil-School Commute](http://dx.doi.org/10.1080/13658816.2013.832765). International Journal of Geographical Information Science, 28(2):256–273.
 
-Adnan, M., Singleton, A., and Longley, P. (2013). OACoder: Postcode Coding Tool. Journal of Open Research Software, 1(1):e5.
+<img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Adnan, M., Singleton, A., and Longley, P. (2013). [OACoder: Postcode Coding Tool](http://dx.doi.org/10.5334/511ba2c94d661). Journal of Open Research Software, 1(1):e5.
 
 Phillips, R., Frost, D., and Singleton, A. (2013). Researching the Riots. The Geographical Journal, 179(1):3–10.
 

@@ -206,6 +206,23 @@ img {
   vertical-align: middle;
 }
 
+.img-lrgicon {
+  display: inline;
+  margin: 0px 5px 0px 0px;
+  width:40px; /* you can use % */
+  height: auto;
+  vertical-align: middle;
+  float: left;
+}
+
+.img-port {
+  display: inline;
+  margin: 0px 20px 0px 0px;
+  width:150px; /* you can use % */
+  height: auto;
+  float: left;
+}
+
 /*
  * Custom type
  *
