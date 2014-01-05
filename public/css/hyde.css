@@ -198,6 +198,14 @@ img {
   vertical-align:text-bottom;
 }
 
+.img-openpaper {
+  display: inline;
+  margin: 0px 5px 0px 0px;
+  width:32px; /* you can use % */
+  height: auto;
+  vertical-align: middle;
+}
+
 /*
  * Custom type
  *

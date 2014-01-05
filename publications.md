@@ -5,13 +5,13 @@ title: Publications
 
 For a full list of my publications, please see my [CV](/cv/). 
 
-My Google Scholar Profile is also [here](http://scholar.google.co.uk/citations?hl=en&user=JDEfBE8AAAAJ).
+My Google Scholar Profile is also [here](http://scholar.google.co.uk/citations?hl=en&user=JDEfBE8AAAAJ); <img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img>= Open Access
 
 ## Papers
 
-Singleton, A. and Spielman, S. (2013). [The Past, Present and Future of Geodemographic Research in the United States and United Kingdom](http://dx.doi.org/10.1080/00330124.2013.848764). Professional Geographer, In Press.
+<img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Singleton, A. and Spielman, S. (2013). [The Past, Present and Future of Geodemographic Research in the United States and United Kingdom](http://dx.doi.org/10.1080/00330124.2013.848764). Professional Geographer, In Press.
 
-Singleton, A. (2013). [A GIS Approach to Modelling CO2 Emissions Associated with the Pupil-School Commute](http://dx.doi.org/10.1080/13658816.2013.832765). International Journal of Geographical Information Science, 28(2):256–273.
+<img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Singleton, A. (2013) [A GIS Approach to Modelling CO2 Emissions Associated with the Pupil-School Commute](http://dx.doi.org/10.1080/13658816.2013.832765). International Journal of Geographical Information Science, 28(2):256–273.
 
 Adnan, M., Singleton, A., and Longley, P. (2013). OACoder: Postcode Coding Tool. Journal of Open Research Software, 1(1):e5.
 
@@ -29,7 +29,7 @@ Brunsdon, C., Longley, P., Singleton, A., and Ashby, D. (2011). Predicting Parti
 
 Mateos, P., de Smith, M., and Singleton, A. (2011). Developments in Quantitative Human Geography, Urban Modelling, and Geographic Information Science. Transactions in GIS, 15(3):249–252.
 
-Singleton, A. and Lewis, D. J. (2011). Including Accident Information in Automatic Bicycle Route Planning for Urban Areas. Urban Studies Research, 2011:1–10.
+<img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Singleton, A. and Lewis, D. J. (2011). [Including Accident Information in Automatic Bicycle Route Planning for Urban Areas](http://www.hindawi.com/journals/usr/2011/362817/). Urban Studies Research, 2011:1–10.
 
 Singleton, A. (2010). The Geodemographics of Educational Progression and their Implica- tions for Widening Participation in Higher Education. Environment and Planning A, 42(11):2560–2580.
 
