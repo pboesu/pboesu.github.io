@@ -39,7 +39,7 @@ I have generated a PDF atlas for each [local authority district](http://en.wikip
 ## What is in each atlas?
 
 Each atlas contains a series of vector PDF maps for each Key Statistics variable. The following is a map from the Liverpool Atlas and shows the percentage of "White: English/Welsh/Scottish/Northern Irish/British" for each Output Area in Liverpool.
-[![white](http://www.alex-singleton.com/wp-content/uploads/2013/02/white-227x300.jpg)](http://www.alex-singleton.com/wp-content/uploads/2013/02/white.jpg)
+[![white](/public/images/white-227x300.jpg)](/public/images/white.jpg)
 
 ## About the data and maps
 Almost every non count variable (apart from Hectares) was mapped from the  Key Statistics data disseminated by Nomis, and are either percentage scores or some type of ratio / average. Maps were excluded where there were only a few scores within a local authority district - you can see further explanation of this on the Rpubs page accompanying the analysis. A couple of further points...
