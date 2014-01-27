@@ -3,7 +3,7 @@ author: Alex Singleton
 layout: post
 title: Clipart Cartography: Ordnance Survey Statlas!
 categories:
-- Press
+- GIS
 ---
 
 ![](/public/images/statlas.png)
