@@ -1,7 +1,7 @@
 ---
 author: Alex Singleton
 layout: post
-title: Clipart Cartography: Ordnance Survey Statlas!
+title: Clipart Cartography
 categories:
 - GIS
 ---
