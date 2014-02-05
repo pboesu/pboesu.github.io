@@ -36,5 +36,5 @@ A manual map might typically take 5 minutes to create - thus:
 
 So, if you take a 35 hour working week for 46 weeks of a year ([6 weeks holiday](https://www.gov.uk/holiday-entitlement-rights)), this equates to 1,610 hours of map making time per year. As such, finishing 134,567 maps would take 6.9 years (11,213.9 / 1,610).
 
-This would obviously be a very boring job; however, it would also be expensive. If we take the median wages of a GIS Technician at [£20,030](http://goo.gl/YvJu7W) then the "cost" of all these maps would be 6.9 X £20,030 = **£138,207**. This toy example does illustrate how [learning to code](press/2014/01/04/Why-Geographers-Should-Learn-to-Code/) can help save significant money, and indeed what a useful tool R is for spatial analysis.
+This would obviously be a very boring job; however, it would also be expensive. If we take the median wages of a GIS Technician at [£20,030](http://goo.gl/YvJu7W) then the "cost" of all these maps would be 6.9 X £20,030 = **£138,207**. This toy example does illustrate how [learning to code](http://www.alex-singleton.com/press/2014/01/04/Why-Geographers-Should-Learn-to-Code/) can help save significant money, and indeed what a useful tool R is for spatial analysis.
 
