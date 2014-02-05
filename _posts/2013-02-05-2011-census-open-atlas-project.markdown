@@ -14,6 +14,8 @@ Because the data and boundaries are available under an [open government licence]
 
 As such, since launch of the Output Area level data I have been busy writing (and then running - around 4 days!) a set of R code that would map every Key Statistics variable for all local authority districts. The code for doing this is fully reproducible, and I have dropped this on my [Rpubs blog](http://rpubs.com/alexsingleton/openatlas).
 
+<u>**[THERE IS A NEW VERSION OF THE ATLAS AVAILABLE HERE](/r/2014/02/05/2011-census-open-atlas-project-version-two/)**</u>
+
 I have generated a PDF atlas for each [local authority district](http://en.wikipedia.org/wiki/ONS_coding_system), for example:
 	
   * [Camden [19.1 MB]](http://138.253.67.7/~alex/downloads/openatlas/E09000007.pdf)
