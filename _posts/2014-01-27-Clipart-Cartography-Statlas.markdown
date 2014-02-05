@@ -34,5 +34,5 @@ View [PDF](/public/downloads/pie.pdf)
 ![](/public/images/child.png)
 View [PDF](/public/downloads/child.pdf)
 
-You can also download an expanded selection of the maps [here](/public/downloads/statlas.pdf). 
+You can also download an expanded selection of the maps [here](/public/downloads/Statlas.pdf). 
 
