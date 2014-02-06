@@ -1,7 +1,7 @@
 ---
 author: Alex Singleton
 layout: post
-title: Advances in Geographic Data Science: Open Data and Systems
+title: Advances in Geographic Data Science - Open Data and Systems
 categories:
 - Talk
 ---
