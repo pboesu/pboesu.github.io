@@ -15,8 +15,8 @@ categories:
 These data relate to Middle Layer Super Output Area (MSOA) level estimates of travel to work flows by transport mode. The raw data are available from the [ONS](http://www.ons.gov.uk/ons/rel/census/2011-census/origin-destination-statistics-on-second-residences-and-workplace-for-merged-local-authorities-and-middle-layer-super-output-areas--msoas--in-england-and-wales/index.html). For the maps, the flows have been limited to those both originating and terminating within each local authority district. 
 
 ##Accessibility to Services
-![Accesibility to Services](/public/images/ACC.png) 
-The [Department of Transport](https://www.gov.uk/government/collections/transport-connectivity-and-accessibility-of-key-services-statistics) provide a range of statistics at [Lower Layer Super Output Area](https://www.gov.uk/government/statistical-data-sets/acs05-travel-time-destination-and-origin-indicators-to-key-sites-and-services-by-lower-super-output-area-lsoa) level about accesibility and connectivity to a series of key services. A subset of variables were mapped.
+![Accessibility to Services](/public/images/ACC.png) 
+The [Department of Transport](https://www.gov.uk/government/collections/transport-connectivity-and-accessibility-of-key-services-statistics) provide a range of statistics at [Lower Layer Super Output Area](https://www.gov.uk/government/statistical-data-sets/acs05-travel-time-destination-and-origin-indicators-to-key-sites-and-services-by-lower-super-output-area-lsoa) level about accessibility and connectivity to a series of key services. A subset of variables were mapped.
 
 ##Emissions associated with the school commute
 ![Emissions ](/public/images/carbon.png) 
