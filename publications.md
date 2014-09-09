@@ -8,9 +8,11 @@ For a full list of my publications, please see my [CV](/cv/).
 My Google Scholar Profile is also [here](http://scholar.google.co.uk/citations?hl=en&user=JDEfBE8AAAAJ); <img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img>= Open Access
 
 ## Papers
-<img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Singleton, A. and Brunsdon, C. (2014). [Escaping the pushpin paradigm in geographic information science: (re)presenting national crime data](http://dx.doi.org/10.1111/area.12116). Area, In Press.
+<img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img>Harris, R., Tate N., Souch, C., Singleton, A., Orford, S., Keylock, C.,  Jarvis, C. and Brunsdon, C.(2014). [Geographers Count: A Report on Quantitative Methods in Geography](http://dx.doi.org/10.11120/elss.2014.00035). Enhancing Learning in the Social Sciences, 6(2), 43-58.
 
-<img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Riddlesden, D. and Singleton, A. (2014). [Broadband speed equity: A new digital divide?](http://dx.doi.org/10.1016/j.apgeog.2014.04.008). Applied Geography, In Press.
+<img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Singleton, A. and Brunsdon, C. (2014). [Escaping the pushpin paradigm in geographic information science: (re)presenting national crime data](http://dx.doi.org/10.1111/area.12116). Area, 46(3), 294–304.
+
+<img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Riddlesden, D. and Singleton, A. (2014). [Broadband speed equity: A new digital divide?](http://dx.doi.org/10.1016/j.apgeog.2014.04.008). Applied Geography, 52, 25–33.
 
 <img class="img-openpaper" src="/public/images/iconmonstr-download-13-icon.svg"></img> Singleton, A. and Spielman, S. (2013). [The Past, Present and Future of Geodemographic Research in the United States and United Kingdom](http://dx.doi.org/10.1080/00330124.2013.848764). Professional Geographer, In Press.
 
