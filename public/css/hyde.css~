@@ -223,14 +223,6 @@ img {
   float: left;
 }
 
-.img-wide {
-  display: block;
-  margin: 0px 20px 0px 0px;
-  width: 100%; /* you can use % */
-  height: auto;
-  float: left;
-}
-
 /*
  * Custom type
  *
@@ -473,8 +465,8 @@ a:focus {
 */
 
 .img-circular{
- width: 180px;
- height: 180px;
+ width: 120px;
+ height: 120px;
  background-image: url('/public/images/IMG_8354_crop.jpg');
  background-size: cover;
  display: block;

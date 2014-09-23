@@ -20,7 +20,7 @@
               <a href="/contact/">Contact</a>
             </li>
           </ul>
-          <p>&copy; 2014. {{ site.author.name }} 
+          <p>&copy; 2014. {{ site.author.name }} All rights reserved.
         </div>
       </div>
     </header>
