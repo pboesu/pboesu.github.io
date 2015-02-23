@@ -1,18 +1,28 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 ---
 
-## Download CV <img class="img-lrgicon" src="/public/images/iconmonstr-note-30-icon.svg"></img>
+<img class="img-wide" src="/public/images/sunrise760-285.jpg"></img>  
 
-My CV is available to download as a PDF from [here](/public/downloads/CV_8_10_14.pdf). 
-
-### CV LaTex Template
-
-My CV was written in [LaTex](http://www.latex-project.org) and was based on a template I found [here](http://texblog.org/2012/04/25/writing-a-cv-in-latex/).
-
-I have extended this so all my publications are rendered from separate [Bibtex](http://www.bibtex.org) reference lists. Feel free to download the source files if you think these are helpful - [CV Source](/public/downloads/CV_8_10_14.pdf)
-
-
-
-
+| | |
+| ----------- | ------------- |
+| 2014-present |  **Postdoctoral Research Scholar** |
+|  | *Department of Integrative Biology, University of South Florida* |
+| | |
+|2010-present|**Academic Visitor**|
+||*Department of Zoology, University of Oxford*|
+|2013-2014 | **Zoological Analyst**|
+| | *Conservation Biology Group, British Antarctic Survey*|
+|2014| **PhD in Marine Biology**|
+||*University of St Andrews*
+|2013 |**Consultant (Science Communication)**|
+||*Global Ocean Commission, Oxford*|
+|2009-2013| **Postgraduate Research Student**|
+||*Scottish Oceans Institute, University of St Andrews*|
+|2010|**Master of Research in Environmental Biology**|
+||*Universities of St Andrews and Dundee*|
+|2008|**Vordiplom in Chemistry, Certificates in Biochemistry and Zoology**|
+||*Universität Marburg, Germany*|
+|2005|**Field Assistant and Bird Warden**|
+||*Wadden Sea National Park of Lower Saxony, Germany*|
