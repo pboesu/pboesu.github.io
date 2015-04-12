@@ -12,3 +12,5 @@ My PhD at the Universities of St Andrews and Oxford investigated the midwater ec
 I have recently relocated to the University of South Florida where I study the bioenergetics and foraging strategies of Antarctic albatrosses. This research is funded by the National Science Foundation and conducted in collaboration with scientists at the British Antarctic Survey and the University of Florida. 
 
 Please bear with me while this website evolves.
+
+NEWS 04/2015: <a href="http://leah.johnson-gramacy.com/albatross">The Albatross Project website is up and running!</a>

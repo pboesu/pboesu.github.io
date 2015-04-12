@@ -7,6 +7,8 @@ title: Research Projects
 ### Bioenergetics and foraging movements of Antarctic albatrosses
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://upload.wikimedia.org/wikipedia/commons/b/b7/Diomedea_exulans_2_-_SE_Tasmania.jpg"></img> Albatrosses are the largest seabirds and top-predators of the open ocean, but their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
+
+Find out more about this project <a href="http://leah.johnson-gramacy.com/albatross">here</a>.
 </td></tr></table>
 
 ### Chick-provisioning in macaroni penguins
