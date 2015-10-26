@@ -6,14 +6,14 @@ title: Research Projects
 
 ### Bioenergetics and foraging movements of Antarctic albatrosses
 <table style="width:80%"><tr><td>
-<img class="img-research" src="http://upload.wikimedia.org/wikipedia/commons/b/b7/Diomedea_exulans_2_-_SE_Tasmania.jpg"></img> Albatrosses are the largest seabirds and top-predators of the open ocean, but their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
+<img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"></img> Albatrosses are the largest seabirds and top-predators of the open ocean, but their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
 
 Find out more about this project <a href="http://leah.johnson-gramacy.com/albatross">here</a>.
 </td></tr></table>
 
 ### Chick-provisioning in macaroni penguins
 <table style="width:80%"><tr><td>
-<img class="img-research" src="http://upload.wikimedia.org/wikipedia/commons/b/b7/Macaroni_Penguin_at_Cooper_Bay%2C_South_Georgia_%285892394207%29.jpg"></img> With a global population of over 11 million individuals macaroni penguins are not only the most numerous penguins, but also the largest consumers of prey among all seabirds. I am using an automatic weighbridge to study body weights and foraging movements of marked and unmarked penguins at a study colony on Bird Island, South Georgia to better understand how macaronis forage during the breeding season and how they balance provisioning their chicks with the need to maintain their own body condition.
+<img class="img-research" src="/public/images/jumping_out_crop.gif"></img> With a global population of over 11 million individuals macaroni penguins are not only the most numerous penguins, but also the largest consumers of prey among all seabirds. I am using an automatic weighbridge to study body weights and foraging movements of marked and unmarked penguins at a study colony on Bird Island, South Georgia to better understand how macaronis forage during the breeding season and how they balance provisioning their chicks with the need to maintain their own body condition.
 </td></tr></table>
 
 ### Pelagic ecology of seamounts and islands 
@@ -23,5 +23,5 @@ Find out more about this project <a href="http://leah.johnson-gramacy.com/albatr
 
 ### Oceanic scattering layers
 <table style="width:80%"><tr><td>
-<img class="img-research" src="/public/images/DVM38kHz.jpg"></img>A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean.
+<img class="img-research" src="/public/images/DVM38kHz.jpg"></img>A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean. 
 </td></tr></table>
