@@ -13,4 +13,8 @@ I have recently relocated to the University of South Florida where I study the b
 
 Please bear with me while this website evolves.
 
-NEWS 04/2015: <a href="http://leah.johnson-gramacy.com/albatross">The Albatross Project website is up and running!</a>
+NEWS
+
+11/2015: <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
+
+04/2015: <a href="http://leah.johnson-gramacy.com/albatross">The Albatross Project website is up and running!</a>
