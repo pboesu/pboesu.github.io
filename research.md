@@ -11,6 +11,19 @@ title: Research Projects
 Find out more about this project <a href="http://leah.johnson-gramacy.com/albatross">here</a>.
 </td></tr></table>
 
+### Bayesian inference for dynamic models of biological systems
+<table style="width:80%"><tr><td>
+<img class="img-research" src="http://leah.johnson-gramacy.com/QED/wp-content/uploads/2015/12/pretty_pairs_full_model_teixdat_crop-1170x470.jpg"></img> Differential equations (DEs) are commonly used to model the temporal evolution of dynamic
+systems in science and engineering, but statistical methods for comparing DE models to data
+and for parameter inference are relatively poorly developed. This is especially problematic in
+the presence of latent model states or parameters, when observations are noisy or when only a
+small number of observed time points are available.<br>
+Bayesian approaches offer a coherent framework for parameter inference that can account for
+multiple sources of uncertainty, while making use of prior information. This approach further
+offers a rigorous methodology modeling the link between unobservable model states and
+parameters, and observable quantities.
+</td></tr></table>
+
 ### Chick-provisioning in macaroni penguins
 <table style="width:80%"><tr><td>
 <img class="img-research" src="/public/images/jumping_out_crop.gif"></img> With a global population of over 11 million individuals macaroni penguins are not only the most numerous penguins, but also the largest consumers of prey among all seabirds. I am using an automatic weighbridge to study body weights and foraging movements of marked and unmarked penguins at a study colony on Bird Island, South Georgia to better understand how macaronis forage during the breeding season and how they balance provisioning their chicks with the need to maintain their own body condition.
