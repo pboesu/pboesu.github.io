@@ -29,12 +29,20 @@ parameters, and observable quantities.
 <img class="img-research" src="/public/images/jumping_out_crop.gif"></img> With a global population of over 11 million individuals macaroni penguins are not only the most numerous penguins, but also the largest consumers of prey among all seabirds. I am using an automatic weighbridge to study body weights and foraging movements of marked and unmarked penguins at a study colony on Bird Island, South Georgia to better understand how macaronis forage during the breeding season and how they balance provisioning their chicks with the need to maintain their own body condition.
 </td></tr></table>
 
+### Oceanic scattering layers
+<table style="width:80%"><tr><td>
+<img class="img-research" src="/public/images/DVM38kHz.jpg"></img>A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean. 
+</td></tr></table>
+
+_Boersch-Supan PH_, Rogers AD and Brierley AS (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023). Deep Sea Research II
+
+_Boersch-Supan PH_, Boehme L, Read JF, Rogers AD and Brierley AS (2012). [Elephant seal foraging dives track prey distribution, not temperature: Comment on McIntyre et al. (2011)](http://dx.doi.org/10.3354/meps09890) Marine Ecology Progress Series 461, pp. 293-298
+
 ### Pelagic ecology of seamounts and islands 
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://news.bbcimg.co.uk/media/images/51453000/gif/_51453465_pic6.gif"></img>Seamounts and islands protrude into the open ocean, introducing hard boundaries to an otherwise largely unbounded habitat. The abrupt topography can trap small pelagic animals, exposing them to predators and/or concentrating them on island slopes and the summits and flanks of submarine banks. I have studied the effect of abrupt topography on the distribution of pelagic biota and their predator-prey interactions using echosounders and nets.
 </td></tr></table>
 
-### Oceanic scattering layers
-<table style="width:80%"><tr><td>
-<img class="img-research" src="/public/images/DVM38kHz.jpg"></img>A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean. 
-</td></tr></table>
+Letessier TB, De Grave S, _Boersch-Supan PH_, Kemp KM, Brierley AS, Rogers AD (2015): [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids (Lophogastridea) of the South-West Indian Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.05.009). Deep Sea Research II http://dx.doi.org/10.1016/j.dsr2.2015.05.009
+
+
