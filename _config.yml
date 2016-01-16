@@ -1,0 +1,12 @@
+title:        Philipp Boersch-Supan
+tagline:      'Philipp Boersch-Supan'
+description:  'Postdoctoral Researcher in Ecology'
+url:    http://phb.myweb.usf.edu
+version:      1.1.1
+author:
+  name:       Philipp Boersch-Supan
+  email:      phb@usf.edu
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     6
