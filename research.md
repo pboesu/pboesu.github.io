@@ -7,9 +7,12 @@ title: Research Projects
 ### Bioenergetics and foraging movements of Antarctic albatrosses
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"></img> Albatrosses are the largest seabirds and top-predators of the open ocean, but their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
-
-Find out more about this project <a href="http://leah.johnson-gramacy.com/albatross">here</a>.
 </td></tr></table>
+#### Related Links
+Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.
+
+<a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
+
 
 ### Bayesian inference for dynamic models of biological systems
 <table style="width:80%"><tr><td>
@@ -33,16 +36,17 @@ parameters, and observable quantities.
 <table style="width:80%"><tr><td>
 <img class="img-research" src="/public/images/DVM38kHz.jpg"></img>A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean. 
 </td></tr></table>
+#### Related Publications
+Boersch-Supan et al. (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023)
 
-_Boersch-Supan PH_, Rogers AD and Brierley AS (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023). Deep Sea Research II
-
-_Boersch-Supan PH_, Boehme L, Read JF, Rogers AD and Brierley AS (2012). [Elephant seal foraging dives track prey distribution, not temperature: Comment on McIntyre et al. (2011)](http://dx.doi.org/10.3354/meps09890) Marine Ecology Progress Series 461, pp. 293-298
+Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distribution, not temperature ...](http://dx.doi.org/10.3354/meps09890)
 
 ### Pelagic ecology of seamounts and islands 
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://news.bbcimg.co.uk/media/images/51453000/gif/_51453465_pic6.gif"></img>Seamounts and islands protrude into the open ocean, introducing hard boundaries to an otherwise largely unbounded habitat. The abrupt topography can trap small pelagic animals, exposing them to predators and/or concentrating them on island slopes and the summits and flanks of submarine banks. I have studied the effect of abrupt topography on the distribution of pelagic biota and their predator-prey interactions using echosounders and nets.
 </td></tr></table>
 
-Letessier TB, De Grave S, _Boersch-Supan PH_, Kemp KM, Brierley AS, Rogers AD (2015): [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids (Lophogastridea) of the South-West Indian Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.05.009). Deep Sea Research II http://dx.doi.org/10.1016/j.dsr2.2015.05.009
+#### Related Publications
+Letessier TB et al. (2015): [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids ...](http://dx.doi.org/10.1016/j.dsr2.2015.05.009)
 
 
