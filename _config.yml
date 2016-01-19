@@ -8,5 +8,6 @@ author:
   email:      phb@usf.edu
 markdown:     rdiscount
 permalink:    pretty
-pygments:     true
+highlighter:  pygments
+gems:         [jekyll-paginate]
 paginate:     6
