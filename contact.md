@@ -9,7 +9,8 @@ SCA 110 <br />
 4202 E Fowler Avenue <br />
 Tampa, FL 33610
 
-<img class="img-icon" src="../public/images/iconmonstr-email-2-icon-36px.png"></img> [phb@usf.edu](mailto:phb@usf.edu) <br />
+<i class="fa fa-envelope fa-lg"></i> [phb@usf.edu](mailto:phb@usf.edu) <br/>
+<i class="fa fa-twitter fa-lg"></i> [@pboesu](https://twitter.com/pboesu) <br/>
 
 
 
