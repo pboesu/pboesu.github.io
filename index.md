@@ -16,7 +16,7 @@ My PhD at the Universities of St Andrews and Oxford investigated the midwater ec
 
 **NEWS**
 
-02/2016: <a href="http://dx.doi.org/10.3354/meps11675">New paper on pelagic biomass around coral atolls</a>
+02/2016: <a href="http://dx.doi.org/10.3354/meps11675">Forthcoming paper on pelagic biomass around coral atolls</a>
 
 11/2015: <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
 
