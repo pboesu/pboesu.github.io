@@ -9,7 +9,7 @@ title: Research Projects
 <img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"></img> Albatrosses are the largest seabirds and top-predators of the open ocean, but their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
 </td></tr></table>
 #### Related Links
-Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.
+Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.<br>
 <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
 
 
@@ -36,7 +36,7 @@ parameters, and observable quantities.
 <img class="img-research" src="/public/images/DVM38kHz.jpg"></img>A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean. 
 </td></tr></table>
 #### Related Publications
-Boersch-Supan et al. (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023)
+Boersch-Supan et al. (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023)<br>
 Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distribution, not temperature ...](http://dx.doi.org/10.3354/meps09890)
 
 ### Pelagic ecology of seamounts and islands 
@@ -45,7 +45,7 @@ Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distributi
 </td></tr></table>
 
 #### Related Publications
-Letessier TB et al. (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675)
+Letessier TB et al. (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675)<br>
 Letessier TB et al. (2015): [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids ...](http://dx.doi.org/10.1016/j.dsr2.2015.05.009)
 
 
