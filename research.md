@@ -10,7 +10,6 @@ title: Research Projects
 </td></tr></table>
 #### Related Links
 Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.
-
 <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
 
 
@@ -38,7 +37,6 @@ parameters, and observable quantities.
 </td></tr></table>
 #### Related Publications
 Boersch-Supan et al. (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023)
-
 Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distribution, not temperature ...](http://dx.doi.org/10.3354/meps09890)
 
 ### Pelagic ecology of seamounts and islands 
@@ -47,6 +45,7 @@ Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distributi
 </td></tr></table>
 
 #### Related Publications
+Letessier TB et al. (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675)
 Letessier TB et al. (2015): [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids ...](http://dx.doi.org/10.1016/j.dsr2.2015.05.009)
 
 
