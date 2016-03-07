@@ -2,4 +2,4 @@
 *.Rproj
 .Rhistory
 .RData
-_site
+_site/
