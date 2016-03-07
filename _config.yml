@@ -10,4 +10,6 @@ markdown:     kramdown
 permalink:    pretty
 highlighter:  pygments
 gems:         [jekyll-paginate]
-paginate:     6
+paginate:     1
+paginate_path: "blog/page:num/"
+

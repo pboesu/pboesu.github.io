@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+  <div class="post">
+    <h2>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <span class="post-date">
+    <i class="fa fa-calendar"></i> {{ post.date | date_to_string }} 
+    &nbsp;&nbsp;<i class="fa fa-user"></i> {{ post.author }}
+    &nbsp;&nbsp;<i class="fa fa-tags"></i> {% for tags in post.tags %} {{ tags }} {% if forloop.last != true %} {% endif %} {% endfor %}
+    &nbsp;&nbsp;<i class="fa fa-twitter"></i>&nbsp;<a href="https://twitter.com/share?url={{ site.url | uri_escape }}{{ post.url | uri_escape }}&text={{ post.title }}" target="_blank">Tweet this!</a>
+</span>
+
+
+      {{ post.content | split: '<!-- more -->' | first }}
+      <HR>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="older">Older</a>
+  {% else %}
+    <span class="next">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a href="/" class="newer">Newer</a>
+    {% else %}
+      <a href="/page{{paginator.previous_page}}" class="newer">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="previous">Newer</span>
+  {% endif %}
+</div>

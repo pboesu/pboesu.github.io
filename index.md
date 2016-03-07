@@ -3,7 +3,7 @@ layout: page
 title: Exploring Life in the Open Ocean 
 ---
 
-<img class="img-wide" src="/public/images/IYNA_JC66_3257_wide.jpg"></img><br>
+<img class="img-wide" src="/public/images/IYNA_JC66_3257_wide.jpg"><br>
 
 I am a marine ecologist studying life in the open ocean, the so called pelagic realm. Using a combination of field observations and computational/theoretical approaches, I try to understand the physical and biological processes that shape the distribution and movements of pelagic animals and their foraging behaviours.
 
@@ -14,10 +14,12 @@ My PhD at the Universities of St Andrews and Oxford investigated the midwater ec
 
 
 
-**NEWS**
+<h3> Recent News and Blog posts  </h3>
 
-02/2016: <a href="http://dx.doi.org/10.3354/meps11675">Forthcoming paper on pelagic biomass around coral atolls</a>
-
-11/2015: <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
-
-04/2015: <a href="http://leah.johnson-gramacy.com/albatross">The Albatross Project website is up and running!</a>
+<div class="post-titles">
+  {% for post in site.posts limit: 5 %}
+   <div class="post-title">
+   {{ post.date | date_to_string }}:   <a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
+  {% endfor %}
+</div>
