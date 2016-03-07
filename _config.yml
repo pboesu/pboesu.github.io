@@ -1,12 +1,12 @@
 title:        Philipp Boersch-Supan
 tagline:      'Philipp Boersch-Supan'
 description:  'Postdoctoral Researcher in Ecology'
-url:    http://phb.myweb.usf.edu
+url:    http://pboesu.github.io
 version:      1.1.1
 author:
   name:       Philipp Boersch-Supan
-  email:      phb@usf.edu
-markdown:     rdiscount
+  email:      pboesu@gmail.com
+markdown:     kramdown
 permalink:    pretty
 highlighter:  pygments
 gems:         [jekyll-paginate]
