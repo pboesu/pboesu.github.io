@@ -5,10 +5,10 @@ layout: none
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>{{ site.title }} - R</title>
-		<description>Posts categorized as 'R'</description>
+		<description>Posts categorized as 'EcoBloggers'</description>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.R.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.tags.r limit:10 %}
+		{% for post in site.tags.EcoBloggers limit:10 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<description>{{ post.content | xml_escape }}</description>
