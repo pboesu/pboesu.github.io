@@ -4,5 +4,12 @@ layout: default
 
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.submenu %}
+              
+          {% for item in page.submenu %}
+              <a href="#{{ item.hook }}">{{ item.title }}</a>&nbsp;&nbsp;
+          {% endfor %}
+        
+{% endif %}
   {{ content }}
 </div>

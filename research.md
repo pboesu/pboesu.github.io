@@ -1,19 +1,26 @@
 ---
 layout: page
 title: Research Projects
+submenu:
+  - { hook: "albatross", title: "Albatrosses" }
+  - { hook: "deBinfer", title: "Bayesian Inference" }
+  - { hook: "weighbridge", title: "Penguins" }
+  - { hook: "SLs", title: "Scattering layers" }
+  - { hook: "seamounts", title: "Seamounts & Islands" }
 ---
 
 
-### Bioenergetics and foraging movements of Antarctic albatrosses
+### Bioenergetics and foraging movements of Antarctic albatrosses<a name="albatross">&nbsp;</a>
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"></img> Albatrosses are the largest seabirds and top-predators of the open ocean, but their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
 </td></tr></table>
+
 #### Related Links
 Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.<br>
 <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
 
 
-### Bayesian inference for dynamic models of biological systems
+### Bayesian inference for dynamic models of biological systems<a name="deBInfer">&nbsp;</a>
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://leah.johnson-gramacy.com/QED/wp-content/uploads/2015/12/pretty_pairs_full_model_teixdat_crop-1170x470.jpg"></img> Differential equations (DEs) are commonly used to model the temporal evolution of dynamic
 systems in science and engineering, but statistical methods for comparing DE models to data
@@ -26,20 +33,21 @@ offers a rigorous methodology modeling the link between unobservable model state
 parameters, and observable quantities.
 </td></tr></table>
 
-### Chick-provisioning in macaroni penguins
+### Chick-provisioning in macaroni penguins<a name="weighbridge">&nbsp;</a>
 <table style="width:80%"><tr><td>
 <img class="img-research" src="/public/images/jumping_out_crop.gif"></img> With a global population of over 11 million individuals macaroni penguins are not only the most numerous penguins, but also the largest consumers of prey among all seabirds. I am using an automatic weighbridge to study body weights and foraging movements of marked and unmarked penguins at a study colony on Bird Island, South Georgia to better understand how macaronis forage during the breeding season and how they balance provisioning their chicks with the need to maintain their own body condition.
 </td></tr></table>
 
-### Oceanic scattering layers
+### Oceanic scattering layers <a name="SLs">&nbsp;</a>
 <table style="width:80%"><tr><td>
 <img class="img-research" src="/public/images/DVM38kHz.jpg"></img>A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean. 
 </td></tr></table>
+
 #### Related Publications
 Boersch-Supan et al. (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023)<br>
 Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distribution, not temperature ...](http://dx.doi.org/10.3354/meps09890)
 
-### Pelagic ecology of seamounts and islands 
+### Pelagic ecology of seamounts and islands <a name="seamounts">&nbsp;</a>
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://news.bbcimg.co.uk/media/images/51453000/gif/_51453465_pic6.gif"></img>Seamounts and islands protrude into the open ocean, introducing hard boundaries to an otherwise largely unbounded habitat. The abrupt topography can trap small pelagic animals, exposing them to predators and/or concentrating them on island slopes and the summits and flanks of submarine banks. I have studied the effect of abrupt topography on the distribution of pelagic biota and their predator-prey interactions using echosounders and nets.
 </td></tr></table>
