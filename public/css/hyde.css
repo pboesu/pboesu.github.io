@@ -247,6 +247,13 @@ img {
   float: left;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+
 /*
  * Custom type
  *
