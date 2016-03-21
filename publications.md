@@ -9,7 +9,7 @@ My Google Scholar Profile is [here](http://scholar.google.co.uk/citations?hl=en&
 
 ## Papers
 
-Letessier TB, Cox MJ, Meeuwig JJ, _Boersch-Supan PH_, Brierley AS (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675). Marine Ecology Progress Series (in press) [Preprint PDF](../public/MEPS_BIOT_prepress.pdf) 
+Letessier TB, Cox MJ, Meeuwig JJ, _Boersch-Supan PH_, Brierley AS (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675). Marine Ecology Progress Series 546, pp. 271-276 [Preprint PDF](../public/MEPS_BIOT_prepress.pdf) 
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps11675" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
 _Boersch-Supan PH_, Rogers AD and Brierley AS (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023). Deep Sea Research II (online ahead of print) 
