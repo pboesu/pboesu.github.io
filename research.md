@@ -33,6 +33,10 @@ offers a rigorous methodology modeling the link between unobservable model state
 parameters, and observable quantities.
 </td></tr></table>
 
+#### Related Links
+*Preprint* Boersch-Supan and Johnson (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021)<br>
+*Software* [https://github.com/pboesu/debinfer](https://github.com/pboesu/debinfer)
+
 ### Chick-provisioning in macaroni penguins<a name="weighbridge">&nbsp;</a>
 <table style="width:80%"><tr><td>
 <img class="img-research" src="/public/images/jumping_out_crop.gif"></img> With a global population of over 11 million individuals macaroni penguins are not only the most numerous penguins, but also the largest consumers of prey among all seabirds. I am using an automatic weighbridge to study body weights and foraging movements of marked and unmarked penguins at a study colony on Bird Island, South Georgia to better understand how macaronis forage during the breeding season and how they balance provisioning their chicks with the need to maintain their own body condition.
