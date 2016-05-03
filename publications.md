@@ -30,5 +30,8 @@ _Boersch-Supan PH_, Boehme L, Read JF, Rogers AD and Brierley AS (2012). [Elepha
 Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills RA, Naveira-Garabato A, Pancost RD, Pearce DA, Polunin NVC, German CR, Shank T, _Boersch-Supan PH_, Alker B, Aquilina A, Bennett SA, Clarke A, Dinley RJJ, Graham ACG, Green D, Hawkes JA, Hepburn L, Hilario A, Huvenne VAI, Marsh L, Ramirez-Llodra E, Reid WDK, Roterman CN, Sweeting CJ, Thatje S, Zwirglmaier K (2012): [The discovery of new deep-sea hydrothermal vent communities in the Southern Ocean and implications for biogeography](http://dx.doi.org/10.1371/journal.pbio.1001234). PLoS Biology 10(1), e1001234 
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pbio.1001234" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
+## Forthcoming
 
+Boersch-Supan PH and Johnson LR (2015) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021) 	arXiv:1605.00021 [q-bio.QM]
+<div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
