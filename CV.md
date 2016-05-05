@@ -7,6 +7,8 @@ title: Curriculum Vitae
 
 | | |
 | ----------- | ------------- |
+| 2016 &ndash; |  **Courtesy Research Faculty** |
+|  | *Department of Geography, University of Florida* |
 | 2014 &ndash; |  **Postdoctoral Research Scholar** |
 |  | *Department of Integrative Biology, University of South Florida* |
 | | |
