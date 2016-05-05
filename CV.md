@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-<img class="img-wide" src="/public/images/sunrise760-285.jpg"></img>  
+![]("/public/images/sunrise760-285.jpg")
 
 | | |
 | ----------- | ------------- |
