@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-![]("/public/images/sunrise760-285.jpg")
+![](/public/images/sunrise760-285.jpg)
 
 | | |
 | ----------- | ------------- |
