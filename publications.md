@@ -12,7 +12,7 @@ submenu:
 
 
 ## Papers<a name="Papers">&nbsp;</a>
-My Google Scholar Profile is [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ). My Orcid ID is [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833).
+*My Google Scholar Profile is* [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ). *My Orcid ID is* [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833).
 
 Letessier TB, Cox MJ, Meeuwig JJ, _Boersch-Supan PH_, Brierley AS (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675). Marine Ecology Progress Series 546, pp. 271-276 [Preprint PDF](../public/MEPS_BIOT_prepress.pdf) 
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps11675" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
