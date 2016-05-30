@@ -38,4 +38,4 @@ Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamic
 Borrelle SB, Boersch-Supan PH, Gaskin CP and Towns DR **Influences on seabird recolonization to offshore islands following predator eradication** *submitted to Oryx 05/2016*
 
 ## Software
-Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](htpps://github.com/pboesu/debinfer) [Companion paper: arXiv:1605.00021](https://arxiv.org/abs/1605.00021)
+Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer) [Companion paper: arXiv:1605.00021](https://arxiv.org/abs/1605.00021)
