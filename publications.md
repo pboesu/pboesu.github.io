@@ -1,13 +1,18 @@
 ---
 layout: page
-title: Publications and other research outputs
+title: Publications etc.
+submenu:
+  - { hook: "Papers", title: "Papers" }
+  - { hook: "Forthcoming", title: "Forthcoming" }
+  - { hook: "Software", title: "Software" }
+  - { hook: "Presentations", title: "Presentations" }
 ---
 <!--script to render altmetric badges -->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 My Google Scholar Profile is [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ). My Orcid ID is [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833).
 
-## Papers
+## Papers<a name="Papers">&nbsp;</a>
 
 Letessier TB, Cox MJ, Meeuwig JJ, _Boersch-Supan PH_, Brierley AS (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675). Marine Ecology Progress Series 546, pp. 271-276 [Preprint PDF](../public/MEPS_BIOT_prepress.pdf) 
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps11675" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
@@ -30,12 +35,18 @@ _Boersch-Supan PH_, Boehme L, Read JF, Rogers AD and Brierley AS (2012). [Elepha
 Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills RA, Naveira-Garabato A, Pancost RD, Pearce DA, Polunin NVC, German CR, Shank T, _Boersch-Supan PH_, Alker B, Aquilina A, Bennett SA, Clarke A, Dinley RJJ, Graham ACG, Green D, Hawkes JA, Hepburn L, Hilario A, Huvenne VAI, Marsh L, Ramirez-Llodra E, Reid WDK, Roterman CN, Sweeting CJ, Thatje S, Zwirglmaier K (2012): [The discovery of new deep-sea hydrothermal vent communities in the Southern Ocean and implications for biogeography](http://dx.doi.org/10.1371/journal.pbio.1001234). PLoS Biology 10(1), e1001234 
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pbio.1001234" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
-## Forthcoming
+## Forthcoming<a name="Forthcoming">&nbsp;</a>
 
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021) 	arXiv:1605.00021 [q-bio.QM]
 <div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
 Borrelle SB, Boersch-Supan PH, Gaskin CP and Towns DR **Influences on seabird recolonization to offshore islands following predator eradication** *submitted to Oryx 05/2016*
 
-## Software
+## Software<a name="Software">&nbsp;</a>
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer) [Companion paper: arXiv:1605.00021](https://arxiv.org/abs/1605.00021)
+
+## Presentations<a name="Presentations">&nbsp;</a>
+
+Unravelling physiological and ecological determinants of albatross chick growth [Slides](http://dx.doi.org/10.6084/m9.figshare.1591048) [Twitter version](https://storify.com/pboesu/albatross-bioenergetics-at-the-world-seabird-twitt)
+
+Modelling the bioenergetics and foraging behaviours of albatrosses [Poster](https://dx.doi.org/10.6084/m9.figshare.1373940.v1)
