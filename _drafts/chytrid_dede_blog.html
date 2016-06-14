@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+<meta name="author" content="Philipp Boersch-Supan" />
+
+
+<title>New preprint - Bayesian inference for dynamical models</title>
+
+<script src="/public/chytrid_dede_blog_files/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<script src="/public/chytrid_dede_blog_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="/public/chytrid_dede_blog_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="/public/chytrid_dede_blog_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="/public/chytrid_dede_blog_files/highlight/default.css"
+      type="text/css" />
+<script src="/public/chytrid_dede_blog_files/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="/public/chytrid_dede_blog_files/navigation-1.0/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">New preprint - Bayesian inference for dynamical models</h1>
+<h4 class="author"><em>Philipp Boersch-Supan</em></h4>
+
+</div>
+
+
+<div id="preliminaries" class="section level1">
+<h1>Preliminaries</h1>
+<p>This vignette illustrates the steps needed to perform inference for a DDE model of population growth in a fungal pathogen. A detailed description of the rationale behind the Bayesian inference approach for differential equations can be found in the preprint describing the <code>deBInfer</code> package (Boersch-Supan and Johnson 2016).</p>
+<p>This example assumes that <code>deBInfer</code> is installed and loaded. If this is not the case it needs to be installed from github, which requires the devtools package (Wickham and Chang 2016).</p>
+<pre class="r"><code>install.packages(&quot;devtools&quot;)</code></pre>
+<pre class="r"><code>#Load the devtools package.
+library(devtools)</code></pre>
+<p>Then deBInfer can be installed from github.</p>
+<pre class="r"><code>install_github(&quot;pboesu/debinfer&quot;)</code></pre>
+<pre class="r"><code>library(deBInfer)</code></pre>
+</div>
+<div id="the-chytrid-population-growth-model" class="section level1">
+<h1>The chytrid population growth model</h1>
+<p>Our example demonstrates parameter inference for a DDE model of population growth in the environmentally sensitive fungal pathogen <em>Batrachochytrium dendrobatidis</em> (Bd), which causes the amphibian disease chytridiomycosis (Rosenblum et al. 2010; Voyles et al. 2012). This model has been used to further our understanding of pathogen responses to changing environmental conditions. Further details about the model development, and the experimental procedures yielding the data used for parameter inference can be found in (Voyles et al. 2012).</p>
+<p>The model follows the dynamics of the concentration of an initial cohort of zoospores, <span class="math inline">\(C\)</span>, the concentration of zoospore-producing sporangia, <span class="math inline">\(S\)</span>, and the concentration of zoospores in the next generation <span class="math inline">\(Z\)</span>. The initial cohort of zoospores, <span class="math inline">\(C\)</span>, starts at a known concentration, and zoospores in this initial cohort settle and become sporangia at rate <span class="math inline">\(s_r\)</span>, or die at rate <span class="math inline">\(\mu_Z\)</span>. <span class="math inline">\(f_s\)</span> is the fraction of sporangia that survive to the zoospore-producing stage. We assume that it takes a minimum of <span class="math inline">\(T_{min}\)</span> days before the sporangia produce zoospores, after which they produce zoospores at rate <span class="math inline">\(\eta\)</span>. Zoospore-producing sporangia die at rate <span class="math inline">\(d_s\)</span>. The concentration of zoospores, <span class="math inline">\(Z\)</span>, is the only state variable measured in the experiments, and it is assumed that these zoospores settle (<span class="math inline">\(s_r\)</span>) or die (<span class="math inline">\(\mu_Z\)</span>) at the same rates as the initial cohort of zoospores.</p>
+<div id="dde-model" class="section level2">
+<h2>DDE model</h2>
+<p>The equations that describe the population dynamics are as follows:</p>
+\begin{align}
+\frac{dC}{dt} &amp;= -(s_r +\mu_Z) C(t) \\
+\frac{dS}{dt} &amp;= s_r f_s C(t - T_{min})-d_s S(t)\\
+\frac{dZ}{dt} &amp;= \eta S(t) - (s_r+\mu_Z) Z(t)
+\end{align}
+<p>We can implement this system of differential equations for the <code>deSolve::dede</code> solver as follows. More details on how to specify differential equations for this solver can be found in the package documentation and vignettes (Soetaert, Petzoldt, and Setzer 2010).</p>
+<pre class="r"><code>#dede version
+CSZ.dede&lt;-function(t,y,p){
+
+  sr    &lt;-p[&quot;sr&quot;]
+  fs    &lt;-p[&quot;fs&quot;]
+  ds    &lt;-p[&quot;ds&quot;]
+  eta   &lt;-p[&quot;eta&quot;]
+  Tmin  &lt;-p[&quot;Tmin&quot;]
+  ##Tmax  &lt;-p[&quot;Tmax&quot;]
+  muz &lt;-p[&quot;muz&quot;]
+
+  Rs&lt;-Ms&lt;-0
+  lag1&lt;-lag2&lt;-0
+
+  if (t&gt;Tmin){
+    lag1&lt;-lagvalue(t-Tmin)
+    Rs &lt;- sr*fs*lag1[1]
+  }
+
+  phiZ &lt;- eta*y[2]
+  dy1 &lt;- -(muz+sr)*y[1]
+  dy2 &lt;- Rs - Ms - ds*y[2]
+  dy3 &lt;- phiZ - (muz+sr)*y[3]
+
+  if(y[1]&lt;0) dy1&lt;-0
+  if(y[2]&lt;0){
+    dy2 &lt;- Rs - Ms
+    dy3 &lt;- -(muz+sr)*y[3]
+  }
+  if(y[3]&lt;0){
+    dy3 &lt;- dy3+(muz+sr)*y[3]
+  }
+
+  list(c(dy1,dy2,dy3))
+}</code></pre>
+</div>
+<div id="observation-model" class="section level2">
+<h2>Observation model</h2>
+<p>Eventhough the data used in this example come from an experimental study, the system is only partially observed. We know the initial conditions for all states, but we only have observations for the second generation of Zoospores <span class="math inline">\(Z\)</span>. Because the observations are counts (i.e. discrete numbers), we assume that observations of the system at a set of discrete times <span class="math inline">\(t&#39;\)</span> are independent Poisson random variables with a mean given by the solution of the DDE, at times <span class="math inline">\(t&#39;\)</span>.</p>
+<p>The observations are provided with <code>deBInfer</code>. They can be loaded with the <code>data()</code> command.</p>
+<pre class="r"><code>#load chytrid data
+data(chytrid)
+#have a look at the variables
+head(chytrid)</code></pre>
+<pre><code>##   time count
+## 1    1     0
+## 2    1     0
+## 3    1     0
+## 4    1     0
+## 5    1     0
+## 6    1     0</code></pre>
+<pre class="r"><code>#plot the data
+plot(chytrid, xlab=&#39;Time (days)&#39;, ylab=&#39;Zoospores x 10e4&#39;, xlim=c(0,10))</code></pre>
+<div class="figure">
+<img src="/public/chytrid_dede_blog_files/figure-markdown_github/data-1.png" />
+
+</div>
+The log-likelihood of the data given the parameters, underlying model, and initial conditions is then a sum over the <span class="math inline">\(n\)</span> observations at each time point in <span class="math inline">\(t&#39;\)</span>
+\begin{equation}
+\ell(\mathbf{Z}|\mathbf{\theta})=\sum\limits^n_{t}Z_t \text{ log }\lambda-n\lambda
+\end{equation}
+<p>This can be translated into an observation model function for <code>deBInfer</code>. The observation model function must have three named arguments <code>data</code>, <code>sim.data</code>, and <code>samp</code>, as these are used by the MCMC procedure to pass in the data (as a <code>data.frame</code>, i.e. indexed using the <code>$</code> operator and the column names of the input data), the current state of the Markov chain (as a named vector), and the associated DE model solution (as a matrix-like object of class <code>deSolve</code>, i.e. indexed using the <code>[ ]</code> operator and the declared names of the state variables). We can access these inputs to define the data likelihood. In this case we have repeat measurements for each time point, so we iterate over the unique timepoints in <code>data$time</code>, and then calculate the sum log-likelihood over all matching <code>data$count</code> observations using the current value of the state variable <span class="math inline">\(Z\)</span> from the DE model solution at this point in the Markov chain.</p>
+<pre class="r"><code># observation model
+chytrid_obs_model&lt;-function(data, sim.data, samp){
+
+  ec&lt;-0.01
+  llik.Z&lt;-0
+  for(i in unique(data$time)){
+    try(llik.Z&lt;-llik.Z + sum(dpois(data$count[data$time==i], 
+                                   lambda=(sim.data[,&#39;Z&#39;][sim.data[,&#39;time&#39;]==i]+ec),
+                                   log=TRUE)))
+  }
+  llik&lt;-llik.Z
+  return(llik)
+}</code></pre>
+<p>Following Johnson et al. (2013) we employ a small correction <code>ec</code> that is needed because the DE solution can equal zero, whereas the parameter <code>lambda</code> of the Poisson likelihood must be strictly positive.</p>
+</div>
+<div id="parameter-declaration" class="section level2">
+<h2>Parameter declaration</h2>
+<p>We continue by defining the parameters for inference</p>
+<pre class="r"><code>sr &lt;- debinfer_par(name = &quot;sr&quot;, var.type = &quot;de&quot;, fixed = FALSE,
+                   value = 2, prior=&quot;gamma&quot;, hypers=list(shape = 5, rate = 1),
+                   prop.var=c(3,4), samp.type=&quot;rw-unif&quot;)
+
+fs &lt;- debinfer_par(name = &quot;fs&quot;, var.type = &quot;de&quot;, fixed = FALSE,
+                   value = 0.5, prior=&quot;beta&quot;, hypers=list(shape1 = 1, shape2 = 1),
+                   prop.var=0.01, samp.type=&quot;ind&quot;)
+
+ds &lt;- debinfer_par(name = &quot;ds&quot;, var.type = &quot;de&quot;, fixed = FALSE,
+                   value = 2, prior=&quot;gamma&quot;, hypers=list(shape = 1, rate = 1),
+                   prop.var=0.1, samp.type=&quot;rw&quot;)
+
+muz &lt;- debinfer_par(name = &quot;muz&quot;, var.type = &quot;de&quot;, fixed = FALSE,
+                    value = 1, prior=&quot;gamma&quot;, hypers=list(shape = 5, rate = 1),
+                    prop.var=c(4,5), samp.type=&quot;rw-unif&quot;)
+
+eta &lt;- debinfer_par(name = &quot;eta&quot;, var.type = &quot;de&quot;, fixed = FALSE,
+                    value = 10, prior=&quot;gamma&quot;, hypers=list(shape = 1, rate = 0.25),
+                    prop.var=5, samp.type=&quot;rw&quot;)
+
+Tmin &lt;- debinfer_par(name = &quot;Tmin&quot;, var.type = &quot;de&quot;, fixed = FALSE,
+                     value = 3, prior=&quot;unif&quot;, hypers=list(min = 2, max = 6),
+                     prop.var=0.05, samp.type=&quot;rw&quot;)
+
+
+# ----inits---------------------------------------------------------------
+C &lt;- debinfer_par(name = &quot;C&quot;, var.type = &quot;init&quot;, fixed = TRUE, value = 120)
+S &lt;- debinfer_par(name = &quot;S&quot;, var.type = &quot;init&quot;, fixed = TRUE, value = 0)
+Z &lt;- debinfer_par(name = &quot;Z&quot;, var.type = &quot;init&quot;, fixed = TRUE, value = 0)</code></pre>
+</div>
+<div id="mcmc-inference" class="section level2">
+<h2>MCMC Inference</h2>
+<p>The declared parameters are then collated using the <code>setup_debinfer</code> function. Note that <strong>the initial values must be entered in the same order, as they are specified in the DE model function</strong>, as the solver matches these values by position, rather than by name. More details can be found in <code>?deSolve::dede</code>. The remaining parameters can be entered in any order.</p>
+<pre class="r"><code># ----setup---------------------------------------------------------------
+mcmc.pars &lt;- setup_debinfer(sr, fs, ds, muz, eta, Tmin, C, S, Z)</code></pre>
+<p><code>de_mcmc</code> is the workhorse of the package and runs the MCMC estimation. The progress of the MCMC procedure can be monitored using the <code>cnt</code>, <code>plot</code> and <code>verbose</code> options: Every <code>cnt</code> iterations the function will print out information about the current state, and, if <code>plot=TRUE</code>, traceplots of the chains will be plotted. Setting <code>verbose=TRUE</code> will print additional information. Note that frequent plotting will substantially slow down the MCMC sampler, and should be used only on short runs when tuning the sampler.</p>
+<pre class="r"><code># do inference with deBInfer
+# MCMC iterations
+iter = 500
+# inference call
+dede_rev &lt;- de_mcmc(N = iter, data=chytrid, de.model=CSZ.dede,
+                               obs.model=chytrid_obs_model, all.params=mcmc.pars,
+                               Tmax = max(chytrid$time), data.times=c(0,chytrid$time), cnt=50,
+                               plot=FALSE, sizestep=0.1, solver=&quot;dede&quot;, verbose = TRUE)</code></pre>
+<p>Note that the number of iterations was set to 500 to keep the build time of the vignette within acceptable limits. For the inference results reported in Boersch-Supan and Johnson (2016) the MCMC procedure was run for 100000 iterations, which took about 4 hours on a 2014 Apple Mac mini with a 2.6 GHz Intel i5 processor.</p>
+</div>
+<div id="mcmc-diagnostics" class="section level2">
+<h2>MCMC diagnostics</h2>
+<p>We plot and summarize the MCMC chains</p>
+<pre class="r"><code>par(mfrow = c(3,4))
+plot(dede_rev, ask=FALSE, auto.layout=FALSE)</code></pre>
+<p><img src="/public/chytrid_dede_blog_files/figure-markdown_github/unnamed-chunk-1-1.png" /> From the traceplot we can see that with only 500 iterations the chains have neither mixed well, nor reached stationarity. For demonstration purposes we remove a burnin period of 100 samples and have a look at parameter correlations, and the overlap between the posterior and prior densities.</p>
+<pre class="r"><code>burnin = 100
+pairs(dede_rev, burnin = burnin, scatter=TRUE, trend=TRUE)</code></pre>
+<div class="figure">
+<img src="/public/chytrid_dede_blog_files/figure-markdown_github/unnamed-chunk-2-1.png" />
+
+</div>
+<pre class="r"><code>post_prior_densplot(dede_rev, burnin = burnin)</code></pre>
+<p><img src="/public/chytrid_dede_blog_files/figure-markdown_github/unnamed-chunk-2-2.png" /> More control over the <code>post_prior_densplot</code> can be achieved by plotting the parameters individually, using the <code>param</code> option. This way the x and y limits of the plots can be adjusted to show a larger portion of the prior support, and fancy labels can be added.</p>
+<pre class="r"><code>par(mfrow=c(2,3), mgp=c(2.2, 0.8, 0))
+#define a fancy y axis label
+ylabel = expression(paste(Pr,&quot;(&quot;, theta,&quot;|&quot;, &quot;Y&quot;, &quot;)&quot;))
+#plot the individual parameters
+post_prior_densplot(dede_rev, param=&quot;sr&quot;,xlab=expression(theta), 
+                    ylab=ylabel, show.obs=FALSE, xlim=c(0,8), 
+                    main=expression(paste(&quot;s&quot;,phantom()[{paste(&quot;r&quot;)}])))
+legend(&quot;topright&quot;, legend=c(&quot;Posterior&quot;,&quot;Prior&quot;), lty = 1, col = c(&quot;black&quot;, &quot;red&quot;))
+post_prior_densplot(dede_rev, param=&quot;fs&quot;,xlab=expression(theta), 
+                    ylab=ylabel, show.obs=FALSE, xlim=c(-0.1,1.1), 
+                    main=expression(paste(&quot;f&quot;,phantom()[{paste(&quot;s&quot;)}])))
+post_prior_densplot(dede_rev, param=&quot;ds&quot;,xlab=expression(theta),
+                    ylab=ylabel, show.obs=FALSE, xlim=c(0,3), 
+                    main=expression(paste(&quot;d&quot;,phantom()[{paste(&quot;s&quot;)}])))
+post_prior_densplot(dede_rev, param=&quot;muz&quot;,xlab=expression(theta),
+                    ylab=ylabel, show.obs=FALSE, xlim=c(0,6), 
+                    main=expression(paste(mu,phantom()[{paste(&quot;Z&quot;)}])))
+post_prior_densplot(dede_rev, param=&quot;eta&quot;,xlab=expression(theta),
+                    ylab=ylabel, show.obs=FALSE, xlim=c(0,50), ylim=c(0,0.2), 
+                    main=expression(eta))
+post_prior_densplot(dede_rev, param=&quot;Tmin&quot;,xlab=expression(theta),
+                    ylab=ylabel, show.obs=FALSE, xlim=c(1.5,6.5), 
+                    main=expression(paste(&quot;T&quot;,phantom()[{paste(&quot;min&quot;)}])))</code></pre>
+<div class="figure">
+<img src="/public/chytrid_dede_blog_files/figure-markdown_github/unnamed-chunk-3-1.png" />
+
+</div>
+</div>
+<div id="simulating-posterior-trajectories" class="section level2">
+<h2>Simulating posterior trajectories</h2>
+<p>We simulate 100 DE model trajectories from the posterior and calculate the 95% highest posterior density interval for the deterministic part of the model.</p>
+<pre class="r"><code>post_traj &lt;- post_sim(dede_rev, n=100, times=0:100, burnin=burnin, output = &#39;all&#39;, prob = 0.95)</code></pre>
+<p>We can visualise the median posterior trajectory and the highest posterior density interval using</p>
+<pre class="r"><code>#median and HDI
+par(mfrow=c(1,3))
+plot(post_traj, plot.type = &quot;medianHDI&quot;, auto.layout = FALSE)
+legend(&quot;topright&quot;, legend=c(&quot;posterior median&quot;, &quot;95% HDI&quot;), lty=1, col=c(&quot;red&quot;,&quot;grey&quot;), bty=&#39;n&#39;)</code></pre>
+<p><img src="/public/chytrid_dede_blog_files/figure-markdown_github/post-sims-plot-1.png" /> Alternatively we can plot an ensemble of posterior trajectories using</p>
+<pre class="r"><code>plot(post_traj, plot.type = &quot;ensemble&quot;, col = &quot;#FF000040&quot;)</code></pre>
+<div class="figure">
+<img src="/public/chytrid_dede_blog_files/figure-markdown_github/post-sims-ensemble-1.png" />
+
+</div>
+</div>
+</div>
+<div id="references" class="section level1">
+<h1>References</h1>
+<p>Boersch-Supan, Philipp, and Leah Johnson. 2016. “deBinfer: Bayesian Inference for Dynamical Models of Biological Systems.” <em>ArXiv</em> 1605.00021. <a href="https://arxiv.org/abs/1605.00021" class="uri">https://arxiv.org/abs/1605.00021</a>.</p>
+<p>Johnson, Leah R, Laure Pecquerie, and Roger M Nisbet. 2013. “Bayesian Inference for Bioenergetic Models.” <em>Ecology</em> 94 (4). Eco Soc America: 882–94.</p>
+<p>Rosenblum, Erica Bree, Jamie Voyles, Thomas J Poorten, and Jason E Stajich. 2010. “The Deadly Chytrid Fungus: A Story of an Emerging Pathogen.” <em>PLoS Pathogens</em> 6 (1): 1–3. <a href="doi:%5B10.1371/journal.ppat.1000550%5D(https://doi.org/10.1371/journal.ppat.1000550)" class="uri">doi:[10.1371/journal.ppat.1000550](https://doi.org/10.1371/journal.ppat.1000550)</a>.</p>
+<p>Soetaert, KER, Thomas Petzoldt, and R Woodrow Setzer. 2010. “Solving Differential Equations in R: Package DeSolve.” <em>Journal of Statistical Software</em> 33 (9): 1–25.</p>
+<p>Voyles, Jamie, Leah R Johnson, Cheryl J Briggs, Scott D Cashins, Ross A Alford, Lee Berger, Lee F Skerratt, Rick Speare, and Erica Bree Rosenblum. 2012. “Temperature Alters Reproductive Life History Patterns in <em>Batrachochytrium Dendrobatidis</em>, a Lethal Pathogen Associated with the Global Loss of Amphibians.” <em>Ecology and Evolution</em> 2 (9). Wiley Online Library: 2241–9.</p>
+<p>Wickham, Hadley, and Winston Chang. 2016. <em>Devtools: Tools to Make Developing R Packages Easier</em>. <a href="http://CRAN.R-project.org/package=devtools" class="uri">http://CRAN.R-project.org/package=devtools</a>.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
