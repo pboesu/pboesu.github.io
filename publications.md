@@ -38,7 +38,7 @@ Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills 
 ## Forthcoming<a name="Forthcoming">&nbsp;</a>
 
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021)  *submitted to Methods in Ecology and Evolution 06/2016* 
-<div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div> [![arXiv:1605.00021](http://img.shields.io/badge/bio.QM-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
+<div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div> [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
 
 Borrelle SB, Boersch-Supan PH, Gaskin CP and Towns DR **Influences on seabird recolonization to offshore islands following predator eradication** *submitted to Oryx 05/2016*
 
@@ -47,7 +47,7 @@ Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography tra
 ## Software<a name="Software">&nbsp;</a>
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer)
 
-[![Travis-CI Build Status](https://travis-ci.org/pboesu/debinfer.svg?branch=master)](https://travis-ci.org/pboesu/debinfer)  [![DOI](https://zenodo.org/badge/21877/pboesu/debinfer.svg)](https://zenodo.org/badge/latestdoi/21877/pboesu/debinfer) [![arXiv:1605.00021](http://img.shields.io/badge/bio.QM-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
+[![Travis-CI Build Status](https://travis-ci.org/pboesu/debinfer.svg?branch=master)](https://travis-ci.org/pboesu/debinfer)  [![DOI](https://zenodo.org/badge/21877/pboesu/debinfer.svg)](https://zenodo.org/badge/latestdoi/21877/pboesu/debinfer) [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
 
 ## Presentations<a name="Presentations">&nbsp;</a>
 
