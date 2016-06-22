@@ -38,7 +38,7 @@ Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills 
 ## Forthcoming<a name="Forthcoming">&nbsp;</a>
 
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021)
-<div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div> [![arXiv:1605.00021](http://img.shields.io/badge/bio.QM-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
+<div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div> [![arXiv:1605.00021](http://img.shields.io/badge/bio.QM-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021) *submitted to Methods in Ecology and Evolution 06/2016* 
 
 Borrelle SB, Boersch-Supan PH, Gaskin CP and Towns DR **Influences on seabird recolonization to offshore islands following predator eradication** *submitted to Oryx 05/2016*
 
@@ -51,6 +51,9 @@ Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamic
 
 ## Presentations<a name="Presentations">&nbsp;</a>
 
-Unravelling physiological and ecological determinants of albatross chick growth [Slides](http://dx.doi.org/10.6084/m9.figshare.1591048) [Twitter version](https://storify.com/pboesu/albatross-bioenergetics-at-the-world-seabird-twitt)
+**Unravelling physiological and ecological determinants of albatross chick growth** 
+[Slides presented at the World Seabird Conference, Capetown, 11/2015](http://dx.doi.org/10.6084/m9.figshare.1591048) 
+[Twitter version from the World Seabird Twitter Conference](https://storify.com/pboesu/albatross-bioenergetics-at-the-world-seabird-twitt)
 
-Modelling the bioenergetics and foraging behaviours of albatrosses [Poster](https://dx.doi.org/10.6084/m9.figshare.1373940.v1)
+**Modelling the bioenergetics and foraging behaviours of albatrosses**
+[Poster presented at the Dynamic Energy Budget Theory Symposium in Marseilles, 05/2015](https://dx.doi.org/10.6084/m9.figshare.1373940.v1)
