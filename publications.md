@@ -42,7 +42,7 @@ Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamic
 
 Borrelle SB, Boersch-Supan PH, Gaskin CP and Towns DR **Influences on seabird recolonization to offshore islands following predator eradication** *submitted to Oryx 05/2016*
 
-Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to Ecography 06/2016* 
+Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** ~~submitted to Ecography 06/2016~~ 
 
 ## Software<a name="Software">&nbsp;</a>
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer)
@@ -50,6 +50,12 @@ Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamic
 [![Travis-CI Build Status](https://travis-ci.org/pboesu/debinfer.svg?branch=master)](https://travis-ci.org/pboesu/debinfer)  [![DOI](https://zenodo.org/badge/21877/pboesu/debinfer.svg)](https://zenodo.org/badge/latestdoi/21877/pboesu/debinfer) [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
 
 ## Presentations<a name="Presentations">&nbsp;</a>
+
+**deBInfer: Bayesian inference for dynamical models of biological systems in R**
+[Poster presented at the International Society for Bayesian Analysis 2016 Conference](https://dx.doi.org/10.6084/m9.figshare.3466400.v1)
+
+**Changing measurements of changing movements? - Detecting movement patterns across multiple generations of tracking technology**
+[Poster presented at the International Statistical Ecology Conference, Seattle, 06/2016](https://dx.doi.org/10.6084/m9.figshare.3466403.v1)
 
 **Unravelling physiological and ecological determinants of albatross chick growth** 
 [Slides presented at the World Seabird Conference, Capetown, 11/2015](http://dx.doi.org/10.6084/m9.figshare.1591048) 
