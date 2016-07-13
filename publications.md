@@ -42,7 +42,7 @@ Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamic
 
 Borrelle SB, Boersch-Supan PH, Gaskin CP and Towns DR **Influences on seabird recolonization to offshore islands following predator eradication** *submitted to Oryx 05/2016*
 
-Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** ~~submitted to Ecography 06/2016~~ 
+Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to* ~~Ecography 06/2016~~ *Microbiome* 
 
 ## Software<a name="Software">&nbsp;</a>
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer)
@@ -51,15 +51,15 @@ Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamic
 
 ## Presentations<a name="Presentations">&nbsp;</a>
 
-**deBInfer: Bayesian inference for dynamical models of biological systems in R**
+**deBInfer: Bayesian inference for dynamical models of biological systems in R**<br>
 [Poster presented at the International Society for Bayesian Analysis 2016 Conference](https://dx.doi.org/10.6084/m9.figshare.3466400.v1)
 
-**Changing measurements of changing movements? - Detecting movement patterns across multiple generations of tracking technology**
+**Changing measurements of changing movements? - Detecting movement patterns across multiple generations of tracking technology**<br>
 [Poster presented at the International Statistical Ecology Conference, Seattle, 06/2016](https://dx.doi.org/10.6084/m9.figshare.3466403.v1)
 
-**Unravelling physiological and ecological determinants of albatross chick growth** 
+**Unravelling physiological and ecological determinants of albatross chick growth** <br>
 [Slides presented at the World Seabird Conference, Capetown, 11/2015](http://dx.doi.org/10.6084/m9.figshare.1591048) 
 [Twitter version from the World Seabird Twitter Conference](https://storify.com/pboesu/albatross-bioenergetics-at-the-world-seabird-twitt)
 
-**Modelling the bioenergetics and foraging behaviours of albatrosses**
+**Modelling the bioenergetics and foraging behaviours of albatrosses**<br>
 [Poster presented at the Dynamic Energy Budget Theory Symposium in Marseilles, 05/2015](https://dx.doi.org/10.6084/m9.figshare.1373940.v1)
