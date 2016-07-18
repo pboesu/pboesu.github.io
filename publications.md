@@ -49,7 +49,7 @@ Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamic
 
 [![Travis-CI Build Status](https://travis-ci.org/pboesu/debinfer.svg?branch=master)](https://travis-ci.org/pboesu/debinfer)  [![DOI](https://zenodo.org/badge/21877/pboesu/debinfer.svg)](https://zenodo.org/badge/latestdoi/21877/pboesu/debinfer) [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
 
-## Presentations<a name="Presentations">&nbsp;</a>
+## Selected Presentations<a name="Presentations">&nbsp;</a>
 
 **deBInfer: Bayesian inference for dynamical models of biological systems in R**<br>
 [Poster presented at the International Society for Bayesian Analysis 2016 Conference](https://dx.doi.org/10.6084/m9.figshare.3466400.v1)
