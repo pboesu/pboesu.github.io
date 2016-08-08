@@ -11,7 +11,6 @@ title: Curriculum Vitae
 |  | *Department of Geography, University of Florida* |
 | 2014 &ndash; 2016 |  **Postdoctoral Research Scholar** |
 |  | *Department of Integrative Biology, University of South Florida* |
-| | |
 |2013 &ndash; 2014 &nbsp;| **Zoological Analyst**|
 | | *Conservation Biology Group, British Antarctic Survey*|
 |2014| **PhD in Marine Biology**|
