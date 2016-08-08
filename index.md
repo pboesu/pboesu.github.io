@@ -5,9 +5,9 @@ title: Exploring Life in the Open Ocean
 
 <img class="img-wide" src="/public/images/IYNA_JC66_3257_wide.jpg"><br>
 
-I am a marine ecologist studying life in the open ocean, the so called pelagic realm. Using a combination of field observations and computational/theoretical approaches, I try to understand the physical and biological processes that shape the distribution and movements of pelagic animals and their foraging behaviours.
+I am a marine ecologist studying life in the open ocean, the so called pelagic realm. Using a combination of field observations and computational/theoretical approaches, I try to understand the physical and biological processes that shape the distribution and movements of pelagic animals and their foraging behaviours. I am also more broadly interested in quantitative tools for ecological research.
 
-I am currently a postdoctoral scholar the University of South Florida and courtesy faculty at the University of Florida where I study the bioenergetics and foraging strategies of Antarctic albatrosses. This research is funded by the National Science Foundation and conducted in collaboration with scientists at the British Antarctic Survey. 
+I am currently a postdoctoral associate at the University of Florida where I study the bioenergetics and foraging strategies of Antarctic albatrosses. This research is funded by the National Science Foundation and conducted in collaboration with scientists at Virginia Tech and the British Antarctic Survey. 
 
 My PhD at the Universities of St Andrews and Oxford investigated the midwater ecology around seamounts and atolls in the Central and Southern Indian Ocean. I then worked on resource allocation strategies in macaroni penguins at the British Antarctic Survey. 
 
