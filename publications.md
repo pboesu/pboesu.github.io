@@ -47,6 +47,7 @@ Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography tra
 ## Software<a name="Software">&nbsp;</a>
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer)
 
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/deBInfer)](https://cran.r-project.org/package=deBInfer)
 [![Travis-CI Build Status](https://travis-ci.org/pboesu/debinfer.svg?branch=master)](https://travis-ci.org/pboesu/debinfer)  [![DOI](https://zenodo.org/badge/21877/pboesu/debinfer.svg)](https://zenodo.org/badge/latestdoi/21877/pboesu/debinfer) [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
