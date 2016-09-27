@@ -42,7 +42,7 @@ Borrelle SB, Boersch-Supan PH, Gaskin CP and Towns DR **Influences on recovery o
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021)  *submitted to Methods in Ecology and Evolution 06/2016* 
 <div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div> [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
 
-Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to* ~~Ecography~~ *Microbiome* 
+Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to RSOS* 
 
 ## Software<a name="Software">&nbsp;</a>
 Boersch-Supan PH and Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer)
