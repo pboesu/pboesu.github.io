@@ -45,11 +45,14 @@ Boersch-Supan PH, Ryan SJ, Johnson LR (2016) [deBInfer: Bayesian inference for d
 Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to RSOS* 
 
 ## Software<a name="Software">&nbsp;</a>
-Boersch-Supan PH, Ryan SJ, Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer)
-
+[deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer) (with SJ Ryan and LR Johnson)<br>
+An R framework for Bayesian parameter inference in ordinary and delay differential equation models.<br>
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/deBInfer)](https://cran.r-project.org/package=deBInfer)
 [![Travis-CI Build Status](https://travis-ci.org/pboesu/debinfer.svg?branch=master)](https://travis-ci.org/pboesu/debinfer)  [![DOI](https://zenodo.org/badge/21877/pboesu/debinfer.svg)](https://zenodo.org/badge/latestdoi/21877/pboesu/debinfer) [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
 
+[ryanlabloggers](https://github.com/RyanLab/ryanlabloggers)<br>
+This package provides functions to parse and reshape microclimate logger data (e.g. iButton Hygrochron, HOBO pendant loggers). <br>
+[![Travis-CI Build Status](https://travis-ci.org/RyanLab/ryanlabloggers.svg?branch=master)](https://travis-ci.org/RyanLab/ryanlabloggers) 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
 **deBInfer: Bayesian inference for dynamical models of biological systems in R**<br>
