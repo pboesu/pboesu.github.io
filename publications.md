@@ -53,6 +53,7 @@ An R framework for Bayesian parameter inference in ordinary and delay differenti
 [ryanlabloggers](https://github.com/RyanLab/ryanlabloggers)<br>
 This package provides functions to parse and reshape microclimate logger data (e.g. iButton Hygrochron, HOBO pendant loggers). <br>
 [![Travis-CI Build Status](https://travis-ci.org/RyanLab/ryanlabloggers.svg?branch=master)](https://travis-ci.org/RyanLab/ryanlabloggers) 
+
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
 **deBInfer: Bayesian inference for dynamical models of biological systems in R**<br>
