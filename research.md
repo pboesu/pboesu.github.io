@@ -33,7 +33,7 @@ offers a rigorous methodology modeling the link between unobservable model state
 parameters, and observable quantities.
 </td></tr></table>
 
-**Preprint:** Boersch-Supan and Johnson (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021)<br>
+**Preprint:** Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021)<br>
 **Software:** [https://github.com/pboesu/debinfer](https://github.com/pboesu/debinfer)
 
 ### Chick-provisioning in macaroni penguins<a name="weighbridge">&nbsp;</a>
