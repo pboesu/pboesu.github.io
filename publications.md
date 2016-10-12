@@ -14,6 +14,11 @@ submenu:
 ## Papers<a name="Papers">&nbsp;</a>
 _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ). _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833).
 
+Boersch-Supan PH, Ryan SJ, Johnson LR (in press): [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021). Methods in Ecology and Evolution
+<div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div> [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
+
+Borrelle SB, Boersch-Supan PH, Gaskin CP, Towns DR (in press): Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes. Oryx
+
 Letessier TB, Cox MJ, Meeuwig JJ, _Boersch-Supan PH_, Brierley AS (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675). Marine Ecology Progress Series 546, pp. 271-276 [Preprint PDF](../public/MEPS_BIOT_prepress.pdf) 
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps11675" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
@@ -36,12 +41,6 @@ Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills 
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pbio.1001234" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
 ## Forthcoming<a name="Forthcoming">&nbsp;</a>
-
-Borrelle SB, Boersch-Supan PH, Gaskin CP, Towns DR **Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes** *accepted at Oryx 07/2016*
-
-Boersch-Supan PH, Ryan SJ, Johnson LR (2016) [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021)  *accepted at Methods in Ecology and Evolution 10/2016* 
-<div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div> [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
-
 Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to RSOS* 
 
 ## Software<a name="Software">&nbsp;</a>
