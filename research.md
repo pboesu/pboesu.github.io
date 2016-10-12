@@ -4,8 +4,8 @@ title: Research Projects
 submenu:
   - { hook: "albatross", title: "Seabirds" }
   - { hook: "deBinfer", title: "Bayesian Inference" }
-  - { hook: "SLs", title: "Open ocean" }
   - { hook: "seamounts", title: "Seamounts & Islands" }
+  - { hook: "SLs", title: "Open ocean" }
 ---
 
 ## Seabird Ecology<a name="albatross">&nbsp;</a>
@@ -52,6 +52,7 @@ Letessier TB et al. (2016): [Enhanced pelagic biomass around coral atolls](http:
 Letessier TB et al. (2015): [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids ...](http://dx.doi.org/10.1016/j.dsr2.2015.05.009)
 
 ## Open ocean ecology<a name="SLs">&nbsp;</a>
+
 ### Oceanic scattering layers
 <table style="width:80%"><tr><td>
 <img class="img-research" src="/public/images/DVM38kHz.jpg">A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean. 
