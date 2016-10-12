@@ -4,12 +4,12 @@ title: Research Projects
 submenu:
   - { hook: "albatross", title: "Seabirds" }
   - { hook: "deBinfer", title: "Bayesian Inference" }
-  - { hook: "weighbridge", title: "Penguins" }
-  - { hook: "SLs", title: "Open ocean ecology" }
+  - { hook: "SLs", title: "Open ocean" }
   - { hook: "seamounts", title: "Seamounts & Islands" }
 ---
 
 ## Seabird Ecology<a name="albatross">&nbsp;</a>
+
 ### Bioenergetics and foraging movements of Antarctic albatrosses
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> Albatrosses are the largest seabirds and top-predators of the open ocean, but their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
