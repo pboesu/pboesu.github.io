@@ -14,8 +14,8 @@ submenu:
 ## Papers<a name="Papers">&nbsp;</a>
  _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833). _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ).
 
-*Boersch-Supan PH*, Ryan SJ, Johnson LR (in press): [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021). Methods in Ecology and Evolution
-<div data-badge-popover="right" data-badge-type="2" data-arxiv-id='1605.00021' data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div> [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
+*Boersch-Supan PH*, Ryan SJ, Johnson LR (in press): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679). Methods in Ecology and Evolution
+<div data-badge-popover="right" data-badge-type="2" data-doi="10.1111/2041-210X.12679" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div> [![DOI:10.1111/2041-210X.12679](https://img.shields.io/badge/DOI-10.1111%2F2041--210X.12679-blue.svg)](http://doi.org/10.1111/2041-210X.12679)
 
 Borrelle SB, *Boersch-Supan PH*, Gaskin CP, Towns DR (in press): Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes. Oryx. [Abstract](https://www.researchgate.net/publication/308792772_Influences_on_seabird_recolonization_to_offshore_islands_following_predator_eradication)
 
@@ -47,11 +47,11 @@ Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography tra
 [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer) (with SJ Ryan and LR Johnson)<br>
 An R framework for Bayesian parameter inference in ordinary and delay differential equation models.<br>
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/deBInfer)](https://cran.r-project.org/package=deBInfer)
-[![Travis-CI Build Status](https://travis-ci.org/pboesu/debinfer.svg?branch=master)](https://travis-ci.org/pboesu/debinfer)  [![DOI](https://zenodo.org/badge/21877/pboesu/debinfer.svg)](https://zenodo.org/badge/latestdoi/21877/pboesu/debinfer) [![arXiv:1605.00021](http://img.shields.io/badge/Preprint-arXiv:1605.00021-B31B1B.svg)](https://arxiv.org/abs/1605.00021)
+[![Travis-CI Build Status](https://travis-ci.org/pboesu/debinfer.svg?branch=master)](https://travis-ci.org/pboesu/debinfer)
 
-[ryanlabloggers](https://github.com/RyanLab/ryanlabloggers)<br>
+[microclimloggers](https://github.com/RyanLab/ryanlabloggers)<br>
 This package provides functions to parse and reshape microclimate logger data (e.g. iButton Hygrochron, HOBO pendant loggers). <br>
-[![Travis-CI Build Status](https://travis-ci.org/RyanLab/ryanlabloggers.svg?branch=master)](https://travis-ci.org/RyanLab/ryanlabloggers) 
+[![Travis-CI Build Status](https://travis-ci.org/RyanLab/microclimloggers.svg?branch=master)](https://travis-ci.org/RyanLab/microclimloggers) 
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
