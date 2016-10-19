@@ -53,6 +53,10 @@ An R framework for Bayesian parameter inference in ordinary and delay differenti
 This package provides functions to parse and reshape microclimate logger data (e.g. iButton Hygrochron, HOBO pendant loggers). <br>
 [![Travis-CI Build Status](https://travis-ci.org/RyanLab/microclimloggers.svg?branch=master)](https://travis-ci.org/RyanLab/microclimloggers) 
 
+[rucrdtw](https://github.com/pboesu/rucrdtw)<br>
+Fast time series subsequence search under dynamic time warping in R. This package provides R bindings for functions from the [UCR Suite](http://www.cs.ucr.edu/~eamonn/UCRsuite.html). <br>
+[![Travis-CI Build Status](https://travis-ci.org//pboesu/rucrdtw.svg?branch=master)](https://travis-ci.org/RyanLab/microclimloggers) 
+
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
 **deBInfer: Bayesian inference for dynamical models of biological systems in R**<br>
