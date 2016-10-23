@@ -41,7 +41,9 @@ Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills 
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pbio.1001234" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
 ## Forthcoming<a name="Forthcoming">&nbsp;</a>
-Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to RSOS* 
+Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to Royal Society Open Science* 
+
+Boersch-Supan PH **rucrdtw: Fast time series subsequence search in R** *submitted to the Journal of Open Source Software* 
 
 ## Software<a name="Software">&nbsp;</a>
 [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer) (with SJ Ryan and LR Johnson)<br>
