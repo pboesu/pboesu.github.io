@@ -57,7 +57,7 @@ This package provides functions to parse and reshape microclimate logger data (e
 
 [rucrdtw](https://github.com/pboesu/rucrdtw)<br>
 Fast time series subsequence search under dynamic time warping in R. This package provides R bindings for functions from the [UCR Suite](http://www.cs.ucr.edu/~eamonn/UCRsuite.html). <br>
-[![Travis-CI Build Status](https://travis-ci.org//pboesu/rucrdtw.svg?branch=master)](https://travis-ci.org/RyanLab/microclimloggers) 
+[![Travis-CI Build Status](https://travis-ci.org//pboesu/rucrdtw.svg?branch=master)](https://github.com/pboesu/rucrdtw) 
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
