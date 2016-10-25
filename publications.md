@@ -33,7 +33,7 @@ Laptikovsky V, _Boersch-Supan PH_, Bolstad K, Kemp KM, Letessier TB, Rogers AD (
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.dsr2.2015.07.002" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
 
-_Boersch-Supan PH_, Boehme L, Read JF, Rogers AD and Brierley AS (2012). [Elephant seal foraging dives track prey distribution, not temperature: Comment on McIntyre et al. (2011)](http://dx.doi.org/10.3354/meps09890) Marine Ecology Progress Series 461, pp. 293-298 
+_Boersch-Supan PH_, Boehme L, Read JF, Rogers AD and Brierley AS (2012). [Elephant seal foraging dives track prey distribution, not temperature: Comment on McIntyre et al. (2011)](http://dx.doi.org/10.3354/meps09890) Marine Ecology Progress Series 461, pp. 293-298 [Preprint PDF](../public/Boersch-Supan_2012_ElephantSeals_MEPS.pdf) 
 <div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps09890" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>
 
 
