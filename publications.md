@@ -21,7 +21,7 @@ submenu:
 <!--<div data-badge-popover="right" data-badge-type="4" data-doi="10.1111/2041-210X.12679" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 
-Borrelle SB, *Boersch-Supan PH*, Gaskin CP, Towns DR (in press): Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes. Oryx. <br>
+Borrelle SB, *Boersch-Supan PH*, Gaskin CP, Towns DR (in press): [Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes](../public/Borrelle_et_al_2016_prepress.pdf). Oryx. <br>
 ![DOI:Pending](https://img.shields.io/badge/DOI-Pending-blue.svg) 
 [![Free Abstract](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Borrelle_et_al_2016_prepress.pdf)
 
