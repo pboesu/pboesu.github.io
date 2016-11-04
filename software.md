@@ -3,7 +3,6 @@ layout: page
 title: Research Software
 ---
 
-## Software<a name="Software">&nbsp;</a>
 [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer) (with SJ Ryan and LR Johnson)<br>
 An R framework for Bayesian parameter inference in ordinary and delay differential equation models.<br>
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
