@@ -4,7 +4,7 @@ title: Publications etc.
 submenu:
   - { hook: "Papers", title: "Papers" }
   - { hook: "Forthcoming", title: "Forthcoming" }
-  - { hook: "Software", title: "Software" }
+  - { href: "/software", title: "Software" }
   - { hook: "Presentations", title: "Presentations" }
 ---
 <!--script to render altmetric badges -->
