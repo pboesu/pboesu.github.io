@@ -11,7 +11,7 @@ layout: default
               <a href="#{{ item.hook }}">{{ item.title }}</a>&nbsp;&nbsp;
               {% endif %}
               {% if item.href %}
-              <a href="#{{ item.hook }}">{{ item.title }}</a>&nbsp;&nbsp;
+              <a href="{{ item.href }}">{{ item.title }}</a>&nbsp;&nbsp;
               {% endif %}
           {% endfor %}
         
