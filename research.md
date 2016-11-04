@@ -38,7 +38,7 @@ offers a rigorous methodology modeling the link between unobservable model state
 parameters, and observable quantities.
 </td></tr></table>
 
-**Preprint:** Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://arxiv.org/abs/1605.00021)<br>
+**Paper:** Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)<br>
 **Software:** [https://github.com/pboesu/debinfer](https://github.com/pboesu/debinfer)
 
 ## Ecology of seamounts and islands <a name="seamounts">&nbsp;</a>
@@ -47,7 +47,7 @@ parameters, and observable quantities.
 </td></tr></table>
 
 #### Related Publications
-Borrelle, Boersch-Supan et al. (2016): [Recovery of seabirds on islands eradicated of invasive predators](https://www.researchgate.net/publication/308792772_Influences_on_seabird_recolonization_to_offshore_islands_following_predator_eradication)<br>
+Borrelle, Boersch-Supan et al. (2016): [Recovery of seabirds on islands eradicated of invasive predators](../public/Borrelle_et_al_2016_prepress.pdf)<br>
 Letessier TB et al. (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675)<br>
 Letessier TB et al. (2015): [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids ...](http://dx.doi.org/10.1016/j.dsr2.2015.05.009)
 
