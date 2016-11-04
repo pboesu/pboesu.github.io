@@ -7,7 +7,12 @@ layout: default
   {% if page.submenu %}
               
           {% for item in page.submenu %}
+              {% if item.hook %}
               <a href="#{{ item.hook }}">{{ item.title }}</a>&nbsp;&nbsp;
+              {% endif %}
+              {% if item.href %}
+              <a href="#{{ item.hook }}">{{ item.title }}</a>&nbsp;&nbsp;
+              {% endif %}
           {% endfor %}
         
 {% endif %}
