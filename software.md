@@ -2,6 +2,11 @@
 layout: page
 title: Research Software
 ---
+The computational tools I develop in my own work are often useful beyond that particular question. I aim to generalize these solutions for the use in other fields, and package them as open research software. You can follow my software development activity on [github](https://github.com/pboesu).
+
+
+
+## Software packages I am a lead developer for
 
 [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer) (with SJ Ryan and LR Johnson)<br>
 An R framework for Bayesian parameter inference in ordinary and delay differential equation models.<br>
@@ -20,3 +25,9 @@ Fast time series subsequence search under dynamic time warping in R. This packag
 This package provides functions to parse and reshape microclimate logger data (e.g. iButton Hygrochron, HOBO pendant loggers). <br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 [![Travis-CI Build Status](https://travis-ci.org/RyanLab/microclimloggers.svg?branch=master)](https://travis-ci.org/RyanLab/microclimloggers) 
+
+## Other contributions
+
+Software is fundamental to modern ecological research, yet it is poorly integrated in todays scholarly practice, and receives little acknowledgement in the scholarly record. I strongly believe that research software should be treated on the same basis as other scholarly products such as papers, books, and data sets. Research software deserves peer-review and citations. I strive to support sustainable research software development as a reviewer and contributor to the digital infrastructure for the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com/) and the [Journal of Open Source Software](http://joss.theoj.com/).
+
+I am a reviewer for the Journal of 
