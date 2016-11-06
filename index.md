@@ -7,7 +7,7 @@ title: Open Ocean Science and Open Software Tools
 
 I am a marine ecologist studying life in the open ocean, the so called pelagic realm. Using a combination of field observations and computational/theoretical approaches, I try to understand the physical and biological processes that shape the distribution and movements of pelagic animals and their foraging behaviours. 
 
-I am also more broadly interested in quantitative tools for ecological research. My work aims to bridge the gap between field observations and ecological theory and to this end I am working on a number of [open source software projects](http://pboesu.github.io/publications/#Software).
+I am also more broadly interested in quantitative tools for ecological research. My work aims to bridge the gap between field observations and ecological theory and to this end I am working on a number of [open source software projects](http://pboesu.github.io/software).
 
 I am currently a postdoctoral associate at the University of Florida where I study the bioenergetics and foraging strategies of Antarctic albatrosses. This research is funded by the National Science Foundation and conducted in collaboration with scientists at Virginia Tech and the British Antarctic Survey. 
 
