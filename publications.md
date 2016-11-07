@@ -15,11 +15,14 @@ submenu:
  _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833). _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ).
  
 
+
 *Boersch-Supan PH*, Ryan SJ, Johnson LR (in press): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679). Methods in Ecology and Evolution <br>
 [![DOI:10.1111/2041-210X.12679](https://img.shields.io/badge/DOI-10.1111%2F2041--210X.12679-blue.svg)](http://doi.org/10.1111/2041-210X.12679) 
 [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://doi.org/10.1111/2041-210X.12679)
 <!--<div data-badge-popover="right" data-badge-type="4" data-doi="10.1111/2041-210X.12679" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
+*Boersch-Supan PH* (2016) [rucrdtw: Fast time series subsequence search in R](http://dx.doi.org/10.21105/joss.00100). Journal of Open Source Software<br> 
+[![DOI:10.21105/joss.00100](https://img.shields.io/badge/DOI-10.21105%2Fjoss.00100-blue.svg)](http://doi.org10.21105/joss.00100) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://dx.doi.org/10.21105/joss.00100)
 
 Borrelle SB, *Boersch-Supan PH*, Gaskin CP, Towns DR (in press): [Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes](../public/Borrelle_et_al_2016_prepress.pdf). Oryx. <br>
 ![DOI:Pending](https://img.shields.io/badge/DOI-Pending-blue.svg) 
@@ -58,8 +61,6 @@ Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills 
 
 ## Forthcoming<a name="Forthcoming">&nbsp;</a>
 Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to Royal Society Open Science* 
-
-Boersch-Supan PH **rucrdtw: Fast time series subsequence search in R** *submitted to the Journal of Open Source Software* 
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
