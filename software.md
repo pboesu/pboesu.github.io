@@ -19,6 +19,7 @@ An R framework for Bayesian parameter inference in ordinary and delay differenti
 [rucrdtw](https://github.com/pboesu/rucrdtw)<br>
 Fast time series subsequence search under dynamic time warping in R. This package provides R bindings for functions from the [UCR Suite](http://www.cs.ucr.edu/~eamonn/UCRsuite.html). <br>
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/rucrdtw)](https://cran.r-project.org/package=rucrdtw)
 [![Travis-CI Build Status](https://travis-ci.org//pboesu/rucrdtw.svg?branch=master)](https://github.com/pboesu/rucrdtw) 
 ![Peer Reviewed Software](https://img.shields.io/badge/Peer%20Reviewed-%E2%9C%93-green.svg)
 [![status](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc/status.svg)](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc)
