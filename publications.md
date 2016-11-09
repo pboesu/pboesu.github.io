@@ -22,7 +22,7 @@ submenu:
 <!--<div data-badge-popover="right" data-badge-type="4" data-doi="10.1111/2041-210X.12679" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 *Boersch-Supan PH* (2016) [rucrdtw: Fast time series subsequence search in R](http://dx.doi.org/10.21105/joss.00100). Journal of Open Source Software<br> 
-[![DOI:10.21105/joss.00100](https://img.shields.io/badge/DOI-10.21105%2Fjoss.00100-blue.svg)](http://doi.org10.21105/joss.00100) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://dx.doi.org/10.21105/joss.00100)
+[![DOI:10.21105/joss.00100](https://img.shields.io/badge/DOI-10.21105%2Fjoss.00100-blue.svg)](http://doi.org/10.21105/joss.00100) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://dx.doi.org/10.21105/joss.00100)
 
 Borrelle SB, *Boersch-Supan PH*, Gaskin CP, Towns DR (in press): [Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes](../public/Borrelle_et_al_2016_prepress.pdf). Oryx. <br>
 ![DOI:Pending](https://img.shields.io/badge/DOI-Pending-blue.svg) 
