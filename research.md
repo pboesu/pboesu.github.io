@@ -25,7 +25,7 @@ Find out more about this project on the <a href="http://leah.johnson-gramacy.com
 
 This work relies on a data base of several hundred thousand body mass time series. This poses computational challenges for data processing and analysis. I have addressed part of this challenge by creating an [R wrapper](http://doi.org/10.21105/joss.00100) for some very fast time series similarity search algorithms.
 
-**Paper:** Boersch-Supan (2016): [ rucrdtw: Fast time series subsequence search in R](http://doi.org/10.21105/joss.00100)<br>
+**Paper:** Boersch-Supan (2016): [rucrdtw: Fast time series subsequence search in R](http://doi.org/10.21105/joss.00100)<br>
 **Software:** [rucrdtw: R Bindings for the UCR Suite](https://cran.r-project.org/package=rucrdtw)
 </td></tr></table>
 
