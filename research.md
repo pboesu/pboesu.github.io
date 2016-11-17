@@ -3,7 +3,7 @@ layout: page
 title: Research Projects
 submenu:
   - { hook: "albatross", title: "Seabirds" }
-  - { hook: "deBinfer", title: "Bayesian Inference" }
+  - { hook: "deBInfer", title: "Bayesian Inference" }
   - { hook: "seamounts", title: "Seamounts & Islands" }
   - { hook: "SLs", title: "Open ocean" }
 ---
