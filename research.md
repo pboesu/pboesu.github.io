@@ -22,12 +22,12 @@ Find out more about this project on the <a href="http://leah.johnson-gramacy.com
 ### Chick-provisioning in macaroni penguins<a name="weighbridge">&nbsp;</a>
 <table style="width:80%"><tr><td>
 <img class="img-research" src="/public/images/jumping_out_crop.gif"> With a global population of over 11 million individuals macaroni penguins are not only the most numerous penguins, but also the largest consumers of prey among all seabirds. I am using an automatic weighbridge to study body weights and foraging movements of marked and unmarked penguins at a study colony on Bird Island, South Georgia to better understand how macaronis forage during the breeding season and how they balance provisioning their chicks with the need to maintain their own body condition.
+</td></tr></table>
 
 This work relies on a data base of several hundred thousand body mass time series. This poses computational challenges for data processing and analysis. I have addressed part of this challenge by creating an [R wrapper](http://doi.org/10.21105/joss.00100) for some very fast time series similarity search algorithms.
 
 **Paper:** Boersch-Supan (2016): [rucrdtw: Fast time series subsequence search in R](http://doi.org/10.21105/joss.00100)<br>
 **Software:** [rucrdtw: R Bindings for the UCR Suite](https://cran.r-project.org/package=rucrdtw)
-</td></tr></table>
 
 
 ## Bayesian inference for dynamic models of biological systems<a name="deBInfer">&nbsp;</a>
