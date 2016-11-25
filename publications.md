@@ -25,7 +25,7 @@ submenu:
 [![DOI:10.21105/joss.00100](https://img.shields.io/badge/DOI-10.21105%2Fjoss.00100-blue.svg)](http://doi.org/10.21105/joss.00100) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://dx.doi.org/10.21105/joss.00100)
 
 Borrelle SB, *Boersch-Supan PH*, Gaskin CP, Towns DR (in press): [Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes](../public/Borrelle_et_al_2016_prepress.pdf). Oryx. <br>
-![DOI:Pending](https://img.shields.io/badge/DOI-Pending-blue.svg) 
+[![DOI:Pending](https://img.shields.io/badge/DOI-10.1017/S0030605316000880.svg)](http://doi.org/10.1017/S0030605316000880) 
 [![Free Abstract](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Borrelle_et_al_2016_prepress.pdf)
 
 Letessier TB, Cox MJ, Meeuwig JJ, _Boersch-Supan PH_, Brierley AS (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675). Marine Ecology Progress Series 546, pp. 271-276 <br>
