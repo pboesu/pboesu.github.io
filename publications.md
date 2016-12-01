@@ -62,6 +62,8 @@ Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills 
 ## Forthcoming<a name="Forthcoming">&nbsp;</a>
 Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to Royal Society Open Science* 
 
+Rogers A, Alvheim O, Bemanaja E, Benivary D, Boersch-Supan PH, Bornman T, Cedras R, Du Plessis N, Gotheil S, Høines A, Kemp K, Kristiansen J, Letessier T, Mangar V, Mazungula N, Mørk T, Pinet P, Pollard R, Read J, Sonnekus T **Pelagic communities of the South West Indian Ocean seamounts: R/V Dr Fridtjof Nansen Cruise 2009-410** *submitted to Deep Sea Research II*
+
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
 **deBInfer: Bayesian inference for dynamical models of biological systems in R**<br>
