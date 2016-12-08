@@ -7,7 +7,10 @@ tags:
 - code
 ---
 
-Finally, I adapted one of the GMT Cookbook examples to show what's on the opposite side of the world during my trip.
+Finally, I adapted one of the GMT Cookbook examples to show what's on the opposite side of the world during my trip. The code for this is given below, and also in the script [antipodes.sh](https://gist.github.com/pboesu/d5e6af4e4c0f9af45714c0b99a642b28#file-antipodes-sh) on github.
+
+This time I was happy with the GMT output as is, so no post-GMT modifications.
+
 
 ```bash
 #!/bin/bash
@@ -56,3 +59,5 @@ gmt psconvert -Tg -A $psfile
 #remove intermediate results
 rm -f wetdry.nc scale.nc key.nc tmp.nc key.cpt key.b gmt.conf
 ```
+
+![Enderby antipodes map](/enderby/enderby_antipodes.png)
