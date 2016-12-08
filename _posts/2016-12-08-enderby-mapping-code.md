@@ -60,4 +60,4 @@ gmt psconvert -Tg -A $psfile
 rm -f wetdry.nc scale.nc key.nc tmp.nc key.cpt key.b gmt.conf
 ```
 
-<img src="/public/enderby/enderby_antipodes.png" alt="antipodes map" width="80%" >
+<img src="/public/enderby/enderby_antipodes.png" alt="antipodes map" width="200px">
