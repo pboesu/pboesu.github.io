@@ -7,14 +7,14 @@ tags:
 - code
 ---
 
-Finally, I adapted one of the GMT Cookbook examples to show what's on the opposite side of the world during my trip. The code for this is given below, and also in the script [antipodes.sh](https://gist.github.com/pboesu/d5e6af4e4c0f9af45714c0b99a642b28#file-antipodes-sh) on github.
+I adapted one of the [GMT examples](http://gmt.soest.hawaii.edu/doc/latest/gallery/ex25.html#example-25) to show what's on the opposite side of the world during my trip. The code for this is given below, and also in the script [antipodes.sh on github](https://gist.github.com/pboesu/d5e6af4e4c0f9af45714c0b99a642b28#file-antipodes-sh).
 
 This time I was happy with the GMT output as is, so no post-GMT modifications.
 
 
 ```bash
 #!/bin/bash
-#		This map is a quick and dirty adaptation of GMT EXAMPLE 25
+#	  This map is a quick and dirty adaptation of GMT EXAMPLE 25
 #   (using GMT 5.4.0_r17345)
 #
 # Purpose:	Display distribution of antipode types around NZ
