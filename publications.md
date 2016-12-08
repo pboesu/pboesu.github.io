@@ -21,12 +21,12 @@ submenu:
 [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://doi.org/10.1111/2041-210X.12679)
 <!--<div data-badge-popover="right" data-badge-type="4" data-doi="10.1111/2041-210X.12679" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
+Borrelle SB, *Boersch-Supan PH*, Gaskin CP, Towns DR (in press): [Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes](../public/Borrelle_et_al_2016_prepress.pdf). Oryx. <br>
+[![DOI:10.1017/S0030605316000880](https://img.shields.io/badge/DOI-10.1017%2FS0030605316000880-blue.svg)](http://doi.org/10.1017/S0030605316000880) 
+[![Free Abstract](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Borrelle_et_al_2016_prepress.pdf)
+
 *Boersch-Supan PH* (2016) [rucrdtw: Fast time series subsequence search in R](http://dx.doi.org/10.21105/joss.00100). Journal of Open Source Software<br> 
 [![DOI:10.21105/joss.00100](https://img.shields.io/badge/DOI-10.21105%2Fjoss.00100-blue.svg)](http://doi.org/10.21105/joss.00100) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://dx.doi.org/10.21105/joss.00100)
-
-Borrelle SB, *Boersch-Supan PH*, Gaskin CP, Towns DR (in press): [Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes](../public/Borrelle_et_al_2016_prepress.pdf). Oryx. <br>
-![DOI:Pending](https://img.shields.io/badge/DOI-Pending-blue.svg) 
-[![Free Abstract](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Borrelle_et_al_2016_prepress.pdf)
 
 Letessier TB, Cox MJ, Meeuwig JJ, _Boersch-Supan PH_, Brierley AS (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675). Marine Ecology Progress Series 546, pp. 271-276 <br>
 [![DOI:10.3354/meps11675](https://img.shields.io/badge/DOI-10.3354/meps11675-blue.svg)](http://dx.doi.org/10.3354/meps11675) 
@@ -61,6 +61,8 @@ Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills 
 
 ## Forthcoming<a name="Forthcoming">&nbsp;</a>
 Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to Royal Society Open Science* 
+
+Rogers A, Alvheim O, Bemanaja E, Benivary D, Boersch-Supan PH, Bornman T, Cedras R, Du Plessis N, Gotheil S, Høines A, Kemp K, Kristiansen J, Letessier T, Mangar V, Mazungula N, Mørk T, Pinet P, Pollard R, Read J, Sonnekus T **Pelagic communities of the South West Indian Ocean seamounts: R/V Dr Fridtjof Nansen Cruise 2009-410** *submitted to Deep Sea Research II*
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
