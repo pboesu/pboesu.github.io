@@ -14,6 +14,10 @@ submenu:
 ## Papers<a name="Papers">&nbsp;</a>
  _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833). _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ).
  
+Rogers A, Alvheim O, Bemanaja E, Benivary D, *Boersch-Supan PH*, Bornman T, Cedras R, Du Plessis N, Gotheil S, Høines A, Kemp K, Kristiansen J, Letessier T, Mangar V, Mazungula N, Mørk T, Pinet P, Pollard R, Read J, Sonnekus T (online ahead of print) [Pelagic communities of the South West Indian Ocean seamounts: R/V Dr Fridtjof Nansen Cruise 2009-410](../public/Rogers_et_al_SWIODSRII_prepress.pdf). Deep Sea Research II.<br>
+[![DOI:10.1016/j.dsr2.2016.12.010](https://img.shields.io/badge/DOI-10.1016%2Fj.dsr2.2016.12.010-blue.svg)](http://dx.doi.org/10.1016/j.dsr2.2016.12.010) 
+[![Free Abstract](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Rogers_et_al_SWIODSRII_prepress.pdf)
+ 
 Borrelle SB, *Boersch-Supan PH*, Gaskin CP, Towns DR (online ahead of print): [Influences on recovery of seabirds to islands eradicated of invasive predators, with a focus on Procellariiformes](../public/Borrelle_et_al_2016_prepress.pdf). Oryx. <br>
 [![DOI:10.1017/S0030605316000880](https://img.shields.io/badge/DOI-10.1017%2FS0030605316000880-blue.svg)](http://doi.org/10.1017/S0030605316000880) 
 [![Free Abstract](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Borrelle_et_al_2016_prepress.pdf)
@@ -59,8 +63,6 @@ Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills 
 
 ## Forthcoming<a name="Forthcoming">&nbsp;</a>
 Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography traces water-mass features of a dynamic oceanic frontal system** *submitted to Royal Society Open Science* 
-
-Rogers A, Alvheim O, Bemanaja E, Benivary D, Boersch-Supan PH, Bornman T, Cedras R, Du Plessis N, Gotheil S, Høines A, Kemp K, Kristiansen J, Letessier T, Mangar V, Mazungula N, Mørk T, Pinet P, Pollard R, Read J, Sonnekus T **Pelagic communities of the South West Indian Ocean seamounts: R/V Dr Fridtjof Nansen Cruise 2009-410** *submitted to Deep Sea Research II*
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
