@@ -10,8 +10,8 @@ Location: [ENB 228A](https://maps.google.com/maps?ll=28.059322,-82.415728&z=17&t
 [USF Canvas Link](https://usflearn.instructure.com/courses/1208074)  
 
 ### R Resources
-[R Introduction Notes](http://pboesu.github.io/r-intro-biometry)
-[Base R cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)
-[Sizing base plots](https://www.rstudio.com/wp-content/uploads/2016/10/how-big-is-your-graph.pdf)
-[Quick-R](http://www.statmethods.net/index.html)
+[R Introduction Notes](http://pboesu.github.io/r-intro-biometry)  
+[Base R cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)  
+[Sizing base plots](https://www.rstudio.com/wp-content/uploads/2016/10/how-big-is-your-graph.pdf)  
+[Quick-R](http://www.statmethods.net/index.html)  
 
