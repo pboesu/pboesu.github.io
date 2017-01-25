@@ -9,9 +9,12 @@ Meeting times: MW 2:00pm-3:45pm (Computer Lab is available to work on assignment
 Location: [ENB 228A](https://maps.google.com/maps?ll=28.059322,-82.415728&z=17&t=m&hl=en-GB&gl=US&mapclient=embed&cid=10721141575885991370)<br>
 [USF Canvas Link](https://usflearn.instructure.com/courses/1208074)  
 
-### R Resources
-[R Introduction Notes](http://pboesu.github.io/r-intro-biometry)  
+### R Lecture Notes 
+[R Introduction Notes](http://pboesu.github.io/r-intro-biometry)  (we won't cover all modules in class)
+
+### Other R Resources
 [Base R cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf)  
 [Sizing base plots](https://www.rstudio.com/wp-content/uploads/2016/10/how-big-is-your-graph.pdf)  
+[RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 [Quick-R](http://www.statmethods.net/index.html)  
 
