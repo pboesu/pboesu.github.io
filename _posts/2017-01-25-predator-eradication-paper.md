@@ -9,7 +9,7 @@ tags:
 
 Protecting seabirds is a global conservation priority given that 29% of seabird species are threatened with extinction. One of the most acute threats to seabirds is the presence of introduced predators, which depredate seabirds at all life stages, from eggs to adults. Consequently, eradication of invasive predators has been identified as an effective and commonly used approach to seabird conservation. 
 
-<img src="/public/images/NZ_storm_petrel_chick_SBB.jpg" alt="New Zealand storm petrel chick" width="200px">  
+<img src="/public/images/NZ_storm_petrel_chick_SBB.jpg" alt="New Zealand storm petrel chick">  
 *New Zealand storm petrels are among the species impacted by invasive predators. Photo: S. Borrelle*
 
 Millions of dollars are spent on removing predators from offshore islands in the aim of protecting seabirds and island biodiversity. However, post-eradication monitoring is limited, so our understanding of how and if seabirds and their island habitats recover is also limited. 
