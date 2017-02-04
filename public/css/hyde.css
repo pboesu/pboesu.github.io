@@ -351,7 +351,7 @@ a:focus {
     left: 0;
   }
   .masthead h1 {
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 900;
   }
   .colophon {
@@ -497,12 +497,13 @@ a:focus {
 .img-circular{
  width: 180px;
  height: 180px;
- background-image: url('/public/images/IMG_8354_crop.jpg');
+ background-image: url('/public/images/Boersch_Supan_far_crop_400.jpg');
  background-size: cover;
  display: block;
- border-radius: 80px;
- -webkit-border-radius: 80px;
- -moz-border-radius: 80px;
+ border-radius: 85px;
+ -webkit-border-radius: 85px;
+ -moz-border-radius: 85px;
+ margin-bottom: 20px;
 }
 
 
