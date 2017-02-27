@@ -13,6 +13,9 @@ submenu:
 
 ## Papers<a name="Papers">&nbsp;</a>
  _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833). _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ).
+
+Djurhuus A, *Boersch-Supan PH*, Mikalsen S, Rogers AD (2017): [Microbial biogeography tracks water-mass features of a dynamic oceanic frontal system](http://dx.doi.org/10.1098/rsos.170033). Royal Society Open Science 4:170033  
+[![DOI:10.1098/rsos.170033](https://img.shields.io/badge/DOI-10.1098%2Frsos.170033-blue.svg)](http://doi.org/10.1098/rsos.170033) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://dx.doi.org/10.1098/rsos.170033)
  
 Rogers A, Alvheim O, Bemanaja E, Benivary D, *Boersch-Supan PH*, Bornman T, Cedras R, Du Plessis N, Gotheil S, Høines A, Kemp K, Kristiansen J, Letessier T, Mangar V, Mazungula N, Mørk T, Pinet P, Pollard R, Read J, Sonnekus T (online ahead of print) [Pelagic communities of the South West Indian Ocean seamounts: R/V Dr Fridtjof Nansen Cruise 2009-410](../public/Rogers_et_al_SWIODSRII_prepress.pdf). Deep Sea Research II.<br>
 [![DOI:10.1016/j.dsr2.2016.12.010](https://img.shields.io/badge/DOI-10.1016%2Fj.dsr2.2016.12.010-blue.svg)](http://dx.doi.org/10.1016/j.dsr2.2016.12.010) 
@@ -62,7 +65,7 @@ Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills 
 <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pbio.1001234" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 ## Forthcoming<a name="Forthcoming">&nbsp;</a>
-Djurhuus A, Boersch-Supan PH, Mikalsen S, Rogers AD **Microbial biogeography tracks water-mass features of a dynamic oceanic frontal system** *accepted at Royal Society Open Science* 
+William J. Sydeman, Sarah Ann Thompson, Tycho Anker-Nilssen, Mayumi Arimitsu, Ashley Bennison, Philipp Boersch-Supan, Nicole Bransome, Charlotte Boyd, Robert J.M. Crawford, Francis Daunt, Robert Furness, Dimas Gianuca, Amanda Gladics, Laura Koehn, Jennifer Lang, Elizabeth Logerwell, Taryn Morris, Elizabeth M. Phillips, Jennifer Provencher, Andre Punt, Claire Saraux, Lynne Shannon, Richard Sherley, Alejandro Simeone, Ross Wanless, Sarah Wanless, Stephani Zador **Best Practices for Assessing Forage Fish Fisheries - Seabird Resource Competition** *submitted to Fisheries Research*
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
