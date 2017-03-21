@@ -91,8 +91,12 @@ Boersch-Supan PH, Johnson LR, Phillips RA, Ryan SJ
 **Surface temperatures of albatross eggs and nests**  
 *submitted to Emu - Austral Ornithology*
 
-William J. Sydeman, Sarah Ann Thompson, Tycho Anker-Nilssen, Mayumi Arimitsu, Ashley Bennison, Philipp Boersch-Supan, Nicole Bransome, Charlotte Boyd, Robert J.M. Crawford, Francis Daunt, Robert Furness, Dimas Gianuca, Amanda Gladics, Laura Koehn, Jennifer Lang, Elizabeth Logerwell, Taryn Morris, Elizabeth M. Phillips, Jennifer Provencher, Andre Punt, Claire Saraux, Lynne Shannon, Richard Sherley, Alejandro Simeone, Ross Wanless, Sarah Wanless, Stephani Zador  
-**Best Practices for Assessing Forage Fish Fisheries - Seabird Resource Competition**  
+Johnson LR, Boersch-Supan PH,
+Phillips RA, Ryan SJ  
+**Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology**
+submittedsubmitted to 
+William J. Sydeman, Sarah Ann Thompson, Tycho Anker-Nilssen, Mayumi Arimitsu, Ashley Bennison, Philipp Boersch-Supan, Nicole Bransome, Charlotte Boyd, Robert J.M. Crawford, Francis Daunt, Robert Furness, Dimas Gianuca, Amanda Gladics, Laura Koehn, Jennifer Lang, Elizabeth Logerwell, Taryn Morris, Elizabeth M. Phillips, Jennifer Provencher, Andre Punt, Claire Saraux, Lynne Shannon, Richard Sherley, Alejandro Simeone, Ross Wanless, Sarah Wanless, Stephani Zador 
+**Best Practices for Assessing Forage Fish Fisheries - Seabird Resource Competition**
 *submitted to Fisheries Research*
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
