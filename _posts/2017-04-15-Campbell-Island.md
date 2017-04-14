@@ -7,9 +7,9 @@ tags:
 - albatross
 ---
 
-<em>Many populations of sub-antarctic animals and plants are in decline, threatened by an array of direct and indirect human impacts. The restoration and protection of predator-free island habitats is a crucial component of conservation measures to ensure population persistence in a changing world.
+<em>Many populations of sub-antarctic animals and plants are in decline, threatened by an array of direct and indirect human impacts. The restoration and protection of predator-free island habitats is a crucial component of conservation measures to ensure population persistence in a changing world.</em>
 
-In late 2016 I was awarded an Enderby Trust scholarship to visit the sub-antarctic islands of New Zealand. Here are my impressions from Campbell Island.</em>
+<em>In late 2016 I was awarded an Enderby Trust scholarship to visit the sub-antarctic islands of New Zealand. Here are my impressions from Campbell Island.</em>
 
 A bare patch of volcanic rock marks the final climb to the ridge line, then the path disappears in waist high tussock. A startled Campbell Snipe jumps into the air and dashes downhill in erratic zig-zags. We pause for a moment just below the ridge crest, to take shelter from the winds and the drizzle they carry. Strong winds circle the globe at this latitude. Largely unbroken by land they sweep the ocean separating Antarctica from the rest of the world and make the Southern Ocean home to the majority of albatross species. But on this grey morning, there is little activity in the colony on the hill- side. Only when we step onto the ridge crest, white spots become apparent in the tussocks on the hill side. Southern Royal Albatross, huddling on their nests. Some have their beaks tucked under their wings, others sit quietly, inspecting our small group.
 
