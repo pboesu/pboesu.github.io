@@ -102,14 +102,18 @@ William J. Sydeman, Sarah Ann Thompson, Tycho Anker-Nilssen, Mayumi Arimitsu, As
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
 
+**Surface temperatures of albatross eggs and nests**  
+[Slides presented at the 3rd World Seabird Twitter Conference](https://storify.com/pboesu/wstc3)
+
 **deBInfer: Bayesian inference for dynamical models of biological systems in R**<br>
 [Poster presented at the International Society for Bayesian Analysis 2016 Conference](https://dx.doi.org/10.6084/m9.figshare.3466400.v1)
 
 **Changing measurements of changing movements? - Detecting movement patterns across multiple generations of tracking technology**<br>
-[Poster presented at the International Statistical Ecology Conference, Seattle, 06/2016](https://dx.doi.org/10.6084/m9.figshare.3466403.v1)
+[Poster presented at the International Statistical Ecology Conference, Seattle, 06/2016](https://dx.doi.org/10.6084/m9.figshare.3466403.v1)  
+Preprint available at [![arXiv:1703.06201](http://img.shields.io/badge/Preprint-arXiv:1703.06201-B31B1B.svg)](https://arxiv.org/abs/1703.06201)
 
 **Unravelling physiological and ecological determinants of albatross chick growth** <br>
-[Slides presented at the World Seabird Conference, Capetown, 11/2015](http://dx.doi.org/10.6084/m9.figshare.1591048) 
+[Slides presented at the World Seabird Conference, Capetown, 11/2015](http://dx.doi.org/10.6084/m9.figshare.1591048)   
 [Twitter version from the World Seabird Twitter Conference](https://storify.com/pboesu/albatross-bioenergetics-at-the-world-seabird-twitt)
 
 **Modelling the bioenergetics and foraging behaviours of albatrosses**<br>
