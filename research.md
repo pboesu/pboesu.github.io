@@ -17,6 +17,7 @@ submenu:
 
 #### Related Links
 Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.<br>
+Preprint: [Sampling scale and movement model identifiability](https://arxiv.org/abs/1703.06201)  
 <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
 
 ### Chick-provisioning in macaroni penguins<a name="weighbridge">&nbsp;</a>
@@ -58,7 +59,7 @@ Letessier TB et al. (2015): [Seamount influences on mid-water shrimps (Decapoda)
 
 ## Open ocean ecology<a name="SLs">&nbsp;</a>
 
-### Oceanic scattering layers
+### Oceanic scattering layers & pelagic biogeography
 <table style="width:80%"><tr><td>
 <img class="img-research" src="/public/images/DVM38kHz.jpg">A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean. 
 </td></tr></table>
@@ -66,3 +67,14 @@ Letessier TB et al. (2015): [Seamount influences on mid-water shrimps (Decapoda)
 #### Related Publications
 Boersch-Supan et al. (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023)<br>
 Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distribution, not temperature ...](http://dx.doi.org/10.3354/meps09890)
+
+### Marine biogeography
+<table style="width:80%"><tr><td>
+<img class="img-research" src="/public/images/watermass_schematic.png"> I have also contributed to biogeographic studies of marine animals ranging from pelagic microbes to hydrothermal vent animals. 
+</td></tr></table>
+
+#### Related Publications
+Djurhuus, Boersch-Supan et al. (2017): [Microbial biogeography tracks water-mass features](http://dx.doi.org/10.1098/rsos.170033)<br>
+Laptikovsky V, Boersch-Supan PH et al. (2015): [Cephalopods of the Southwest Indian Ocean Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.07.002)
+Rogers et al. (2012): [Discovery of Southern Ocean deep-sea hydrothermal vent communities](http://dx.doi.org/10.1371/journal.pbio.1001234)
+
