@@ -70,7 +70,7 @@ Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distributi
 
 ### Marine biogeography
 <table style="width:80%"><tr><td>
-<img class="img-research" src="/public/images/watermass_schematic.png"> I have also contributed to biogeographic studies of marine animals ranging from pelagic microbes to hydrothermal vent animals. 
+<img class="img-research" src="/public/images/6watermass_schematic.png"> I have also contributed to biogeographic studies of marine animals ranging from pelagic microbes to hydrothermal vent animals. 
 </td></tr></table>
 
 #### Related Publications
