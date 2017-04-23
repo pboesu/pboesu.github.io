@@ -75,6 +75,6 @@ Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distributi
 
 #### Related Publications
 Djurhuus, Boersch-Supan et al. (2017): [Microbial biogeography tracks water-mass features](http://dx.doi.org/10.1098/rsos.170033)<br>
-Laptikovsky V, Boersch-Supan PH et al. (2015): [Cephalopods of the Southwest Indian Ocean Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.07.002)
+Laptikovsky V, Boersch-Supan PH et al. (2015): [Cephalopods of the Southwest Indian Ocean Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.07.002)  
 Rogers et al. (2012): [Discovery of Southern Ocean deep-sea hydrothermal vent communities](http://dx.doi.org/10.1371/journal.pbio.1001234)
 
