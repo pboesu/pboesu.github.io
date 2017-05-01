@@ -24,6 +24,10 @@ Fast time series subsequence search under dynamic time warping in R. This packag
 ![Peer Reviewed Software](https://img.shields.io/badge/Peer%20Reviewed-%E2%9C%93-green.svg)
 [![status](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc/status.svg)](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc)
 
+[seabirdeb](https://github.com/pboesu/seabirdeb)<br>
+This R package provides compiled dynamic energy budget models for seabirds. <br>
+[![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+
 [microclimloggers](https://github.com/RyanLab/ryanlabloggers)<br>
 This package provides functions to parse and reshape microclimate logger data (e.g. iButton Hygrochron, HOBO pendant loggers). <br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
