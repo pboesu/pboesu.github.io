@@ -14,7 +14,7 @@ submenu:
 _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833). _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ).
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
-(Manuscripts available on request)
+
 Boersch-Supan PH, Johnson LR, Phillips RA, Ryan SJ  
 **Surface temperatures of albatross eggs and nests**  
 *in revision for Emu - Austral Ornithology*  
