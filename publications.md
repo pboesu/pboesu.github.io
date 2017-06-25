@@ -14,18 +14,21 @@ submenu:
 _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833). _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ).
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
+(Manuscripts available on request)
 Boersch-Supan PH, Johnson LR, Phillips RA, Ryan SJ  
 **Surface temperatures of albatross eggs and nests**  
-*submitted to Emu - Austral Ornithology*
+*in revision for Emu - Austral Ornithology*  
+[Manuscript available on request](mailto:pboesu@gmail.com)
 
 Johnson LR, Boersch-Supan PH, Phillips RA, Ryan SJ  
 **Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology**  
-*submitted to Ecology and Evolution*  
+*in revision for Ecology and Evolution*  
 [![arXiv:1703.06201](http://img.shields.io/badge/Preprint-arXiv:1703.06201-B31B1B.svg)](https://arxiv.org/abs/1703.06201)
 
 William J. Sydeman, Sarah Ann Thompson, Tycho Anker-Nilssen, Mayumi Arimitsu, Ashley Bennison, Philipp Boersch-Supan, Nicole Bransome, Charlotte Boyd, Robert J.M. Crawford, Francis Daunt, Robert Furness, Dimas Gianuca, Amanda Gladics, Laura Koehn, Jennifer Lang, Elizabeth Logerwell, Taryn Morris, Elizabeth M. Phillips, Jennifer Provencher, Andre Punt, Claire Saraux, Lynne Shannon, Richard Sherley, Alejandro Simeone, Ross Wanless, Sarah Wanless, Stephani Zador 
 **Best Practices for Assessing Forage Fish Fisheries - Seabird Resource Competition**
-*submitted to Fisheries Research*
+*in press at Fisheries Research*
+[Manuscript available on request](mailto:pboesu@gmail.com)
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
