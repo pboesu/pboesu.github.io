@@ -27,7 +27,7 @@ Johnson LR, Boersch-Supan PH, Phillips RA, Ryan SJ
 
 William J. Sydeman, Sarah Ann Thompson, Tycho Anker-Nilssen, Mayumi Arimitsu, Ashley Bennison, Philipp Boersch-Supan, Nicole Bransome, Charlotte Boyd, Robert J.M. Crawford, Francis Daunt, Robert Furness, Dimas Gianuca, Amanda Gladics, Laura Koehn, Jennifer Lang, Elizabeth Logerwell, Taryn Morris, Elizabeth M. Phillips, Jennifer Provencher, Andre Punt, Claire Saraux, Lynne Shannon, Richard Sherley, Alejandro Simeone, Ross Wanless, Sarah Wanless, Stephani Zador 
 **Best Practices for Assessing Forage Fish Fisheries - Seabird Resource Competition**
-*in press at Fisheries Research*
+*in press at Fisheries Research*  
 [Manuscript available on request](mailto:pboesu@gmail.com)
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
