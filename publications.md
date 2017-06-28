@@ -25,14 +25,14 @@ Johnson LR, Boersch-Supan PH, Phillips RA, Ryan SJ
 *in revision for Ecology and Evolution*  
 [![arXiv:1703.06201](http://img.shields.io/badge/Preprint-arXiv:1703.06201-B31B1B.svg)](https://arxiv.org/abs/1703.06201)
 
-William J. Sydeman, Sarah Ann Thompson, Tycho Anker-Nilssen, Mayumi Arimitsu, Ashley Bennison, Philipp Boersch-Supan, Nicole Bransome, Charlotte Boyd, Robert J.M. Crawford, Francis Daunt, Robert Furness, Dimas Gianuca, Amanda Gladics, Laura Koehn, Jennifer Lang, Elizabeth Logerwell, Taryn Morris, Elizabeth M. Phillips, Jennifer Provencher, Andre Punt, Claire Saraux, Lynne Shannon, Richard Sherley, Alejandro Simeone, Ross Wanless, Sarah Wanless, Stephani Zador  
-**Best Practices for Assessing Forage Fish Fisheries - Seabird Resource Competition**  
-*in press at Fisheries Research*  
-[Manuscript available on request](mailto:pboesu@gmail.com)
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+1. William J. Sydeman, Sarah Ann Thompson, Tycho Anker-Nilssen, Mayumi Arimitsu, Ashley Bennison, Sophie Bertrand, *Philipp Boersch-Supan*, Nicole Bransome, Charlotte Boyd, Robert J.M. Crawford, Francis Daunt, Robert Furness, Dimas Gianuca, Amanda Gladics, Laura Koehn, Jennifer Lang, Elizabeth Logerwell, Taryn Morris, Elizabeth M. Phillips, Jennifer Provencher, Andre Punt, Claire Saraux, Lynne Shannon, Richard Sherley, Alejandro Simeone, Ross Wanless, Sarah Wanless, Stephani Zador (2017):  
+    [Best Practices for Assessing Forage Fish Fisheries - Seabird Resource Competition](https://doi.org/10.1016/j.fishres.2017.05.018).  
+    Fisheries Research 194:209–221  
+   [![DOI:10.1016/j.fishres.2017.05.018](https://img.shields.io/badge/DOI-10.1016%2Fj.fishres.2017.05.018-blue.svg)](https://doi.org/10.1016/j.fishres.2017.05.018)
 
-1. Djurhuus A, *Boersch-Supan PH*, Mikalsen S, Rogers AD (2017):  
+0. Djurhuus A, *Boersch-Supan PH*, Mikalsen S, Rogers AD (2017):  
    [Microbial biogeography tracks water-mass features of a dynamic oceanic frontal system](http://dx.doi.org/10.1098/rsos.170033).  
    Royal Society Open Science 4:170033  
    [![DOI:10.1098/rsos.170033](https://img.shields.io/badge/DOI-10.1098%2Frsos.170033-blue.svg)](http://doi.org/10.1098/rsos.170033) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://dx.doi.org/10.1098/rsos.170033)
