@@ -15,16 +15,15 @@ _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833). _M
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
 
+Johnson LR, Boersch-Supan PH, Phillips RA, Ryan SJ  
+**Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology**  
+*accepted at Ecology and Evolution*  
+[![arXiv:1703.06201](http://img.shields.io/badge/Preprint-arXiv:1703.06201-B31B1B.svg)](https://arxiv.org/abs/1703.06201)
+
 Boersch-Supan PH, Johnson LR, Phillips RA, Ryan SJ  
 **Surface temperatures of albatross eggs and nests**  
 *in revision for Emu - Austral Ornithology*  
 [Manuscript available on request](mailto:pboesu@gmail.com)
-
-Johnson LR, Boersch-Supan PH, Phillips RA, Ryan SJ  
-**Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology**  
-*in revision for Ecology and Evolution*  
-[![arXiv:1703.06201](http://img.shields.io/badge/Preprint-arXiv:1703.06201-B31B1B.svg)](https://arxiv.org/abs/1703.06201)
-
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
