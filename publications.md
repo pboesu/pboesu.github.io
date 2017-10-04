@@ -27,7 +27,8 @@ Ryan SJ, Lippi CA, *Boersch-Supan PH*, Heydari N, Silva N, Adrian J, Noblecilla 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
-1. Johnson LR, *Boersch-Supan PH*, Phillips RA, Ryan SJ (2017) [Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology](https://doi.org/10.1002/ece3.3461).  
+1. Johnson LR, *Boersch-Supan PH*, Phillips RA, Ryan SJ (2017):  
+[Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology](https://doi.org/10.1002/ece3.3461).  
 Ecology and Evolution   
 [![DOI:10.1002/ece3.3461](https://img.shields.io/badge/DOI-10.1002%2Fece3.3461-blue.svg)](https://doi.org/10.1002/ece3.3461) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](https://doi.org/10.1002/ece3.3461)
 
@@ -41,7 +42,7 @@ Ecology and Evolution
    Royal Society Open Science 4:170033  
    [![DOI:10.1098/rsos.170033](https://img.shields.io/badge/DOI-10.1098%2Frsos.170033-blue.svg)](http://doi.org/10.1098/rsos.170033) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://dx.doi.org/10.1098/rsos.170033)
  
-0. Rogers A, Alvheim O, Bemanaja E, Benivary D, *Boersch-Supan PH*, Bornman T, Cedras R, Du Plessis N, Gotheil S, Høines A, Kemp K, Kristiansen J, Letessier T, Mangar V, Mazungula N, Mørk T, Pinet P, Pollard R, Read J, Sonnekus T (2017)  
+0. Rogers A, Alvheim O, Bemanaja E, Benivary D, *Boersch-Supan PH*, Bornman T, Cedras R, Du Plessis N, Gotheil S, Høines A, Kemp K, Kristiansen J, Letessier T, Mangar V, Mazungula N, Mørk T, Pinet P, Pollard R, Read J, Sonnekus T (2017):  
    [Pelagic communities of the South West Indian Ocean seamounts: R/V Dr Fridtjof Nansen Cruise 2009-410](../public/Rogers_et_al_SWIODSRII_prepress.pdf).  
    Deep Sea Research II<br>
    [![DOI:10.1016/j.dsr2.2016.12.010](https://img.shields.io/badge/DOI-10.1016%2Fj.dsr2.2016.12.010-blue.svg)](http://dx.doi.org/10.1016/j.dsr2.2016.12.010) 
