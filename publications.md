@@ -15,11 +15,6 @@ _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833). _M
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
 
-Johnson LR, *Boersch-Supan PH*, Phillips RA, Ryan SJ  
-**Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology**  
-*in press at Ecology and Evolution*  
-[![arXiv:1703.06201](http://img.shields.io/badge/Preprint-arXiv:1703.06201-B31B1B.svg)](https://arxiv.org/abs/1703.06201)
-
 *Boersch-Supan PH*, Johnson LR, Phillips RA, Ryan SJ  
 **Surface temperatures of albatross eggs and nests**  
 *in revision for Emu - Austral Ornithology*  
@@ -32,7 +27,11 @@ Ryan SJ, Lippi CA, *Boersch-Supan PH*, Heydari N, Silva N, Adrian J, Noblecilla 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
-1. Sydeman WJ, Thompson SA, Anker-Nilssen T, Arimitsu M, Bennison A, Bertrand S, *Boersch-Supan P*, Boyd C, Bransome NC, Crawford RJ, Daunt F, Furness RW, Gianuca D, Gladics A, Koehn L, Lang JW, Logerwell E, Morris TL, Phillips EM, Provencher J, Punt AE, Saraux C, Shannon L, Sherley RB, Simeone A, Wanless RM, Wanless S, Zador S (2017):  
+1. Johnson LR, *Boersch-Supan PH*, Phillips RA, Ryan SJ (2017) [Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology](https://doi.org/10.1002/ece3.3461).  
+Ecology and Evolution 
+[![DOI:10.1002/ece3.3461](https://img.shields.io/badge/DOI-10.1002%2Fece3.3461-blue.svg)](https://doi.org/10.1002/ece3.3461) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](https://doi.org/10.1002/ece3.3461)
+
+0. Sydeman WJ, Thompson SA, Anker-Nilssen T, Arimitsu M, Bennison A, Bertrand S, *Boersch-Supan P*, Boyd C, Bransome NC, Crawford RJ, Daunt F, Furness RW, Gianuca D, Gladics A, Koehn L, Lang JW, Logerwell E, Morris TL, Phillips EM, Provencher J, Punt AE, Saraux C, Shannon L, Sherley RB, Simeone A, Wanless RM, Wanless S, Zador S (2017):  
     [Best Practices for Assessing Forage Fish Fisheries - Seabird Resource Competition](https://doi.org/10.1016/j.fishres.2017.05.018).  
     Fisheries Research 194:209–221  
    [![DOI:10.1016/j.fishres.2017.05.018](https://img.shields.io/badge/DOI-10.1016%2Fj.fishres.2017.05.018-blue.svg)](https://doi.org/10.1016/j.fishres.2017.05.018)
