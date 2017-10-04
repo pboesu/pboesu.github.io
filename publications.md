@@ -28,7 +28,7 @@ Ryan SJ, Lippi CA, *Boersch-Supan PH*, Heydari N, Silva N, Adrian J, Noblecilla 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
 1. Johnson LR, *Boersch-Supan PH*, Phillips RA, Ryan SJ (2017) [Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology](https://doi.org/10.1002/ece3.3461).  
-Ecology and Evolution 
+Ecology and Evolution   
 [![DOI:10.1002/ece3.3461](https://img.shields.io/badge/DOI-10.1002%2Fece3.3461-blue.svg)](https://doi.org/10.1002/ece3.3461) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](https://doi.org/10.1002/ece3.3461)
 
 0. Sydeman WJ, Thompson SA, Anker-Nilssen T, Arimitsu M, Bennison A, Bertrand S, *Boersch-Supan P*, Boyd C, Bransome NC, Crawford RJ, Daunt F, Furness RW, Gianuca D, Gladics A, Koehn L, Lang JW, Logerwell E, Morris TL, Phillips EM, Provencher J, Punt AE, Saraux C, Shannon L, Sherley RB, Simeone A, Wanless RM, Wanless S, Zador S (2017):  
