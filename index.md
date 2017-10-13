@@ -5,7 +5,7 @@ title: Open Ocean Science and Open Software Tools
 
 <img class="img-wide" src="/public/images/IYNA_JC66_3257_wide.jpg"><br>
 
-I study life in the open ocean, the so called pelagic realm, using a combination of field observations and computational/theoretical approaches. I try to understand the physical and biological processes that shape the distribution and movements of open ocean animals, their their foraging behaviours, and their life-history strategies. 
+I try to understand the physical and biological processes that shape the distribution and movements of animals, their foraging and migration behaviours, and their life-history strategies. I predominantly address these questions by studying life in the open ocean, the so called pelagic realm, and by using a combination of field observations and computational/theoretical approaches. 
 
 I am currently a postdoctoral associate at the University of Florida where I study the bioenergetics and foraging strategies of Antarctic albatrosses. This research is funded by the National Science Foundation and conducted in collaboration with scientists at Virginia Tech and the British Antarctic Survey. 
 
