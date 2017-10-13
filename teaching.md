@@ -11,7 +11,7 @@ I believe that better integrating quantitative thinking and problem solving into
 
 ### Data management for biologists - Fall 2017
 
-Coming soon.
+[Slides](http://pboesu.github.io/public/grad_skills_2017_data_management.pdf) 
 
 ### PCB 6456C	Biometry - Spring 2017
 
