@@ -21,7 +21,7 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 **Surface temperatures of albatross eggs and nests**  
 *in revision for Emu - Austral Ornithology*  
 [Manuscript available on request](mailto:pboesu@gmail.com)  
-[Corresponding slides from WSTC3](https://storify.com/public/templates/slideshow/index.html?v=2&src=//storify.com/pboesu/wstc3#8)
+[Corresponding slides from WSTC3](https://storify.com/public/templates/slideshow/index.html?v=2&src=//storify.com/pboesu/wstc3#1)
 
 Ryan SJ, Lippi CA, *Boersch-Supan PH*, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  
 **Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador**  
