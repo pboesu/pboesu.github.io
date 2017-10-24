@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Ocean Science and Open Software Tools 
+title: 
 ---
 
 <img class="img-wide" src="/public/images/IYNA_JC66_3257_wide.jpg"><br>
