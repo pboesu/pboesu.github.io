@@ -6,6 +6,7 @@ submenu:
   - { hook: "deBInfer", title: "Bayesian Inference" }
   - { hook: "seamounts", title: "Seamounts & Islands" }
   - { hook: "SLs", title: "Open ocean" }
+  - { hook: "disease", title: "Disease Ecology" }
 ---
 
 ## Seabird Ecology<a name="albatross">&nbsp;</a>
@@ -78,3 +79,12 @@ Djurhuus, Boersch-Supan et al. (2017): [Microbial biogeography tracks water-mass
 Laptikovsky V, Boersch-Supan PH et al. (2015): [Cephalopods of the Southwest Indian Ocean Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.07.002)  
 Rogers et al. (2012): [Discovery of Southern Ocean deep-sea hydrothermal vent communities](http://dx.doi.org/10.1371/journal.pbio.1001234)
 
+## Disease and Vector Ecology<a name="diseases">&nbsp;</a>
+
+<table style="width:80%"><tr><td>
+<img class="img-research" src="/public/images/Culex_sp.png">
+More recently I have become interested in building models to answer questions from disease and vector ecology, and have contributed to studies investigating vector behaviour, environmental drivers of disease prevalence,  and other disease-related projects.
+</td></tr></table>
+
+#### Related Publications
+Ryan, Lippi, Boersch-Supan et al. 2017: [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1101/192773)
