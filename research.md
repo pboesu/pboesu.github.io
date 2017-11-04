@@ -79,7 +79,7 @@ Djurhuus, Boersch-Supan et al. (2017): [Microbial biogeography tracks water-mass
 Laptikovsky V, Boersch-Supan PH et al. (2015): [Cephalopods of the Southwest Indian Ocean Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.07.002)  
 Rogers et al. (2012): [Discovery of Southern Ocean deep-sea hydrothermal vent communities](http://dx.doi.org/10.1371/journal.pbio.1001234)
 
-## Disease and Vector Ecology<a name="diseases">&nbsp;</a>
+## Disease and Vector Ecology<a name="disease">&nbsp;</a>
 
 <table style="width:80%"><tr><td>
 <img class="img-research" src="/public/images/Culex_sp.png">
