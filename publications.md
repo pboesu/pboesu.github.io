@@ -118,6 +118,10 @@ Ecology and Evolution
 **Surface temperatures of albatross eggs and nests**  
 [Slides presented at the 3rd World Seabird Twitter Conference](https://storify.com/pboesu/wstc3)
 
+**Linking seabird energetics to population dynamics**<br>
+[Poster presented at the 2016 Gordon Research Conference on Unifying Ecology Across Scales, Biddeford, ME.](https://doi.org/10.6084/m9.figshare.5572435.v1)
+
+
 **deBInfer: Bayesian inference for dynamical models of biological systems in R**<br>
 [Poster presented at the International Society for Bayesian Analysis 2016 Conference](https://dx.doi.org/10.6084/m9.figshare.3466400.v1)
 
