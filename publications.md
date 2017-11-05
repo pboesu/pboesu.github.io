@@ -25,7 +25,7 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 
 Ryan SJ, Lippi CA, *Boersch-Supan PH*, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  
 **Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador**  
-*submitted to Malaria Journal*  
+*in revision for Malaria Journal*  
 [![bioRxiv:10.1101/192773](https://img.shields.io/badge/Preprint-bioRxiv:10.1101%2F192773-green.svg)](https://doi.org/10.1101/192773)
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
