@@ -127,7 +127,6 @@ Ecology and Evolution
 
 **Changing measurements of changing movements? - Detecting movement patterns across multiple generations of tracking technology**<br>
 [Poster presented at the International Statistical Ecology Conference, Seattle, 06/2016](https://dx.doi.org/10.6084/m9.figshare.3466403.v1)  
-Preprint available at [![arXiv:1703.06201](http://img.shields.io/badge/Preprint-arXiv:1703.06201-B31B1B.svg)](https://arxiv.org/abs/1703.06201)
 
 **Unravelling physiological and ecological determinants of albatross chick growth** <br>
 [Slides presented at the World Seabird Conference, Capetown, 11/2015](http://dx.doi.org/10.6084/m9.figshare.1591048)   
