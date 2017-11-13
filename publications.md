@@ -23,12 +23,12 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 [Manuscript available on request](mailto:pboesu@gmail.com)  
 [Corresponding slides from WSTC3](https://storify.com/public/templates/slideshow/index.html?v=2&src=//storify.com/pboesu/wstc3#1)
 
-Ryan SJ, Lippi CA, *Boersch-Supan PH*, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  
-**Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador**  
-*in revision for Malaria Journal*  
-[![bioRxiv:10.1101/192773](https://img.shields.io/badge/Preprint-bioRxiv:10.1101%2F192773-green.svg)](https://doi.org/10.1101/192773)
-
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+
+1. Ryan SJ, Lippi CA, *Boersch-Supan PH*, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  
+**Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador**  
+*in press at Malaria Journal*  
+[![bioRxiv:10.1101/192773](https://img.shields.io/badge/Preprint-bioRxiv:10.1101%2F192773-green.svg)](https://doi.org/10.1101/192773)
 
 1. Johnson LR, *Boersch-Supan PH*, Phillips RA, Ryan SJ (2017):  
 [Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology](https://doi.org/10.1002/ece3.3461).  
