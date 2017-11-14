@@ -17,6 +17,11 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
 
+**"A manuscript modelling ranavirus prevalence in free-living amphibians"**  
+(Currently undergoing double blind review)  
+[Manuscript available on request](mailto:pboesu@gmail.com) 
+
+
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
