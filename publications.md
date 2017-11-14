@@ -13,17 +13,18 @@ submenu:
 
 _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833).  
 _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ).  
-_(Social) Media coverage of my publications is summarised on_ [Impactstory](https://profiles.impactstory.org/u/0000-0001-6723-6833).  
+_(Social) Media coverage of my publications is summarised on_ [Impactstory](https://profiles.impactstory.org/u/0000-0001-6723-6833).  
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
 
-**Boersch-Supan PH**, Johnson LR, Phillips RA, Ryan SJ  
-**Surface temperatures of albatross eggs and nests**  
-*in revision for Emu - Austral Ornithology*  
-[Manuscript available on request](mailto:pboesu@gmail.com)  
-[Corresponding slides from WSTC3](https://storify.com/public/templates/slideshow/index.html?v=2&src=//storify.com/pboesu/wstc3#1)
+
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+
+1. **Boersch-Supan PH**, Johnson LR, Phillips RA, Ryan SJ  
+**Surface temperatures of albatross eggs and nests**  
+*in press at Emu - Austral Ornithology*  
+[Manuscript available on request](mailto:pboesu@gmail.com) 
 
 1. Ryan SJ, Lippi CA, **Boersch-Supan PH**, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  
 **Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador**  
