@@ -31,10 +31,10 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 *in press at Emu - Austral Ornithology*  
 [Manuscript available on request](mailto:pboesu@gmail.com) 
 
-1. Ryan SJ, Lippi CA, **Boersch-Supan PH**, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  
-**Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador**  
-*in press at Malaria Journal*  
-[![bioRxiv:10.1101/192773](https://img.shields.io/badge/Preprint-bioRxiv:10.1101%2F192773-green.svg)](https://doi.org/10.1101/192773)
+1. Ryan SJ, Lippi CA, **Boersch-Supan PH**, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  (2017)
+[Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1186/s12936-017-2121-4).  
+Malaria Journal    
+[![DOI:10.1186/s12936-017-2121-4](https://img.shields.io/badge/DOI-10.1186%2Fs12936-017-2121-4-blue.svg)](https://doi.org/10.1186/s12936-017-2121-4) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](https://doi.org/10.1186/s12936-017-2121-4)
 
 1. Johnson LR, **Boersch-Supan PH**, Phillips RA, Ryan SJ (2017):  
 [Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology](https://doi.org/10.1002/ece3.3461).  
