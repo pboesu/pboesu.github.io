@@ -33,12 +33,12 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 
 1. Ryan SJ, Lippi CA, **Boersch-Supan PH**, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  (2017)
 [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1186/s12936-017-2121-4).  
-Malaria Journal    
-[![DOI:10.1186/s12936-017-2121-4](https://img.shields.io/badge/DOI-10.1186%2Fs12936-017-2121-4-blue.svg)](https://doi.org/10.1186/s12936-017-2121-4) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](https://doi.org/10.1186/s12936-017-2121-4)
+Malaria Journal 16:479    
+[![DOI:10.1186/s12936-017-2121-4](https://img.shields.io/badge/DOI-10.1186%2Fs12936--017--2121--4-blue.svg)](https://doi.org/10.1186/s12936-017-2121-4) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](https://doi.org/10.1186/s12936-017-2121-4)
 
 1. Johnson LR, **Boersch-Supan PH**, Phillips RA, Ryan SJ (2017):  
 [Changing measurements or changing movements? Sampling scale and movement model identifiability across multiple generations of biologging technology](https://doi.org/10.1002/ece3.3461).  
-Ecology and Evolution   
+Ecology and Evolution 7:9257–9266   
 [![DOI:10.1002/ece3.3461](https://img.shields.io/badge/DOI-10.1002%2Fece3.3461-blue.svg)](https://doi.org/10.1002/ece3.3461) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](https://doi.org/10.1002/ece3.3461)
 
 0. Sydeman WJ, Thompson SA, Anker-Nilssen T, Arimitsu M, Bennison A, Bertrand S, **Boersch-Supan P**, Boyd C, Bransome NC, Crawford RJ, Daunt F, Furness RW, Gianuca D, Gladics A, Koehn L, Lang JW, Logerwell E, Morris TL, Phillips EM, Provencher J, Punt AE, Saraux C, Shannon L, Sherley RB, Simeone A, Wanless RM, Wanless S, Zador S (2017):  
@@ -53,7 +53,7 @@ Ecology and Evolution
  
 0. Rogers A, Alvheim O, Bemanaja E, Benivary D, **Boersch-Supan PH**, Bornman T, Cedras R, Du Plessis N, Gotheil S, Høines A, Kemp K, Kristiansen J, Letessier T, Mangar V, Mazungula N, Mørk T, Pinet P, Pollard R, Read J, Sonnekus T (2017):  
    [Pelagic communities of the South West Indian Ocean seamounts: R/V Dr Fridtjof Nansen Cruise 2009-410](../public/Rogers_et_al_SWIODSRII_prepress.pdf).  
-   Deep Sea Research II<br>
+   Deep Sea Research II 136:5-35  
    [![DOI:10.1016/j.dsr2.2016.12.010](https://img.shields.io/badge/DOI-10.1016%2Fj.dsr2.2016.12.010-blue.svg)](http://dx.doi.org/10.1016/j.dsr2.2016.12.010) 
    [![Free Abstract](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Rogers_et_al_SWIODSRII_prepress.pdf)
  
@@ -65,47 +65,47 @@ Ecology and Evolution
 
 0. **Boersch-Supan PH**, Ryan SJ, Johnson LR (2016):  
   [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)  
-  Methods in Ecology and Evolution <br>
+  Methods in Ecology and Evolution 8:511–518  
   [![DOI:10.1111/2041-210X.12679](https://img.shields.io/badge/DOI-10.1111%2F2041--210X.12679-blue.svg)](http://doi.org/10.1111/2041-210X.12679) 
   [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://doi.org/10.1111/2041-210X.12679)
   <!--<div data-badge-popover="right" data-badge-type="4" data-doi="10.1111/2041-210X.12679" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 0. **Boersch-Supan PH** (2016)  
   [rucrdtw: Fast time series subsequence search in R](http://dx.doi.org/10.21105/joss.00100)  
-  Journal of Open Source Software<br> 
+  Journal of Open Source Software 1(7):100   
   [![DOI:10.21105/joss.00100](https://img.shields.io/badge/DOI-10.21105%2Fjoss.00100-blue.svg)](http://doi.org/10.21105/joss.00100) [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](http://dx.doi.org/10.21105/joss.00100)
 
 0. Letessier TB, Cox MJ, Meeuwig JJ, **Boersch-Supan PH**, Brierley AS (2016):  
   [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675).  
-  Marine Ecology Progress Series 546, pp. 271-276 <br>
+  Marine Ecology Progress Series 546:271-276  
   [![DOI:10.3354/meps11675](https://img.shields.io/badge/DOI-10.3354/meps11675-blue.svg)](http://dx.doi.org/10.3354/meps11675) 
   [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/MEPS_BIOT_prepress.pdf)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps11675" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 0. **Boersch-Supan PH**, Rogers AD and Brierley AS (2015):  
   [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023).  
-  Deep Sea Research II <br>
+  Deep Sea Research II 136:108-121  
   [![DOI:10.1016/j.dsr2.2015.06.023](https://img.shields.io/badge/DOI-10.1016/j.dsr2.2015.06.023-blue.svg)](http://dx.doi.org/10.1016/j.dsr2.2015.06.023)
   [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Boersch-Supan_SWIODSL_preprint.pdf)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.dsr2.2015.06.023" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 0. Letessier TB, De Grave S, **Boersch-Supan PH**, Kemp KM, Brierley AS, Rogers AD (2015):  
   [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids (Lophogastridea) of the South-West Indian Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.05.009)  
-  Deep Sea Research II <br>
+  Deep Sea Research II 136:85-97  
   [![DOI:10.1016/j.dsr2.2015.05.009](https://img.shields.io/badge/DOI-10.1016/j.dsr2.2015.05.009-blue.svg)](http://dx.doi.org/10.1016/j.dsr2.2015.05.009)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.dsr2.2015.05.009" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 
 0. Laptikovsky V, **Boersch-Supan PH**, Bolstad K, Kemp KM, Letessier TB, Rogers AD (2015):  
   [Cephalopods of the Southwest Indian Ocean Ridge: a hotspot of biological diversity and absence of endemism](http://dx.doi.org/10.1016/j.dsr2.2015.07.002).  
-  Deep Sea Research II <br>
+  Deep Sea Research II 136:98-107  
   [![DOI:10.1016/j.dsr2.2015.07.002](https://img.shields.io/badge/DOI-10.1016/j.dsr2.2015.07.002-blue.svg)](http://dx.doi.org/10.1016/j.dsr2.2015.07.002)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.dsr2.2015.07.002" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 
 0. **Boersch-Supan PH**, Boehme L, Read JF, Rogers AD and Brierley AS (2012).  
   [Elephant seal foraging dives track prey distribution, not temperature: Comment on McIntyre et al. (2011)](http://dx.doi.org/10.3354/meps09890)  
-  Marine Ecology Progress Series 461, pp. 293-298 <br>
+  Marine Ecology Progress Series 461:293-298 <br>
   [![DOI:10.3354/meps09890](https://img.shields.io/badge/DOI-10.3354/meps09890-blue.svg)](http://dx.doi.org/10.3354/meps09890) 
   [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Boersch-Supan_2012_ElephantSeals_MEPS.pdf)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps09890" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
@@ -113,7 +113,7 @@ Ecology and Evolution
 
 0. Rogers AD, Tyler PA, Connelly DP, Copley JT, James R, Larter RD, Linse K, Mills RA, Naveira-Garabato A, Pancost RD, Pearce DA, Polunin NVC, German CR, Shank T, **Boersch-Supan PH**, Alker B, Aquilina A, Bennett SA, Clarke A, Dinley RJJ, Graham ACG, Green D, Hawkes JA, Hepburn L, Hilario A, Huvenne VAI, Marsh L, Ramirez-Llodra E, Reid WDK, Roterman CN, Sweeting CJ, Thatje S, Zwirglmaier K (2012):  
   [The discovery of new deep-sea hydrothermal vent communities in the Southern Ocean and implications for biogeography](http://dx.doi.org/10.1371/journal.pbio.1001234).  
-  PLoS Biology 10(1), e1001234 <br>
+  PLoS Biology 10(1):e1001234 <br>
   [![DOI:10.1371/journal.pbio.1001234](https://img.shields.io/badge/DOI-10.1371/journal.pbio.1001234-blue.svg)](http://dx.doi.org/10.1371/journal.pbio.1001234)
   [![Open Access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](../public/MEPS_BIOT_prepress.pdf)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pbio.1001234" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
