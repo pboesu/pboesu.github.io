@@ -10,4 +10,5 @@ _This semi-hidden page provides links to selected unpublished manuscripts that a
 **Boersch-Supan PH**, Johnson LR, Phillips RA, Ryan SJ: [Surface temperatures of albatross eggs and nests](http://pboesu.github.io/public/Boersch-Supan_et_al_egg.pdf). In press at Emu - Austral Ornithology.
 
 Ryan SJ, Lippi CA, **Boersch-Supan PH**, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM:
-Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador. In press at Malaria Journal. [BioRxiv preprint](https://doi.org/10.1101/192773)
+[Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1186/s12936-017-2121-4). Now published in Malaria Journal 16:479    
+[![DOI:10.1186/s12936-017-2121-4](https://img.shields.io/badge/DOI-10.1186%2Fs12936--017--2121--4-blue.svg)](https://doi.org/10.1186/s12936-017-2121-4)
