@@ -3,7 +3,9 @@ layout: page
 title: Hire me!
 ---
 
-**I am looking to relocate to the United Kingdom, the European Union, or Scandinavia for an opportunity to continue my career in quatitative ecology in early 2018.** 
+**I am looking to relocate to the United Kingdom, the European Union, or Scandinavia for an opportunity to continue my career in quantitative ecology in early 2018.** 
+
+**If you are looking for a creative postdoc with a broad quantitative skill set please get in touch: [pboesu@gmail.com](mailto:pboesu@gmail.com).**
 
 I am a quantitative ecologist interested in the processes that shape the distribution and behaviours of animals, and in particular the consequences of dynamic environments for foraging, breeding, and life-history strategies. 
 Most of my research to date has combined observational and theoretical approaches to
