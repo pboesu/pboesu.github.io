@@ -3,7 +3,7 @@ layout: page
 title: Hire me!
 ---
 
-**I am looking to relocate to Europe (EEA) for an opportunity to continue my career in quantitative ecology in early 2018.** 
+**I am looking for an opportunity to continue my career in quantitative ecology in Europe (EEA) in early 2018.** 
 
 **If you are looking for a creative postdoc with a broad quantitative skill set please get in touch: [pboesu@gmail.com](mailto:pboesu@gmail.com).**
 
