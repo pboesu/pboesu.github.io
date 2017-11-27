@@ -11,7 +11,7 @@ I am a quantitative ecologist interested in the processes that shape the distrib
 Most of my research to date has combined observational and theoretical approaches to
 study animal-environment interactions in marine ecosystems, but I am interested in biological systems of all kinds.
 
-I am particularly interested in state-dependent models of individual energetics, and the use of such models as building blocks in coupled models describing population dynamics under climatic and other forcings. My interest in modelling is not limited to ecological applications, but also covers inference approaches for connecting models to data.  
+I am particularly interested in state-dependent models of individual organisms, and the use of such models as building blocks in coupled models describing population dynamics under climatic and other forcings. My interest in modelling is not limited to ecological applications, but also covers inference approaches for connecting models to data.  
 
 [My research to date is summarised here](http://pboesu.github.io/research/)  
 [My publication record can be found here](http://pboesu.github.io/publications/)  
