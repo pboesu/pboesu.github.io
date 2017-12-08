@@ -5,12 +5,14 @@ title: Curriculum Vitae
 
 ![](/public/images/sunrise760-285.jpg)
 
+My full CV is available as [pdf](http://pboesu.github.io/public/CV-Boersch-Supan-2017-11.pdf).
+
 | | |
 | ----------- | ------------- |
-| 2017 &ndash; |  **Adjunct Instructor** |
-|  | *Department of Integrative Biology, University of South Florida* |
-| 2016 &ndash; |  **Postdoctoral Associate & Courtesy Research Faculty** |
+| 2016 &ndash; 2018|  **Postdoctoral Associate & Courtesy Research Faculty** |
 |  | *Department of Geography, University of Florida* |
+| 2017 |  **Adjunct Instructor** |
+|  | *Department of Integrative Biology, University of South Florida* |
 | 2014 &ndash; 2016 |  **Postdoctoral Research Scholar** |
 |  | *Department of Integrative Biology, University of South Florida* |
 |2013 &ndash; 2014 &nbsp;| **Zoological Analyst**|
