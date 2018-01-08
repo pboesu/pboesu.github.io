@@ -17,6 +17,11 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
 
+SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
+**Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
+Submitted to the New Zealand Journal of Ecology  
+[Manuscript available on request](mailto:pboesu@gmail.com)  
+
 **"A manuscript modelling ranavirus prevalence in free-living amphibians"**  
 (Currently undergoing double blind review)  
 [Manuscript available on request](mailto:pboesu@gmail.com) 
