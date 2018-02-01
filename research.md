@@ -16,11 +16,9 @@ submenu:
 <img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> Albatrosses are the largest seabirds and top-predators of the open ocean, but their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
 </td></tr></table>
 
-**Papers:**  
-Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)  
-Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests]
-
-(https://doi.org/10.1080/01584197.2017.1406311)
+**Papers:**   
+Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)   
+Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311)
 #### Related Links
 Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.<br>
 <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
