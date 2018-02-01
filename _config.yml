@@ -10,7 +10,8 @@ markdown:     kramdown
 permalink:    pretty
 highlighter:  rouge
 gems:         [jekyll-paginate]
-plugins: jemoji
+plugins: 
+  - jemoji
 paginate:     5
 paginate_path: "/blog/page:num/"
 exclude: ["/imported/"]
