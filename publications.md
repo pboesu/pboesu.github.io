@@ -20,7 +20,7 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 **PH Boersch-Supan**, LR Johnson  
 **A tutorial on Bayesian inference for dynamic energy budget models**  
 Submitted to the Journal of Sea Research  
-[Manuscript available on request](mailto:pboesu@gmail.com)  
+[![bioRxiv:259705](https://img.shields.io/badge/bioRxiv-10.1101%2F259705-blue.svg)](https://t.co/84LR6A4au8) [![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](https://t.co/84LR6A4au8)
 
 SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
 **Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
