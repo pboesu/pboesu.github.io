@@ -65,14 +65,54 @@ kable(data.frame(stage = c(academic_places[-1,1], "Total"),
 ```
 
 
-
-stage          distance_km   distance_mi
-------------  ------------  ------------
-undergrad              172           107
-masters_phd            992           617
-phd                    516           321
-postdoc1               107            67
-postdoc2a             7121          4426
-postdoc2b              185           115
-job                   7005          4354
-Total                16099         10006
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> stage </th>
+   <th style="text-align:right;"> distance_km </th>
+   <th style="text-align:right;"> distance_mi </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> undergrad </td>
+   <td style="text-align:right;"> 172 </td>
+   <td style="text-align:right;"> 107 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> masters_phd </td>
+   <td style="text-align:right;"> 992 </td>
+   <td style="text-align:right;"> 617 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> phd </td>
+   <td style="text-align:right;"> 516 </td>
+   <td style="text-align:right;"> 321 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> postdoc1 </td>
+   <td style="text-align:right;"> 107 </td>
+   <td style="text-align:right;"> 67 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> postdoc2a </td>
+   <td style="text-align:right;"> 7121 </td>
+   <td style="text-align:right;"> 4426 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> postdoc2b </td>
+   <td style="text-align:right;"> 185 </td>
+   <td style="text-align:right;"> 115 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> job </td>
+   <td style="text-align:right;"> 7005 </td>
+   <td style="text-align:right;"> 4354 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Total </td>
+   <td style="text-align:right;"> 16099 </td>
+   <td style="text-align:right;"> 10006 </td>
+  </tr>
+</tbody>
+</table>
