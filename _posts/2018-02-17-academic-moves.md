@@ -42,7 +42,7 @@ A quick plot to sanity check the locations
 qmplot(lon, lat, data = academic_places, maptype = "watercolor", color = I("red")) + geom_path(color = "red")
 ```
 
-![](academic_moves_files/figure-html/map-1.png)<!-- -->
+![](/public/images/map-1.png)<!-- -->
 
 I then used the `geosphere` package to calculate sequential distance between stations
 
