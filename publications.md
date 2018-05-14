@@ -28,9 +28,9 @@ SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns
 Submitted to the New Zealand Journal of Ecology  
 [Manuscript available on request](mailto:pboesu@gmail.com)  
 
-**"A manuscript modelling ranavirus prevalence in free-living amphibians"**  
-(Currently undergoing double blind review)  
-[Manuscript available on request](mailto:pboesu@gmail.com) 
+TE Youker-Smith, **PH Boersch-Supan**, CM Whipps, SJ Ryan   
+**Environmental drivers of ranavirus in free living amphibians in constructed ponds**  
+[![bioRxiv:321299](https://img.shields.io/badge/bioRxiv-10.1101%2F321299-blue.svg)](https://doi.org/10.1101/321299) [![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](https://doi.org/10.1101/321299)
 
 
 
