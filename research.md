@@ -89,4 +89,5 @@ More recently I have become interested in building models to answer questions fr
 </td></tr></table>
 
 #### Related Publications
-Ryan, Lippi, Boersch-Supan et al. 2017: [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1101/192773)
+Ryan, Lippi, Boersch-Supan et al. 2017: [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1101/192773)  
+Youker-Smith, Boersch-Supan et al. 2018:[Environmental drivers of ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1101/321299)
