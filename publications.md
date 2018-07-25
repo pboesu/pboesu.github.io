@@ -18,11 +18,6 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
 
-**PH Boersch-Supan**, LR Johnson  
-**A tutorial on Bayesian inference for dynamic energy budget models**  
-Submitted to the Journal of Sea Research  
-[![bioRxiv:259705](https://img.shields.io/badge/bioRxiv-10.1101%2F259705-blue.svg)](https://t.co/84LR6A4au8) [![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](https://t.co/84LR6A4au8)
-
 SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
 **Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
 Submitted to the New Zealand Journal of Ecology  
@@ -30,6 +25,11 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+
+1. **PH Boersch-Supan**, LR Johnson  
+**Two case studies detailing Bayesian inference for dynamic energy budget models**  
+*accepted in Journal of Sea Research*  
+[![bioRxiv:259705](https://img.shields.io/badge/bioRxiv-10.1101%2F259705-blue.svg)](https://t.co/84LR6A4au8) [![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](https://t.co/84LR6A4au8)
 
 1. Youker-Smith TE, **Boersch-Supan PH**, Whipps CM, Ryan SJ   
 **Environmental drivers of ranavirus in free living amphibians in constructed ponds**  
