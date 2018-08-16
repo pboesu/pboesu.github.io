@@ -32,7 +32,7 @@ Submitted to the New Zealand Journal of Ecology
 [![bioRxiv:259705](https://img.shields.io/badge/bioRxiv-10.1101%2F259705-blue.svg)](https://doi.org/10.1101/259705) [![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](https://doi.org/10.1101/259705)
 
 1. Youker-Smith TE, **Boersch-Supan PH**, Whipps CM, Ryan SJ (2018):  
-[Environmental drivers of ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1007/s10393-018-1350-5).
+[Environmental drivers of ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1007/s10393-018-1350-5).  
 EcoHealth *in press*  
 [![bioRxiv:321299](https://img.shields.io/badge/DOI-10.1007%2Fs10393--018--1350--5-blue.svg)](https://doi.org/10.1007/s10393-018-1350-5) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1007/s10393-018-1350-5)
 
