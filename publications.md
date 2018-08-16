@@ -26,10 +26,10 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
-1. **PH Boersch-Supan**, LR Johnson  
-**Two case studies detailing Bayesian inference for dynamic energy budget models**  
-*accepted in Journal of Sea Research*  
-[![bioRxiv:259705](https://img.shields.io/badge/bioRxiv-10.1101%2F259705-blue.svg)](https://doi.org/10.1101/259705) [![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](https://doi.org/10.1101/259705)
+1. **PH Boersch-Supan**, LR Johnson (2018):  
+[Two case studies detailing Bayesian inference for dynamic energy budget models](https://doi.org/10.1016/j.seares.2018.07.014)  
+Journal of Sea Research *in press*  
+[![bioRxiv:259705](https://img.shields.io/badge/DOI-10.1016%2Fj.seares.2018.07.014-blue.svg)](https://doi.org/10.1016/j.seares.2018.07.014) [![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](https://doi.org/10.1101/259705)
 
 1. Youker-Smith TE, **Boersch-Supan PH**, Whipps CM, Ryan SJ (2018):  
 [Environmental drivers of ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1007/s10393-018-1350-5).  
