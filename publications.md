@@ -39,7 +39,7 @@ EcoHealth *in press*
 
 1. **Boersch-Supan PH**, Johnson LR, Phillips RA, Ryan SJ (2018):  
 [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311).  
-Emu - Austral Ornithology 118:224-229
+Emu - Austral Ornithology 118:224-229  
 [![DOI:10.1080/01584197.2017.1406311](https://img.shields.io/badge/DOI-10.1080%2F01584197.2017.1406311-blue.svg)](https://doi.org/10.1080/01584197.2017.1406311)[![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](http://pboesu.github.io/public/Boersch-Supan_et_al_egg.pdf)
 
 1. Ryan SJ, Lippi CA, **Boersch-Supan PH**, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  (2017):  
