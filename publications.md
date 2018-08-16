@@ -31,18 +31,18 @@ Submitted to the New Zealand Journal of Ecology
 *accepted in Journal of Sea Research*  
 [![bioRxiv:259705](https://img.shields.io/badge/bioRxiv-10.1101%2F259705-blue.svg)](https://doi.org/10.1101/259705) [![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](https://doi.org/10.1101/259705)
 
-1. Youker-Smith TE, **Boersch-Supan PH**, Whipps CM, Ryan SJ   
-**Environmental drivers of ranavirus in free living amphibians in constructed ponds**  
-*EcoHealth*  
+1. Youker-Smith TE, **Boersch-Supan PH**, Whipps CM, Ryan SJ (2018):  
+[Environmental drivers of ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1007/s10393-018-1350-5).
+EcoHealth *in press*  
 [![bioRxiv:321299](https://img.shields.io/badge/DOI-10.1007%2Fs10393--018--1350--5-blue.svg)](https://doi.org/10.1007/s10393-018-1350-5) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1007/s10393-018-1350-5)
 
 
-1. **Boersch-Supan PH**, Johnson LR, Phillips RA, Ryan SJ  
-**Surface temperatures of albatross eggs and nests**  
-*Emu - Austral Ornithology*  
+1. **Boersch-Supan PH**, Johnson LR, Phillips RA, Ryan SJ (2018):  
+[Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311).  
+Emu - Austral Ornithology 118:224-229
 [![DOI:10.1080/01584197.2017.1406311](https://img.shields.io/badge/DOI-10.1080%2F01584197.2017.1406311-blue.svg)](https://doi.org/10.1080/01584197.2017.1406311)[![Free preprint](https://img.shields.io/badge/Free-preprint-brightgreen.svg)](http://pboesu.github.io/public/Boersch-Supan_et_al_egg.pdf)
 
-1. Ryan SJ, Lippi CA, **Boersch-Supan PH**, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  (2017)
+1. Ryan SJ, Lippi CA, **Boersch-Supan PH**, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  (2017):  
 [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1186/s12936-017-2121-4).  
 Malaria Journal 16:479    
 [![DOI:10.1186/s12936-017-2121-4](https://img.shields.io/badge/DOI-10.1186%2Fs12936--017--2121--4-blue.svg)](https://doi.org/10.1186/s12936-017-2121-4)  [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](https://doi.org/10.1186/s12936-017-2121-4)
