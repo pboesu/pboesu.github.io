@@ -28,6 +28,10 @@ Fast time series subsequence search under dynamic time warping in R. This packag
 This R package provides compiled dynamic energy budget models for seabirds. <br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 
+[DEButilities](https://github.com/pboesu/DEButilities)  
+This R package provides functions to facilitate dynamic energy budget model parameter estimation with [deBInfer](https://github.com/pboesu/debinfer). <br>
+[![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+
 [microclimloggers](https://github.com/RyanLab/ryanlabloggers)<br>
 This package provides functions to parse and reshape microclimate logger data (e.g. iButton Hygrochron, HOBO pendant loggers). <br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
