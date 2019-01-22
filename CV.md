@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 ![](/public/images/sunrise760-285.jpg)
 
-My full CV is available as [pdf](http://pboesu.github.io/public/CV-Boersch-Supan-2017-11.pdf).
+My full CV is available as [pdf](http://pboesu.github.io/public/CV-Boersch-Supan-0000-current.pdf).
 
 | | |
 | ----------- | ------------- |
