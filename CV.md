@@ -9,9 +9,11 @@ My full CV is available as [pdf](http://pboesu.github.io/public/CV-Boersch-Supan
 
 | | |
 | ----------- | ------------- |
-| 04/2018 &ndash; |  **Ecological Statistician** |
+| 2018 &ndash; |  **Ecological Statistician** |
 |  | *British Trust for Ornithology* |
-| 2016 &ndash; 2018|  **Postdoctoral Associate & Courtesy Research Faculty** |
+| 2017 &ndash; |  **Courtesy Research Faculty** |
+|  | *Department of Geography, University of Florida* |
+| 2016 &ndash; 2018|  **Postdoctoral Associate** |
 |  | *Department of Geography, University of Florida* |
 | 2017 |  **Adjunct Instructor** |
 |  | *Department of Integrative Biology, University of South Florida* |
