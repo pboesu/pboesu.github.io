@@ -23,7 +23,7 @@ submenu:
 </td></tr></table>
 
 **Papers:**   
-Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)    
+Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)<br>   
 Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311)
 #### Related Links
 Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.<br>
@@ -53,7 +53,9 @@ offers a rigorous methodology modeling the link between unobservable model state
 parameters, and observable quantities.
 </td></tr></table>
 
-**Paper:** Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)<br>
+**Paper:** Boersch-Supan & Johnson (2018): [Two case studies detailing Bayesian inference for dynamic energy budget models](https://doi.org/10.1016/j.seares.2018.07.014)<br>
+
+Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)<br>
 **Software:** [https://github.com/pboesu/debinfer](https://github.com/pboesu/debinfer)
 
 ## Ecology of seamounts and islands <a name="seamounts">&nbsp;</a>
