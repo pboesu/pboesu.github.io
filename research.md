@@ -12,7 +12,7 @@ submenu:
 
 ## Citizen Science & Bird Populations <a name="bto">&nbsp;</a>
 <table style="width:80%"><tr><td>
-<img class="img-research" src="/public/images/bt_05_16_coverage_map.png"> The [British Trust for Ornithology](http://www.bto.org) combines professional field ornithology and a network of over 60,000 volunteers to monitor change in the environment. I am part of the scientific team analysing these rich datasets which deliver the information used to plan and assess conservation action, and to inform decision-making processes for the benefits of society, wildlife and the natural world.
+<img class="img-research" src="/public/images/bt_05_16_coverage_map.png"> The <a href="http://www.bto.org">British Trust for Ornithology</a> combines professional field ornithology and a network of over 60,000 volunteers to monitor change in the environment. I am part of the scientific team analysing these rich datasets which deliver the information used to plan and assess conservation action, and to inform decision-making processes for the benefits of society, wildlife and the natural world.
 </td></tr></table>
 
 ## Seabird Ecology<a name="albatross">&nbsp;</a>
@@ -23,7 +23,7 @@ submenu:
 </td></tr></table>
 
 **Papers:**   
-Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)   
+Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)    
 Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311)
 #### Related Links
 Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.<br>
