@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Hire me!
+title: About me
 ---
-
-**I am looking for an opportunity to continue my career in quantitative ecology in Europe (EEA) in early 2018.** 
-
-**If you are looking for a creative postdoc with a broad quantitative skill set please get in touch: [pboesu@gmail.com](mailto:pboesu@gmail.com).**
 
 I am a quantitative ecologist interested in the processes that shape the distribution and behaviours of animals, and in particular the consequences of dynamic environments for foraging, breeding, and life-history strategies. 
 Most of my research to date has combined observational and theoretical approaches to
@@ -21,6 +17,6 @@ tropics to the polar zones.
 
 [My research to date is summarised here](http://pboesu.github.io/research/)  
 [My publication record can be found here](http://pboesu.github.io/publications/)  
-[My full CV can be found here](http://pboesu.github.io/public/CV-Boersch-Supan-2017-11.pdf)  
+[My full CV can be found here](http://pboesu.github.io/public/CV-Boersch-Supan-0000-current.pdf)  
 [My research software projects are summarised here](http://pboesu.github.io/software/)
 
