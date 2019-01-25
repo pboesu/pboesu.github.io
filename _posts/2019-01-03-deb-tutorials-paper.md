@@ -1,7 +1,7 @@
 ---
 author: Philipp Boersch-Supan
 layout: post
-title: New paper - Ranavirus prevalence in free-living frogs
+title: New paper - Bayesian inference for DEB models
 tags:
 - paper
 - Bayes
