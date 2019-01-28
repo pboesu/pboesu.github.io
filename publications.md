@@ -18,11 +18,15 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
 
-SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
+Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3APhilipp%2BH%2BBoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)
+<!--SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
 **Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
 Submitted to the New Zealand Journal of Ecology  
-[Manuscript available on request](mailto:pboesu@gmail.com)  
+[Manuscript available on request](mailto:pboesu@gmail.com)  -->
 
+<!--NJB Isaac et al.   
+**Data Integration for Large Scale Models of Species Distributions**
+In prep-->
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
