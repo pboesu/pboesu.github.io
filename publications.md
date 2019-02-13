@@ -24,9 +24,9 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 Submitted to the New Zealand Journal of Ecology  
 [Manuscript available on request](mailto:pboesu@gmail.com)  -->
 
-<!--NJB Isaac et al.   
-**Data Integration for Large Scale Models of Species Distributions**
-In prep-->
+NJB Isaac et al.   
+**Data Integration for Large Scale Models of Species Distributions**    
+Submitted to Trends in Ecology and Evolution
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
