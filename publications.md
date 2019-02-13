@@ -134,6 +134,7 @@ Ecology and Evolution 7:9257–9266
   [![DOI:10.1371/journal.pbio.1001234](https://img.shields.io/badge/DOI-10.1371/journal.pbio.1001234-blue.svg)](http://dx.doi.org/10.1371/journal.pbio.1001234)
   [![Open Access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](../public/MEPS_BIOT_prepress.pdf)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pbio.1001234" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
+  {: reversed="reversed"}
 
 ## R Vignettes<a name="Vignettes">&nbsp;</a>
 Vignettes are a type of long-form documentation in the R world. They are a bit like a book chapter or an academic paper, but are usually more explicit on the computational details. I have written or co-authored the following vignettes:
