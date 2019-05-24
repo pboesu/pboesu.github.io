@@ -5,7 +5,7 @@ title:
 
 <img class="img-wide" src="/public/images/IYNA_JC66_3257_wide.jpg"><br>
 
-I try to understand the physical and biological processes that shape the distribution and movements of animals, their foraging and migration behaviours, and their life-history strategies. I predominantly address these questions by studying birds and animals of the open ocean, and by using a combination of field observations and computational/theoretical approaches. 
+I try to understand the physical and biological processes that shape the distribution, abundance, and movements of animals, and their life-history strategies. I predominantly address these questions by studying birds and animals of the open ocean, and by using a combination of field observations and computational/theoretical approaches. 
 
 I am based at the [British Trust for Ornithology](https://www.bto.org/) where I work as an Ecological Statistician. I analyse data from various BTO surveys and research projects and provide advice on statistical techniques used for scientific analysis and survey design across the organisation.
 
