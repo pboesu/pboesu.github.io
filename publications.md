@@ -24,6 +24,10 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 Submitted to the New Zealand Journal of Ecology  
 [Manuscript available on request](mailto:pboesu@gmail.com)  -->
 
+**PH Boersch-Supan**, AE Trask, SR Baillie  
+**Robustness of simple avian population trend models for semi-structured citizen science data is species-dependent**  
+Submitted to Biological Conservation  
+
 NJB Isaac, MA Jarzyna, P Keil, **PH Boersch-Supan**, E Browning, LI Dambly, SN Freeman,
 N Golding, G Guillera-Arroita, P Henrys, S Jarvis, J Lahoz-Monfort, J Pagel, OL Pescott, R
 Schmucki, E Simmonds, RB O’Hara    
