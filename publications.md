@@ -31,13 +31,14 @@ In press at Biological Conservation
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
-
 1. NJB Isaac, MA Jarzyna, P Keil, LI Dambly, **PH Boersch-Supan**, E Browning,  SN Freeman,
 N Golding, G Guillera-Arroita, P Henrys, S Jarvis, J Lahoz-Monfort, J Pagel, OL Pescott, R
 Schmucki, E Simmonds, RB O’Hara (2019):    
 [Data Integration for Large Scale Models of Species Distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)    
 Trends in Ecology and Evolution in press    
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.tree.2019.08.006-blue.svg)](https://doi.org/10.1016/j.tree.2019.08.006) 
+[![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)
+
 
 1. **PH Boersch-Supan**, LR Johnson (2018):  
 [Two case studies detailing Bayesian inference for dynamic energy budget models](https://doi.org/10.1016/j.seares.2018.07.014)  
