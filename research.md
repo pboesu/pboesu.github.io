@@ -16,6 +16,7 @@ submenu:
 </td></tr></table>
 
 **Papers:**   
+Boersch-Supan et al. (2019) [Robustness of simple avian population trend models for semi-structured citizen science data is species-dependent](https://doi.org/10.1016/j.biocon.2019.108286)<br>   
 Isaac et al. (2019) [Data integration for large-scale models of species distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)<br>   
 
 ## Seabird Ecology<a name="albatross">&nbsp;</a>
