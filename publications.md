@@ -31,6 +31,7 @@ Submitted to the New Zealand Journal of Ecology
 [Robustness of simple avian population trend models for semi-structured citizen science data is species-dependent](https://doi.org/10.1016/j.biocon.2019.108286)    
 Biological Conservation 240:108286    
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.biocon.2019.108286-blue.svg)](https://doi.org/10.1016/j.biocon.2019.108286) 
+[![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Boersch-Supan_et_al_2019_Biol_Cons_accepted_manuscript.pdf)
 
 1. NJB Isaac, MA Jarzyna, P Keil, LI Dambly, **PH Boersch-Supan**, E Browning,  SN Freeman,
 N Golding, G Guillera-Arroita, P Henrys, S Jarvis, J Lahoz-Monfort, J Pagel, OL Pescott, R
