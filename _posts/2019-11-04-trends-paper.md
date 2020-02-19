@@ -14,4 +14,4 @@ We compared  & myself compared population trends derived from structured breedin
 
 You can read a [full summary of the paper at the BTO website](http://bit.ly/TrendModels).
 
-The full paper is available to download for free (until 🎄) via [this link](https://authors.elsevier.com/a/1a06B_9CgR4Eo).
+A free preprint of the paper is available at [this link](https://pboesu.github.io/public/Boersch-Supan_et_al_2019_Biol_Cons_accepted_manuscript.pdf).
