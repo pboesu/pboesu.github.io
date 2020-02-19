@@ -1,7 +1,7 @@
 ---
 author: Philipp Boersch-Supan
 layout: post
-title: New blog post - BirdTrack - a Swiss army knife in BTO’s toolkit
+title: Blog post - BirdTrack - a Swiss army knife in BTO’s toolkit
 tags:
 - paper
 ---
