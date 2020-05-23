@@ -20,10 +20,6 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3APhilipp%2BH%2BBoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)    
 
-* D O'Brien, M Taylor, H Masonjones, **P Boersch-Supan**, O O'Shea  
-Drivers of octopus abundance and density in an anchialine lake: a 30 year comparison  
-Resubmitted to Journal of Experimental Marine Biology and Ecology (03/2020)
-
 * EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer  
 Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends}  
 In revision for Bird Study (12/2019)
@@ -35,6 +31,11 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+
+1. DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O'Shea (2020)    
+[Drivers of octopus abundance and density in an anchialine lake: a 30 year comparison](https://doi.org/10.1016/j.jembe.2020.151377)     
+Journal of Experimental Marine Biology and Ecology 528:151377    
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jembe.2020.151377-blue.svg)](https://doi.org/10.1016/j.jembe.2020.151377) 
 
 1. **PH Boersch-Supan**, AE Trask, SR Baillie (2019):    
 [Robustness of simple avian population trend models for semi-structured citizen science data is species-dependent](https://doi.org/10.1016/j.biocon.2019.108286)    
