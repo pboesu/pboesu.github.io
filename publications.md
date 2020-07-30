@@ -21,8 +21,16 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3APhilipp%2BH%2BBoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)    
 
 * EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer  
-Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends}  
-In revision for Bird Study (12/2019)
+Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends  
+In revision for Bird Study (07/2020)
+
+* DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O’Shea    
+An experimental assessment of dietary preference and social tolerance in a high-density octopus population.    
+Submitted to Animal Behaviour (07/2020)    
+
+* KH Nguyen, **PH Boersch-Supan**, VJ Harwood, JR Rohr    
+Interventions can shift the thermal optimum for disease: Evidence from human schistosomiasis.    
+Submitted to Nature Ecology & Evolution (07/2020)
 
 <!--SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
 **Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
