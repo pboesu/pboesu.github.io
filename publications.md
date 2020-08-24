@@ -26,11 +26,11 @@ In revision for Bird Study (07/2020)
 
 * DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O’Shea    
 An experimental assessment of dietary preference and social tolerance in a high-density octopus population.    
-Submitted to Animal Behaviour (07/2020)    
+Submitted (08/2020)    
 
 * KH Nguyen, **PH Boersch-Supan**, VJ Harwood, JR Rohr    
 Interventions can shift the thermal optimum for disease: Evidence from human schistosomiasis.    
-Submitted to Nature Ecology & Evolution (07/2020)
+Submitted (08/2020)
 
 <!--SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
 **Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
