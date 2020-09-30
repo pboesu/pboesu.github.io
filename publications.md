@@ -33,8 +33,9 @@ Interventions can shift the thermal optimum for disease: Evidence from human sch
 Submitted (08/2020)
 
 * **PH Boersch-Supan**    
-[[Re] Modeling Insect Phenology Using Ordinal Regression and Continuation Ratio Models](https://github.com/pboesu/replication_candy_1991/blob/master/article/article.pdf) [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](https://github.com/pboesu/replication_candy_1991/blob/master/article/article.pdf)    
-Submitted to ReScience C (09/2020)
+[[Re] Modeling Insect Phenology Using Ordinal Regression and Continuation Ratio Models](https://github.com/pboesu/replication_candy_1991/blob/master/article/article.pdf)    
+Submitted to ReScience C (09/2020)    
+[![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](https://github.com/pboesu/replication_candy_1991/blob/master/article/article.pdf)    
 
 <!--SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
 **Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
