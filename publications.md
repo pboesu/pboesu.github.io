@@ -20,6 +20,10 @@ _(Social) Media coverage of my publications is summarised on_ [Impactstory](http
 
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3APhilipp%2BH%2BBoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)    
 
+*  **PH Boersch-Supan**, RA Robinson    
+Integrating structured and unstructured citizen science data to improve wildlife population monitoring    
+Submitted to Journal of Applied Ecology (11/2020)    
+
 * EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer  
 Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends  
 In revision for Bird Study (07/2020)
