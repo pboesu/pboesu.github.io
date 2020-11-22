@@ -64,7 +64,7 @@ Biological Conservation 240:108286
 N Golding, G Guillera-Arroita, P Henrys, S Jarvis, J Lahoz-Monfort, J Pagel, OL Pescott, R
 Schmucki, E Simmonds, RB O’Hara (2019):    
 [Data Integration for Large Scale Models of Species Distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)    
-Trends in Ecology and Evolution in press    
+Trends in Ecology and Evolution     
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.tree.2019.08.006-blue.svg)](https://doi.org/10.1016/j.tree.2019.08.006) 
 [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)
 
