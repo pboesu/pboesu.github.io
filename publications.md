@@ -24,17 +24,21 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 Integrating structured and unstructured citizen science data to improve wildlife population monitoring    
 Submitted to Journal of Applied Ecology (11/2020)    
 
+* ID Woodward, GE Austin, **PH Boersch-Supan PH**, CB Thaxter, NK Burton    
+Potential drivers of winter abundance trends of Eurasian Curlew Numenius arquata in England and Wales    
+Submitted to Bird Study (12/2020)
+
 * EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer  
 Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends  
-In revision for Bird Study (07/2020)
+In revision for Bird Study (11/2020)
 
 * DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O’Shea    
 An experimental assessment of dietary preference and social tolerance in a high-density octopus population.    
-Submitted (08/2020)    
+Submitted to Marine Biology (12/2020)    
 
 * KH Nguyen, **PH Boersch-Supan**, VJ Harwood, JR Rohr    
 Interventions can shift the thermal optimum for disease: Evidence from human schistosomiasis.    
-Submitted (08/2020)
+In revision for PNAS (10/2020)
 
 * **PH Boersch-Supan**    
 [[Re] Modeling Insect Phenology Using Ordinal Regression and Continuation Ratio Models](https://github.com/pboesu/replication_candy_1991/blob/master/article/article.pdf)    
