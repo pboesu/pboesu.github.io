@@ -14,7 +14,6 @@ submenu:
 
 _My Orcid ID is_ [0000-0001-6723-6833](http://orcid.org/0000-0001-6723-6833).  
 _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=en&user=fdUpdGoAAAAJ).  
-_(Social) Media coverage of my publications is summarised on_ [Impactstory](https://profiles.impactstory.org/u/0000-0001-6723-6833).  
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
 
@@ -27,10 +26,6 @@ Submitted to Journal of Applied Ecology (11/2020)
 * ID Woodward, GE Austin, **PH Boersch-Supan PH**, CB Thaxter, NK Burton    
 Potential drivers of winter abundance trends of Eurasian Curlew Numenius arquata in England and Wales    
 Submitted to Bird Study (12/2020)
-
-* EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer  
-Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends  
-In revision for Bird Study (11/2020)
 
 * DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O’Shea    
 An experimental assessment of dietary preference and social tolerance in a high-density octopus population.    
@@ -52,6 +47,10 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+
+1. EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer (in press)    
+Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends  
+Bird Study
 
 1. DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O'Shea (2020)    
 [Drivers of octopus abundance and density in an anchialine lake: a 30 year comparison](https://doi.org/10.1016/j.jembe.2020.151377)     
