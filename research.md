@@ -28,9 +28,9 @@ Isaac et al. (2019) [Data integration for large-scale models of species distribu
 <img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> Albatrosses are the largest seabirds and top-predators of the open ocean, but like other petrels their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
 </td></tr></table>
 
-**Papers:**   
+**Papers:**<br> 
 Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)<br>   
-Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311)
+Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311)<br>
 Borrelle, Boersch-Supan et al. (2016): [Recovery of seabirds on islands eradicated of invasive predators](../public/Borrelle_et_al_2016_prepress.pdf)<br>
 #### Related Links
 <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
@@ -48,7 +48,7 @@ This work relies on a data base of several hundred thousand body mass time serie
 
 ## Bayesian inference for dynamic models of biological systems<a name="deBInfer">&nbsp;</a>
 <table style="width:80%"><tr><td>
-<img class="img-research" src="http://leah.johnson-gramacy.com/QED/wp-content/uploads/2015/12/pretty_pairs_full_model_teixdat_crop-1170x470.jpg"> Differential equations (DEs) are commonly used to model the temporal evolution of dynamic
+<img class="img-research" src="/public/images/bayesian_inference.jpg"> Differential equations (DEs) are commonly used to model the temporal evolution of dynamic
 systems in science and engineering, but statistical methods for comparing DE models to data
 and for parameter inference are relatively poorly developed. This is especially problematic in
 the presence of latent model states or parameters, when observations are noisy or when only a
