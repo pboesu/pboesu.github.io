@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Open Ocean Science and Open Software Tools 
+title: 
 ---
 
 <img class="img-wide" src="/public/images/IYNA_JC66_3257_wide.jpg"><br>
 
-I study life in the open ocean, the so called pelagic realm, using a combination of field observations and computational/theoretical approaches. I try to understand the physical and biological processes that shape the distribution and movements of open ocean animals and their foraging behaviours. 
+I try to understand the physical and biological processes that shape the distribution, abundance, and movements of animals, and their life-history strategies. I predominantly address these questions by studying birds and animals of the open ocean, and by using a combination of field observations and computational/theoretical approaches. 
 
-I am currently a postdoctoral associate at the University of Florida where I study the bioenergetics and foraging strategies of Antarctic albatrosses. This research is funded by the National Science Foundation and conducted in collaboration with scientists at Virginia Tech and the British Antarctic Survey. 
+I am based at the [British Trust for Ornithology](https://www.bto.org/) where I work as an Ecological Statistician. I analyse data from various BTO surveys and research projects and provide advice on statistical techniques used for scientific analysis and survey design across the organisation.
+
+Prior to my current job I was a postdoc in the [QDEC lab](http://www.sadieryan.net/) at the University of Florida and the [QED lab](http://leah.johnson-gramacy.com/QED/) at Virginia Tech working on the bioenergetics and foraging strategies of Antarctic [albatrosses](http://pboesu.github.io/research/#albatross). 
 
 I love to dig into biological data and am broadly interested in making and improving quantitative tools for ecological research. My work aims to bridge the gap between field observations and ecological theory and to this end I am working on a number of [open source software projects](http://pboesu.github.io/software).
 
-In my previous and ongoing work I have studied a variety of biological systems including the midwater ecology around seamounts and atolls, resource allocation strategies in penguins and the ecology of human and non-human pathogens and disease vectors. 
+In my previous and ongoing work I have studied a variety of biological systems including the midwater ecology around [seamounts and atolls](http://pboesu.github.io/research/#seamounts), resource allocation strategies and migration phenology in [penguins](http://pboesu.github.io/research/#albatross) and the ecology of human and non-human pathogens and [disease vectors](http://pboesu.github.io/research/#disease). 
 
 
 

@@ -1,6 +1,6 @@
 title:        Dr Philipp Boersch‑Supan
 tagline:      'Philipp Boersch-Supan'
-description:  'Marine & Quantitative Ecologist'
+description:  'Quantitative Ecologist'
 url:    http://pboesu.github.io
 version:      1.1.1
 author:
@@ -10,6 +10,8 @@ markdown:     kramdown
 permalink:    pretty
 highlighter:  rouge
 gems:         [jekyll-paginate]
+plugins: 
+  - jemoji
 paginate:     5
 paginate_path: "/blog/page:num/"
 exclude: ["/imported/"]

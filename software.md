@@ -28,6 +28,10 @@ Fast time series subsequence search under dynamic time warping in R. This packag
 This R package provides compiled dynamic energy budget models for seabirds. <br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 
+[DEButilities](https://github.com/pboesu/DEButilities)  
+This R package provides functions to facilitate dynamic energy budget model parameter estimation with [deBInfer](https://github.com/pboesu/debinfer). <br>
+[![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+
 [microclimloggers](https://github.com/RyanLab/ryanlabloggers)<br>
 This package provides functions to parse and reshape microclimate logger data (e.g. iButton Hygrochron, HOBO pendant loggers). <br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
@@ -37,4 +41,4 @@ This package provides functions to parse and reshape microclimate logger data (e
 
 Software is fundamental to modern ecological research, yet it is poorly integrated in todays scholarly practice, and receives little acknowledgement in the scholarly record. I strongly believe that research software should be treated on the same basis as other scholarly products such as papers, books, and data sets. Research software deserves peer-review and citations. 
 
-I strive to support sustainable research software development as a reviewer and contributor to the digital infrastructure for the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com/) and the [Journal of Open Source Software](http://joss.theoj.com/). Many of my contributions are public on [github](https://github.com/pboesu).
+I strive to support reproducible research and sustainable research software development as a [Fellow of the Software Sustainability Institute](https://software.ac.uk/about/fellows), member of the [Carpentries](https://software-carpentry.org/about/) community, and as a reviewer and contributor to the digital infrastructure for journals like [JORS](http://openresearchsoftware.metajnl.com/), [JOSS](http://joss.theoj.com/), and [ReScience](http://rescience.github.io/). Many of my contributions are public on [github](https://github.com/pboesu).
