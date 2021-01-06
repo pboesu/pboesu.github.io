@@ -19,6 +19,10 @@ _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=e
 
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3APhilipp%2BH%2BBoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)    
 
+* KH Nguyen, **PH Boersch-Supan**, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr    
+Interventions can shift the thermal optimum for disease: Evidence from human schistosomiasis.    
+Resubmitted to PNAS (12/2020)
+
 *  **PH Boersch-Supan**, RA Robinson    
 Integrating structured and unstructured citizen science data to improve wildlife population monitoring    
 Submitted to Journal of Applied Ecology (11/2020)    
@@ -29,11 +33,7 @@ Submitted to Bird Study (12/2020)
 
 * DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O’Shea    
 An experimental assessment of dietary preference and social tolerance in a high-density octopus population.    
-Submitted to Marine Biology (12/2020)    
-
-* KH Nguyen, **PH Boersch-Supan**, VJ Harwood, JR Rohr    
-Interventions can shift the thermal optimum for disease: Evidence from human schistosomiasis.    
-In revision for PNAS (10/2020)
+Resubmitted to Marine Biology (12/2020)    
 
 * **PH Boersch-Supan**    
 [[Re] Modeling Insect Phenology Using Ordinal Regression and Continuation Ratio Models](https://github.com/pboesu/replication_candy_1991/blob/master/article/article.pdf)    
