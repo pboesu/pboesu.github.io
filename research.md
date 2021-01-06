@@ -5,9 +5,9 @@ submenu:
   - { hook: "bto", title: "Citizen Science" }
   - { hook: "albatross", title: "Seabirds" }
   - { hook: "deBInfer", title: "Bayesian Inference" }
-  - { hook: "seamounts", title: "Seamounts & Islands" }
-  - { hook: "SLs", title: "Open ocean" }
   - { hook: "disease", title: "Disease Ecology" }
+  - { hook: "seamounts", title: "Marine Ecology" }
+
 ---
 
 ## Citizen Science & Bird Populations <a name="bto">&nbsp;</a>
@@ -19,18 +19,20 @@ submenu:
 Boersch-Supan et al. (2019) [Robustness of simple avian population trend models](https://doi.org/10.1016/j.biocon.2019.108286)<br>   
 Isaac et al. (2019) [Data integration for large-scale models of species distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)<br>   
 
+**Presentation:** [Integrating citizen science data sets to improve a national bird monitoring scheme](https://youtu.be/yejolG6GyPU)
+
 ## Seabird Ecology<a name="albatross">&nbsp;</a>
 
-### Bioenergetics and foraging movements of Antarctic albatrosses
+### Albatrosses and petrels
 <table style="width:80%"><tr><td>
-<img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> Albatrosses are the largest seabirds and top-predators of the open ocean, but their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
+<img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> Albatrosses are the largest seabirds and top-predators of the open ocean, but like other petrels their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
 </td></tr></table>
 
 **Papers:**   
 Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)<br>   
 Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311)
+Borrelle, Boersch-Supan et al. (2016): [Recovery of seabirds on islands eradicated of invasive predators](../public/Borrelle_et_al_2016_prepress.pdf)<br>
 #### Related Links
-Find out more about this project on the <a href="http://leah.johnson-gramacy.com/albatross">Albatross Project website</a>.<br>
 <a href="https://figshare.com/articles/Unravelling_physiological_and_ecological_determinants_of_albatross_chick_growth/1591048">Slides from my WSC2015 talk on metabolic models for albatrosses</a> 
 
 ### Foraging phenology and chick-provisioning in macaroni penguins<a name="weighbridge">&nbsp;</a>
@@ -62,37 +64,6 @@ parameters, and observable quantities.
 Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)<br>
 **Software:** [https://github.com/pboesu/debinfer](https://github.com/pboesu/debinfer)
 
-## Ecology of seamounts and islands <a name="seamounts">&nbsp;</a>
-<table style="width:80%"><tr><td>
-<img class="img-research" src="http://news.bbcimg.co.uk/media/images/51453000/gif/_51453465_pic6.gif">Seamounts and islands protrude into the open ocean, introducing hard boundaries to an otherwise largely unbounded habitat. Above water, they offer breeding habitat for air-breathing marine predators such as seabirds and seals. Below the waves, the abrupt topography can trap small pelagic animals, exposing them to predators and/or concentrating them on island slopes and the summits and flanks of submarine banks. I have studied seabird assemblages on islands, as well as the effect of abrupt topography on the distribution of pelagic biota and their predator-prey interactions.
-</td></tr></table>
-
-#### Related Publications
-Borrelle, Boersch-Supan et al. (2016): [Recovery of seabirds on islands eradicated of invasive predators](../public/Borrelle_et_al_2016_prepress.pdf)<br>
-Letessier TB et al. (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675)<br>
-Letessier TB et al. (2015): [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids ...](http://dx.doi.org/10.1016/j.dsr2.2015.05.009)
-
-## Open ocean ecology<a name="SLs">&nbsp;</a>
-
-### Oceanic scattering layers & pelagic biogeography
-<table style="width:80%"><tr><td>
-<img class="img-research" src="/public/images/DVM38kHz.jpg">A substantial proportion of biomass below the photic zone is concentrated in so called sound scattering layers which can be observed with echosounders. Scattering layers are often species-rich and include animals like laternfishes, squids and deep-water prawns. They are an important prey source for predators such as tuna, oceanic sharks and marine mammals. They also play an important role in marine biogeochemical cycles. I have studied the distribution and biogeographic zonation of scattering layers in the southern Indian Ocean. 
-</td></tr></table>
-
-#### Related Publications
-Boersch-Supan et al. (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023)<br>
-Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distribution, not temperature ...](http://dx.doi.org/10.3354/meps09890)
-
-### Marine biogeography
-<table style="width:80%"><tr><td>
-<img class="img-research" src="/public/images/6watermass_schematic.png"> I have also contributed to biogeographic studies of marine animals ranging from pelagic microbes to hydrothermal vent animals. 
-</td></tr></table>
-
-#### Related Publications
-Djurhuus, Boersch-Supan et al. (2017): [Microbial biogeography tracks water-mass features](http://dx.doi.org/10.1098/rsos.170033)<br>
-Laptikovsky V, Boersch-Supan PH et al. (2015): [Cephalopods of the Southwest Indian Ocean Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.07.002)  
-Rogers et al. (2012): [Discovery of Southern Ocean deep-sea hydrothermal vent communities](http://dx.doi.org/10.1371/journal.pbio.1001234)
-
 ## Disease and Vector Ecology<a name="disease">&nbsp;</a>
 
 <table style="width:80%"><tr><td>
@@ -103,3 +74,19 @@ More recently I have become interested in building models to answer questions fr
 #### Related Publications
 Ryan, Lippi, Boersch-Supan et al. 2017: [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1101/192773)  
 Youker-Smith, Boersch-Supan et al. 2018:[Environmental drivers of ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1101/321299)
+
+## Marine Ecology<a name="seamounts">&nbsp;</a>
+<table style="width:80%"><tr><td>
+<img class="img-research" src="http://news.bbcimg.co.uk/media/images/51453000/gif/_51453465_pic6.gif">Since my PhD I have studied a variety of marine systems, predominantly in open ocean environments. I have studied the effect of oceaninc fronts, seamounts, and islands on the distribution of pelagic biota and their predator-prey interactions and contributed to biogeographic and behavioural studies of marine animals ranging from pelagic microbes to hydrothermal vent animals. </td></tr></table>
+
+#### Related Publications
+O'Brian et al. (2020): [Drivers of octopus abundance and density](https://doi.org/10.1016/j.jembe.2020.151377)<br>
+Djurhuus, Boersch-Supan et al. (2017): [Microbial biogeography tracks water-mass features](http://dx.doi.org/10.1098/rsos.170033)<br>
+Letessier TB et al. (2016): [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675)<br>
+Boersch-Supan et al. (2015): [The distribution of pelagic scattering layers across the Southwest Indian Ocean](http://dx.doi.org/10.1016/j.dsr2.2015.06.023)<br>
+Laptikovsky V, Boersch-Supan PH et al. (2015): [Cephalopods of the Southwest Indian Ocean Ridge](http://dx.doi.org/10.1016/j.dsr2.2015.07.002)    
+Letessier TB et al. (2015): [Seamount influences on mid-water shrimps (Decapoda) and gnathophausiids ...](http://dx.doi.org/10.1016/j.dsr2.2015.05.009)    
+Boersch-Supan et al. (2012). [Elephant seal foraging dives track prey distribution, not temperature ...](http://dx.doi.org/10.3354/meps09890)    
+Rogers et al. (2012): [Discovery of Southern Ocean deep-sea hydrothermal vent communities](http://dx.doi.org/10.1371/journal.pbio.1001234)    
+
+
