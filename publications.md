@@ -190,9 +190,8 @@ Vignettes are a type of long-form documentation in the R world. They are a bit l
 
 
 ## Selected Presentations<a name="Presentations">&nbsp;</a>
-
-**Surface temperatures of albatross eggs and nests**  
-[Slides presented at the 3rd World Seabird Twitter Conference](https://storify.com/pboesu/wstc3)
+**Integrating citizen science data sets to improve a national bird monitoring scheme**    
+[Talk presented at the virtual International Statistical Ecology Conference 06/2020](https://youtu.be/yejolG6GyPU)
 
 **Linking seabird energetics to population dynamics**<br>
 [Poster presented at the 2016 Gordon Research Conference on Unifying Ecology Across Scales, Biddeford, ME.](https://doi.org/10.6084/m9.figshare.5572435.v1)
