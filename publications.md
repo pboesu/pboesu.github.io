@@ -44,7 +44,7 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
-1. KH Nguyen*, **PH Boersch-Supan***, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr (in press)   
+1. KH Nguyen\*, **PH Boersch-Supan**\*, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr (in press)   
 Interventions can shift the thermal optimum for disease: Evidence from human schistosomiasis.    
 PNAS    
 *joint corresponding authors    
