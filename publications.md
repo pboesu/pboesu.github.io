@@ -19,10 +19,6 @@ _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=e
 
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3APhilipp%2BH%2BBoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)    
 
-* KH Nguyen, **PH Boersch-Supan**, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr    
-Interventions can shift the thermal optimum for disease: Evidence from human schistosomiasis.    
-Resubmitted to PNAS (12/2020)
-
 *  **PH Boersch-Supan**, RA Robinson    
 Integrating structured and unstructured citizen science data to improve wildlife population monitoring    
 Submitted to Journal of Applied Ecology (11/2020)    
@@ -47,6 +43,11 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+
+1. KH Nguyen*, **PH Boersch-Supan***, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr (in press)   
+Interventions can shift the thermal optimum for disease: Evidence from human schistosomiasis.    
+PNAS    
+*joint corresponding authors    
 
 1. EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer (in press)    
 Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends  
