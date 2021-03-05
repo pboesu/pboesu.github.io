@@ -21,7 +21,8 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 
 *  **PH Boersch-Supan**, RA Robinson    
 Integrating structured and unstructured citizen science data to improve wildlife population monitoring    
-~~Submitted to Journal of Applied Ecology (11/2020)~~    
+~~Submitted to Journal of Applied Ecology (11/2020)~~     
+[![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](https://doi.org/10.1101/2021.03.03.431294)
 
 * ID Woodward, GE Austin, **PH Boersch-Supan PH**, CB Thaxter, NK Burton    
 Potential drivers of winter abundance trends of Eurasian Curlew Numenius arquata in England and Wales    
