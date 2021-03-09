@@ -16,9 +16,9 @@ submenu:
 </td></tr></table>
 
 **Papers:**    
-Boersch-SUpan & Robinson (2021) [Integrating structured and unstructured citizen science data](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
-Boersch-Supan et al. (2019) [Robustness of simple avian population trend models](https://doi.org/10.1016/j.biocon.2019.108286)<br>    
-Isaac et al. (2019) [Data integration for large-scale models of species distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)<br>    
+Boersch-Supan & Robinson (2021) [Integrating structured and unstructured citizen science data](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)    
+Boersch-Supan et al. (2019) [Robustness of simple avian population trend models](https://doi.org/10.1016/j.biocon.2019.108286)<br>
+Isaac et al. (2019) [Data integration for large-scale models of species distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)<br>
 
 **Presentation:** [Integrating citizen science data sets to improve a national bird monitoring scheme](https://youtu.be/yejolG6GyPU)
 
@@ -30,7 +30,7 @@ Isaac et al. (2019) [Data integration for large-scale models of species distribu
 </td></tr></table>
 
 **Papers:**<br> 
-Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)<br>   
+Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)<br>
 Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311)<br>
 Borrelle, Boersch-Supan et al. (2016): [Recovery of seabirds on islands eradicated of invasive predators](../public/Borrelle_et_al_2016_prepress.pdf)<br>
 #### Related Links
@@ -75,7 +75,7 @@ More recently I have become interested in building models to answer questions fr
 </td></tr></table>
 
 #### Related Publications    
-Nguyen, Boersch-SUpan et al. 2021: [Interventions can shift the thermal optimum for parasitic disease transmission](https://doi.org/10.1073/pnas.2017537118)    
+Nguyen, Boersch-Supan et al. 2021: [Interventions can shift the thermal optimum for parasitic disease transmission](https://doi.org/10.1073/pnas.2017537118)    
 Ryan, Lippi, Boersch-Supan et al. 2017: [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1101/192773)    
 Youker-Smith, Boersch-Supan et al. 2018:[Environmental drivers of ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1101/321299)
 
