@@ -15,9 +15,10 @@ submenu:
 <img class="img-research" src="/public/images/bt_05_16_coverage_map.png"> The <a href="http://www.bto.org">British Trust for Ornithology</a> combines professional field ornithology and a network of over 60,000 volunteers to monitor change in the environment. I am part of the scientific team analysing these rich datasets which deliver the information used to plan and assess conservation action, and to inform decision-making processes for the benefits of society, wildlife and the natural world. I am also involved in research towards new and improved statistical methods for citizen science data sets.
 </td></tr></table>
 
-**Papers:**   
-Boersch-Supan et al. (2019) [Robustness of simple avian population trend models](https://doi.org/10.1016/j.biocon.2019.108286)<br>   
-Isaac et al. (2019) [Data integration for large-scale models of species distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)<br>   
+**Papers:**    
+Boersch-SUpan & Robinson (2021) [Integrating structured and unstructured citizen science data](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
+Boersch-Supan et al. (2019) [Robustness of simple avian population trend models](https://doi.org/10.1016/j.biocon.2019.108286)<br>    
+Isaac et al. (2019) [Data integration for large-scale models of species distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)<br>    
 
 **Presentation:** [Integrating citizen science data sets to improve a national bird monitoring scheme](https://youtu.be/yejolG6GyPU)
 
@@ -59,10 +60,12 @@ offers a rigorous methodology modeling the link between unobservable model state
 parameters, and observable quantities.
 </td></tr></table>
 
-**Paper:** Boersch-Supan & Johnson (2018): [Two case studies detailing Bayesian inference for dynamic energy budget models](https://doi.org/10.1016/j.seares.2018.07.014)<br>
-
-Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)<br>
-**Software:** [https://github.com/pboesu/debinfer](https://github.com/pboesu/debinfer)
+**Papers:**    
+Boersch-Supan & Johnson (2018): [Two case studies detailing Bayesian inference for dynamic energy budget models](https://doi.org/10.1016/j.seares.2018.07.014)<br>
+Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)    
+    
+**Software:**    
+[https://github.com/pboesu/debinfer](https://github.com/pboesu/debinfer)
 
 ## Disease and Vector Ecology<a name="disease">&nbsp;</a>
 
@@ -71,8 +74,9 @@ Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models 
 More recently I have become interested in building models to answer questions from disease and vector ecology, and have contributed to studies investigating vector behaviour, environmental drivers of disease prevalence,  and other disease-related projects.
 </td></tr></table>
 
-#### Related Publications
-Ryan, Lippi, Boersch-Supan et al. 2017: [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1101/192773)  
+#### Related Publications    
+Nguyen, Boersch-SUpan et al. 2021: [Interventions can shift the thermal optimum for parasitic disease transmission](https://doi.org/10.1073/pnas.2017537118)    
+Ryan, Lippi, Boersch-Supan et al. 2017: [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1101/192773)    
 Youker-Smith, Boersch-Supan et al. 2018:[Environmental drivers of ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1101/321299)
 
 ## Marine Ecology<a name="seamounts">&nbsp;</a>
