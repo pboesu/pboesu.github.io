@@ -41,9 +41,10 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
-1. KH Nguyen\*, **PH Boersch-Supan**\*, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr (in press)   
+1. KH Nguyen\*, **PH Boersch-Supan**\*, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr (2021)   
 Interventions can shift the thermal optimum for parasitic disease transmission.    
-PNAS    
+Proceedings of the National Academy of Sciences    
+[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2017537118-blue.svg)](https://doi.org/10.1073/pnas.2017537118)    
 *joint corresponding authors    
 
 1. DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O'Shea (in press)  
