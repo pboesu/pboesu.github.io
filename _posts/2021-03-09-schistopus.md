@@ -26,7 +26,7 @@ targeting the disease in different ways, for example by treating humans or remov
 The simulation results showed that removing snails was the most effective intervention to reduce transmission, especially when applied at low environmental temperatures. 
 Surprisingly, simulated snail removal also raised the optimal temperature for transmission by up to 1.3 degrees centigrade.
 
-<img class="img-wide" src="/public/images/twitter_topt_shift.png" alt="Shift of Topt for different treatment scenarios."> 
+<img class="img-half" src="/public/images/twitter_topt_shift.png" alt="Shift of Topt for different treatment scenarios."> 
 
 This is because interventions like chemical treatments amplify snail
 mortality at all temperatures, and while this decreases disease transmission overall, it also allows the peak
