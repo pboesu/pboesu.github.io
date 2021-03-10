@@ -24,6 +24,11 @@ Fast time series subsequence search under dynamic time warping in R. This packag
 ![Peer Reviewed Software](https://img.shields.io/badge/Peer%20Reviewed-%E2%9C%93-green.svg)
 [![status](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc/status.svg)](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc)
 
+[moultmcmc](https://github.com/pboesu/moultmcmc)<br>
+This R package provides Bayesian inference for models of avian primary moult.<br>
+[![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![Travis-CI Build Status](https://travis-ci.org/pboesu/moultmcmc.svg)](https://travis-ci.org/pboesu/moultmcmc)
+
 [seabirdeb](https://github.com/pboesu/seabirdeb)<br>
 This R package provides compiled dynamic energy budget models for seabirds. <br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
@@ -41,4 +46,4 @@ This package provides functions to parse and reshape microclimate logger data (e
 
 Software is fundamental to modern ecological research, yet it is poorly integrated in todays scholarly practice, and receives little acknowledgement in the scholarly record. I strongly believe that research software should be treated on the same basis as other scholarly products such as papers, books, and data sets. Research software deserves peer-review and citations. 
 
-I strive to support reproducible research and sustainable research software development as a [Fellow of the Software Sustainability Institute](https://software.ac.uk/about/fellows), member of the [Carpentries](https://software-carpentry.org/about/) community, and as a reviewer and contributor to the digital infrastructure for journals like [JORS](http://openresearchsoftware.metajnl.com/), [JOSS](http://joss.theoj.com/), and [ReScience](http://rescience.github.io/). Many of my contributions are public on [github](https://github.com/pboesu).
+I strive to support reproducible research and sustainable research software development as a [Fellow of the Software Sustainability Institute](https://software.ac.uk/about/fellows), member of the [Carpentries](https://software-carpentry.org/about/) community, and as a reviewer and contributor to journals like [JORS](http://openresearchsoftware.metajnl.com/), [JOSS](http://joss.theoj.com/), and [ReScience](http://rescience.github.io/). Many of my contributions are public on [github](https://github.com/pboesu).
