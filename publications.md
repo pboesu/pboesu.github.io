@@ -53,7 +53,7 @@ Marine Biology
 
 1. EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer (2021)    
 Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends  
-Bird Study    
+Bird Study 67:371-384    
 [![DOI](https://img.shields.io/badge/DOI-10.1080%2F00063657.2021.1884184-blue.svg)](https://doi.org/10.1080/00063657.2021.1884184)
 
 1. DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O'Shea (2020)    
