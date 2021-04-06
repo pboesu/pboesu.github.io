@@ -48,10 +48,10 @@ Proceedings of the National Academy of Sciences
 *joint corresponding authors    
 
 1. DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O'Shea (2021)  
-[An experimental assessment of dietary preference and social tolerance in a high-density octopus population.](https://doi.org/10.1007/s00227-021-03865-4)    
+[An experimental assessment of social tolerance and den ecology in a high-density octopus population.](https://doi.org/10.1007/s00227-021-03865-4)    
 Marine Biology    
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00227--021--03865--4-blue.svg)](https://doi.org/10.1007/s00227-021-03865-4)
-[![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)]
+[![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1007/s00227-021-03865-4)
 
 1. EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer (2021)    
 [Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends](https://doi.org/10.1080/00063657.2021.1884184)   
