@@ -42,17 +42,19 @@ Submitted to the New Zealand Journal of Ecology
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 
 1. KH Nguyen\*, **PH Boersch-Supan**\*, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr (2021)   
-Interventions can shift the thermal optimum for parasitic disease transmission.    
+[Interventions can shift the thermal optimum for parasitic disease transmission.](https://doi.org/10.1073/pnas.2017537118)    
 Proceedings of the National Academy of Sciences    
 [![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2017537118-blue.svg)](https://doi.org/10.1073/pnas.2017537118)    
 *joint corresponding authors    
 
-1. DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O'Shea (in press)  
-An experimental assessment of dietary preference and social tolerance in a high-density octopus population.    
-Marine Biology
+1. DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O'Shea (2021)  
+[An experimental assessment of dietary preference and social tolerance in a high-density octopus population.](https://doi.org/10.1007/s00227-021-03865-4)    
+Marine Biology    
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00227--021--03865--4-blue.svg)](https://doi.org/10.1007/s00227-021-03865-4)
+[![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)]
 
 1. EM Humphries, GE Austin, T Frost, H Mellan, **PH Boersch-Supan**, NK Burton, DE Balmer (2021)    
-Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends  
+[Wader populations on the UK’s open coast: results of the 2015/16 Non-Estuarine Waterbird Survey (NEWS-III) and a review of population trends](https://doi.org/10.1080/00063657.2021.1884184)   
 Bird Study 67:371-384    
 [![DOI](https://img.shields.io/badge/DOI-10.1080%2F00063657.2021.1884184-blue.svg)](https://doi.org/10.1080/00063657.2021.1884184)
 
