@@ -17,7 +17,11 @@ _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=e
 
 ## Preprints & other forthcoming manuscripts<a name="Forthcoming">&nbsp;</a>
 
-Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3ABoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)    
+Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3ABoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)   
+
+* L Evans et al.      
+Bioclimatic context of species’ populations determines community stability: mechanisms and biogeographic patterns    
+Submitted to Global Change Biology (06/2021)
 
 *  **PH Boersch-Supan**, RA Robinson    
 Integrating structured and unstructured citizen science data to improve wildlife population monitoring    
@@ -28,10 +32,7 @@ Integrating structured and unstructured citizen science data to improve wildlife
 Potential drivers of winter abundance trends of Eurasian Curlew Numenius arquata in England and Wales    
 Submitted to Bird Study (12/2020)
 
-* **PH Boersch-Supan**    
-[[Re] Modeling Insect Phenology Using Ordinal Regression and Continuation Ratio Models](https://github.com/pboesu/replication_candy_1991/blob/master/article/article.pdf)    
-Submitted to ReScience C (09/2020)    
-[![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](https://github.com/pboesu/replication_candy_1991/blob/master/article/article.pdf)    
+
 
 <!--SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
 **Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
@@ -40,6 +41,11 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+
+1. **PH Boersch-Supan** (2021)    
+[[Re] Modeling Insect Phenology Using Ordinal Regression and Continuation Ratio Models](https://doi.org/10.5281/zenodo.5006004)    
+ReScience C    
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.5006004-blue.svg)](https://doi.org/10.5281/zenodo.5006004) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.5281/zenodo.5006004)    
 
 1. KH Nguyen\*, **PH Boersch-Supan**\*, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr (2021)   
 [Interventions can shift the thermal optimum for parasitic disease transmission.](https://doi.org/10.1073/pnas.2017537118)    
