@@ -1,7 +1,7 @@
 ---
 author: Philipp Boersch-Supan
 layout: post
-title: Blog post - A feather at a time: moult recording
+title: Blog post - A feather at a time
 tags:
 - citizen science
 ---
