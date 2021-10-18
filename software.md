@@ -12,7 +12,7 @@ The computational tools I develop in my own work are often useful beyond that pa
 An R framework for Bayesian parameter inference in ordinary and delay differential equation models.<br>
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/deBInfer)](https://cran.r-project.org/package=deBInfer)
-[![Travis-CI Build Status](https://travis-ci.org/pboesu/debinfer.svg?branch=master)](https://travis-ci.org/pboesu/debinfer)
+[![R-CMD-check](https://github.com/pboesu/debinfer/workflows/R-CMD-check/badge.svg)](https://github.com/pboesu/debinfer/actions)
 ![Peer Reviewed Software](https://img.shields.io/badge/Peer%20Reviewed-%E2%9C%93-green.svg)
 [![DOI:10.1111/2041-210X.12679](https://img.shields.io/badge/DOI-10.1111%2F2041--210X.12679-blue.svg)](http://doi.org/10.1111/2041-210X.12679)
 
@@ -20,14 +20,15 @@ An R framework for Bayesian parameter inference in ordinary and delay differenti
 Fast time series subsequence search under dynamic time warping in R. This package provides R bindings for functions from the [UCR Suite](http://www.cs.ucr.edu/~eamonn/UCRsuite.html). <br>
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/rucrdtw)](https://cran.r-project.org/package=rucrdtw)
-[![Travis-CI Build Status](https://travis-ci.org//pboesu/rucrdtw.svg?branch=master)](https://github.com/pboesu/rucrdtw) 
+[![R-CMD-check](https://github.com/pboesu/rucrdtw/workflows/R-CMD-check/badge.svg)](https://github.com/pboesu/rucrdtw/actions)
 ![Peer Reviewed Software](https://img.shields.io/badge/Peer%20Reviewed-%E2%9C%93-green.svg)
 [![status](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc/status.svg)](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc)
 
 [moultmcmc](https://github.com/pboesu/moultmcmc)<br>
 This R package provides Bayesian inference for models of avian primary moult.<br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
-[![Travis-CI Build Status](https://travis-ci.org/pboesu/moultmcmc.svg)](https://travis-ci.org/pboesu/moultmcmc)
+[![R-CMD-check](https://github.com/pboesu/moultmcmc/workflows/R-CMD-check/badge.svg)](https://github.com/pboesu/moultmcmc/actions)
+[![DOI:10.6084/m9.figshare.14601513.v2](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.14601513.v2-blue.svg)](https://doi.org/10.6084/m9.figshare.14601513.v2)
 
 [seabirdeb](https://github.com/pboesu/seabirdeb)<br>
 This R package provides compiled dynamic energy budget models for seabirds. <br>
