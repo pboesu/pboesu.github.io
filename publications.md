@@ -19,10 +19,6 @@ _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=e
 
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3ABoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)   
 
-* L Evans et al.      
-Bioclimatic context of species’ populations determines community stability: mechanisms and biogeographic patterns    
-Submitted to Global Change Biology (06/2021)
-
 *  **PH Boersch-Supan**, RA Robinson    
 Integrating structured and unstructured citizen science data to improve wildlife population monitoring    
 ~~Submitted to Journal of Applied Ecology (11/2020)~~     
@@ -30,7 +26,22 @@ Integrating structured and unstructured citizen science data to improve wildlife
 
 * ID Woodward, GE Austin, **PH Boersch-Supan PH**, CB Thaxter, NK Burton    
 Potential drivers of winter abundance trends of Eurasian Curlew Numenius arquata in England and Wales    
-Submitted to Bird Study (12/2020)
+Submitted to Bird Study (07/2021)
+
+* DT Johnston, C Thaxter, **PH Boersch-Supan** et al.   
+Investigating avoidance and attraction responses in lesser black-backed gulls Larus fuscus to offshore wind farms    
+Submitted to Marine Ecology Progress Series (07/2021)
+
+* L Evans et al.      
+Bioclimatic context of species’ populations determines community stability: mechanisms and biogeographic patterns    
+Submitted to ~~Global Change Biology (06/2021)~~  Global Ecology and Biogeography (10/2021)
+
+* L Evans et al.      
+A niche-based approach for evaluating the mechanisms of community stability in butterflies    
+Submitted to Ecology Letters (11/2021)
+
+
+
 
 
 
