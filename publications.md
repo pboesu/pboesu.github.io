@@ -25,11 +25,11 @@ Integrating structured and unstructured citizen science data to improve wildlife
 [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
 * ID Woodward, GE Austin, **PH Boersch-Supan PH**, CB Thaxter, NK Burton    
-Potential drivers of winter abundance trends of Eurasian Curlew Numenius arquata in England and Wales    
+Potential drivers of winter abundance trends of Eurasian Curlew *Numenius arquata* in England and Wales    
 Submitted to Bird Study (07/2021)
 
 * DT Johnston, C Thaxter, **PH Boersch-Supan** et al.   
-Investigating avoidance and attraction responses in lesser black-backed gulls Larus fuscus to offshore wind farms    
+Investigating avoidance and attraction responses in lesser black-backed gulls *Larus fuscus* to offshore wind farms    
 Submitted to Marine Ecology Progress Series (07/2021)
 
 * L Evans et al.      
@@ -112,7 +112,7 @@ Emu - Austral Ornithology 118:224-229
 [![DOI:10.1080/01584197.2017.1406311](https://img.shields.io/badge/DOI-10.1080%2F01584197.2017.1406311-blue.svg)](https://doi.org/10.1080/01584197.2017.1406311)[![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1080/01584197.2017.1406311)
 
 1. Ryan SJ, Lippi CA, **Boersch-Supan PH**, Heydari N, Silva N, Adrian J, Noblecilla LF, Ayala EB, Encalada M, Larsen DA, Krisher JT, Krisher L, Fregosi L, Stewart-Ibarra AM  (2017):  
-[Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1186/s12936-017-2121-4).  
+[Quantifying Seasonal and Diel Variation in Anopheline and *Culex* Human Biting Rates in Southern Ecuador](https://doi.org/10.1186/s12936-017-2121-4).  
 Malaria Journal 16:479    
 [![DOI:10.1186/s12936-017-2121-4](https://img.shields.io/badge/DOI-10.1186%2Fs12936--017--2121--4-blue.svg)](https://doi.org/10.1186/s12936-017-2121-4)  [![Open access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](https://doi.org/10.1186/s12936-017-2121-4)
 
