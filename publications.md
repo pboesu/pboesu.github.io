@@ -24,13 +24,9 @@ Integrating structured and unstructured citizen science data to improve wildlife
 ~~Submitted to Journal of Applied Ecology (11/2020)~~     
 [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
-* ID Woodward, GE Austin, **PH Boersch-Supan PH**, CB Thaxter, NK Burton    
-Potential drivers of winter abundance trends of Eurasian Curlew *Numenius arquata* in England and Wales    
-Submitted to Bird Study (07/2021)
-
 * DT Johnston, C Thaxter, **PH Boersch-Supan** et al.   
 Investigating avoidance and attraction responses in lesser black-backed gulls *Larus fuscus* to offshore wind farms    
-Submitted to Marine Ecology Progress Series (07/2021)
+Resubmitted to Marine Ecology Progress Series (11/2021)
 
 * L Evans et al.      
 Bioclimatic context of species’ populations determines community stability: mechanisms and biogeographic patterns    
@@ -52,6 +48,9 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+1. ID Woodward, GE Austin, **PH Boersch-Supan PH**, CB Thaxter, NK Burton (in press)    
+Assessing drivers of winter abundance change in Eurasian Curlew *Numenius arquata* in England and Wales    
+Bird Study    
 
 1. **PH Boersch-Supan** (2021)    
 [[Re] Modeling Insect Phenology Using Ordinal Regression and Continuation Ratio Models](https://doi.org/10.5281/zenodo.5006004)    
