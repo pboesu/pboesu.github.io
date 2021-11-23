@@ -24,10 +24,6 @@ Integrating structured and unstructured citizen science data to improve wildlife
 ~~Submitted to Journal of Applied Ecology (11/2020)~~     
 [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
-* DT Johnston, C Thaxter, **PH Boersch-Supan** et al.   
-Investigating avoidance and attraction responses in lesser black-backed gulls *Larus fuscus* to offshore wind farms    
-Resubmitted to Marine Ecology Progress Series (11/2021)
-
 * L Evans et al.      
 Bioclimatic context of species’ populations determines community stability: mechanisms and biogeographic patterns    
 Submitted to ~~Global Change Biology (06/2021)~~  Global Ecology and Biogeography (10/2021)
@@ -48,6 +44,10 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+1. DT Johnston, C Thaxter, **PH Boersch-Supan**, L Humphreys, W Bouten, GD Clewley, ES Scragg, EA Masden, LJ Barber, G Conway, NA Clark, NHK Burton, ASCP Cook (in press)    
+Investigating avoidance and attraction responses in lesser black-backed gulls *Larus fuscus* to offshore wind farms    
+Marine Ecology Progress Series    
+
 1. ID Woodward, GE Austin, **PH Boersch-Supan PH**, CB Thaxter, NK Burton (in press)    
 Assessing drivers of winter abundance change in Eurasian Curlew *Numenius arquata* in England and Wales    
 Bird Study    
