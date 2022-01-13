@@ -45,8 +45,9 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 1. DT Johnston, C Thaxter, **PH Boersch-Supan**, L Humphreys, W Bouten, GD Clewley, ES Scragg, EA Masden, LJ Barber, G Conway, NA Clark, NHK Burton, ASCP Cook (in press)    
-Investigating avoidance and attraction responses in lesser black-backed gulls *Larus fuscus* to offshore wind farms    
+[Investigating avoidance and attraction responses in lesser black-backed gulls *Larus fuscus* to offshore wind farms](https://doi.org/10.3354/meps13964)    
 Marine Ecology Progress Series    
+[![DOI](https://img.shields.io/badge/DOI-10.3354%2Fmeps13964-blue.svg)](https://doi.org/10.3354/meps13964)
 
 1. ID Woodward, GE Austin, **PH Boersch-Supan PH**, CB Thaxter, NK Burton (in press)    
 Assessing drivers of winter abundance change in Eurasian Curlew *Numenius arquata* in England and Wales    
