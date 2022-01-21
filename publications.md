@@ -55,7 +55,7 @@ Marine Ecology Progress Series
 [![DOI](https://img.shields.io/badge/DOI-10.3354%2Fmeps13964-blue.svg)](https://doi.org/10.3354/meps13964)
 
 1. ID Woodward, GE Austin, **PH Boersch-Supan**, CB Thaxter, NK Burton (in press)    
-Assessing drivers of winter abundance change in Eurasian Curlew *Numenius arquata* in England and Wales    
+**Assessing drivers of winter abundance change in Eurasian Curlew *Numenius arquata* in England and Wales**    
 Bird Study    
 
 1. **PH Boersch-Supan** (2021)    
