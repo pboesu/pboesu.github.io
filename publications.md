@@ -26,11 +26,11 @@ Integrating structured and unstructured citizen science data to improve wildlife
 
 * L Evans et al.      
 Bioclimatic context of species’ populations determines community stability: mechanisms and biogeographic patterns    
-Submitted to ~~Global Change Biology (06/2021)~~  Global Ecology and Biogeography (10/2021)
+In revision for Global Ecology and Biogeography (10/2021)
 
 * L Evans et al.      
 A niche-based approach for evaluating the mechanisms of community stability in butterflies    
-Submitted to Ecology Letters (11/2021)
+Submitted ~~to Ecology Letters (11/2021)~~
 
 
 
