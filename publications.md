@@ -44,12 +44,12 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
-1. OJ Robinson, JB Socolar, EF Stuber, T Auer, AJ Berryman, **PH Boersch-Supan**, DJ Brightsmith, AH Burbidge, SHM Butchart, CL Davis, AM Dokter, AS Di Giacomo, A Farnsworth, D Fink, WM Hochachka, PE Howell, FA La Sorte, AC Lees, S Marsden, R Martin, RO Martin, JF Masello, ET Miller, Y Moodley, A Musgrove, D Noble, V Ojeda, P Quillfeldt, JA Royle, V Ruiz-Gutierrez, JL Tella, P Yorio, C Youngflesh, A Johnston (in press)    
-**Extreme uncertainty and unquantifiable bias do not inform population sizes**    
+1. OJ Robinson, JB Socolar, EF Stuber, T Auer, AJ Berryman, **PH Boersch-Supan**, DJ Brightsmith, AH Burbidge, SHM Butchart, CL Davis, AM Dokter, AS Di Giacomo, A Farnsworth, D Fink, WM Hochachka, PE Howell, FA La Sorte, AC Lees, S Marsden, R Martin, RO Martin, JF Masello, ET Miller, Y Moodley, A Musgrove, D Noble, V Ojeda, P Quillfeldt, JA Royle, V Ruiz-Gutierrez, JL Tella, P Yorio, C Youngflesh, A Johnston (2022)    
+[Extreme uncertainty and unquantifiable bias do not inform population sizes](https://doi.org/10.1073/pnas.2113862119)    
 Proceedings of the National Academy of Sciences    
+[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2113862119-blue.svg)](https://doi.org/10.1073/pnas.2113862119)
 
-
-3. DT Johnston, C Thaxter, **PH Boersch-Supan**, L Humphreys, W Bouten, GD Clewley, ES Scragg, EA Masden, LJ Barber, G Conway, NA Clark, NHK Burton, ASCP Cook (in press)    
+3. DT Johnston, C Thaxter, **PH Boersch-Supan**, L Humphreys, W Bouten, GD Clewley, ES Scragg, EA Masden, LJ Barber, G Conway, NA Clark, NHK Burton, ASCP Cook (2022)    
 [Investigating avoidance and attraction responses in lesser black-backed gulls *Larus fuscus* to offshore wind farms](https://doi.org/10.3354/meps13964)    
 Marine Ecology Progress Series    
 [![DOI](https://img.shields.io/badge/DOI-10.3354%2Fmeps13964-blue.svg)](https://doi.org/10.3354/meps13964)
@@ -66,7 +66,7 @@ ReScience C
 1. KH Nguyen\*, **PH Boersch-Supan**\*, RB Hartman, SY Mendiola, VJ Harwood, DJ Civitello, JR Rohr (2021)   
 [Interventions can shift the thermal optimum for parasitic disease transmission.](https://doi.org/10.1073/pnas.2017537118)    
 Proceedings of the National Academy of Sciences    
-[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2017537118-blue.svg)](https://doi.org/10.1073/pnas.2017537118)    
+[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2017537118-blue.svg)](https://doi.org/10.1073/pnas.2017537118) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1073/pnas.2017537118)        
 *joint corresponding authors    
 
 1. DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O'Shea (2021)  
