@@ -47,7 +47,7 @@ Submitted to the New Zealand Journal of Ecology
 1. OJ Robinson, JB Socolar, EF Stuber, T Auer, AJ Berryman, **PH Boersch-Supan**, DJ Brightsmith, AH Burbidge, SHM Butchart, CL Davis, AM Dokter, AS Di Giacomo, A Farnsworth, D Fink, WM Hochachka, PE Howell, FA La Sorte, AC Lees, S Marsden, R Martin, RO Martin, JF Masello, ET Miller, Y Moodley, A Musgrove, D Noble, V Ojeda, P Quillfeldt, JA Royle, V Ruiz-Gutierrez, JL Tella, P Yorio, C Youngflesh, A Johnston (2022)    
 [Extreme uncertainty and unquantifiable bias do not inform population sizes](https://doi.org/10.1073/pnas.2113862119)    
 Proceedings of the National Academy of Sciences    
-[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2113862119-blue.svg)](https://doi.org/10.1073/pnas.2113862119)
+[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2113862119-blue.svg)](https://doi.org/10.1073/pnas.2113862119)  [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1073/pnas.2113862119)   
 
 3. DT Johnston, C Thaxter, **PH Boersch-Supan**, L Humphreys, W Bouten, GD Clewley, ES Scragg, EA Masden, LJ Barber, G Conway, NA Clark, NHK Burton, ASCP Cook (2022)    
 [Investigating avoidance and attraction responses in lesser black-backed gulls *Larus fuscus* to offshore wind farms](https://doi.org/10.3354/meps13964)    
@@ -164,7 +164,7 @@ Ecology and Evolution 7:9257–9266
   [Enhanced pelagic biomass around coral atolls](http://dx.doi.org/10.3354/meps11675).  
   Marine Ecology Progress Series 546:271-276  
   [![DOI:10.3354/meps11675](https://img.shields.io/badge/DOI-10.3354/meps11675-blue.svg)](http://dx.doi.org/10.3354/meps11675) 
-  [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/MEPS_BIOT_prepress.pdf)
+  [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](http://dx.doi.org/10.3354/meps11675)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps11675" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 0. **Boersch-Supan PH**, Rogers AD and Brierley AS (2015):  
@@ -192,7 +192,7 @@ Ecology and Evolution 7:9257–9266
   [Elephant seal foraging dives track prey distribution, not temperature: Comment on McIntyre et al. (2011)](http://dx.doi.org/10.3354/meps09890)  
   Marine Ecology Progress Series 461:293-298 <br>
   [![DOI:10.3354/meps09890](https://img.shields.io/badge/DOI-10.3354/meps09890-blue.svg)](http://dx.doi.org/10.3354/meps09890) 
-  [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](../public/Boersch-Supan_2012_ElephantSeals_MEPS.pdf)
+  [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](http://dx.doi.org/10.3354/meps09890)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps09890" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
 
 
