@@ -61,6 +61,7 @@ Marine Ecology Progress Series
 1. ID Woodward, GE Austin, **PH Boersch-Supan**, CB Thaxter, NK Burton (in press)    
 **Assessing drivers of winter abundance change in Eurasian Curlew *Numenius arquata* in England and Wales**    
 Bird Study    
+[![DOI](https://img.shields.io/badge/DOI-10.1080%2F00063657.2022.2049205-blue.svg)](https://doi.org/10.1080/00063657.2022.2049205)
 
 1. **PH Boersch-Supan** (2021)    
 [[Re] Modeling Insect Phenology Using Ordinal Regression and Continuation Ratio Models](https://doi.org/10.5281/zenodo.5006004)    
