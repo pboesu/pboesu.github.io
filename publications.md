@@ -24,9 +24,6 @@ Integrating structured and unstructured citizen science data to improve wildlife
 ~~Submitted to Journal of Applied Ecology (11/2020)~~     
 [![Free preprint](https://img.shields.io/badge/Free-Preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
-* L Evans et al.      
-Bioclimatic context of species’ populations determines community stability: mechanisms and biogeographic patterns    
-In revision for Global Ecology and Biogeography (03/2022)
 
 * L Evans et al.      
 A niche-based approach for evaluating the mechanisms of community stability in butterflies    
@@ -48,6 +45,11 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+1. L Evans et al. (in press)       
+**Bioclimatic context of species’ populations determines community stability.**    
+Global Ecology and Biogeography
+
+
 1. OJ Robinson, JB Socolar, EF Stuber, T Auer, AJ Berryman, **PH Boersch-Supan**, DJ Brightsmith, AH Burbidge, SHM Butchart, CL Davis, AM Dokter, AS Di Giacomo, A Farnsworth, D Fink, WM Hochachka, PE Howell, FA La Sorte, AC Lees, S Marsden, R Martin, RO Martin, JF Masello, ET Miller, Y Moodley, A Musgrove, D Noble, V Ojeda, P Quillfeldt, JA Royle, V Ruiz-Gutierrez, JL Tella, P Yorio, C Youngflesh, A Johnston (2022)    
 [Extreme uncertainty and unquantifiable bias do not inform population sizes](https://doi.org/10.1073/pnas.2113862119)    
 Proceedings of the National Academy of Sciences 119:e2113862119    
