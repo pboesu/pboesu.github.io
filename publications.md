@@ -48,9 +48,10 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
-1. L Evans et al. (in press)       
-**Bioclimatic context of species’ populations determines community stability.**    
-Global Ecology and Biogeography
+1. LC Evans, Y Melero, R Schmucki, **PH Boersch-Supan**, L Brotons, C Fontaine, F Jiguet, M Kuussaari, D Massimino, RA Robinson, DB Roy, O Schweiger, J Settele, C Stefanescu, CAM van Turnhout, TH Oliver (2022)       
+[Bioclimatic context of species’ populations determines community stability](https://doi.org/10.1111/geb.13527)    
+Global Ecology and Biogeography     
+[![DOI](https://img.shields.io/badge/DOI-10.1111%2Fgeb.13527-blue.svg)](https://doi.org/10.1111/geb.13527)  [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1111/geb.13527)   
 
 
 1. OJ Robinson, JB Socolar, EF Stuber, T Auer, AJ Berryman, **PH Boersch-Supan**, DJ Brightsmith, AH Burbidge, SHM Butchart, CL Davis, AM Dokter, AS Di Giacomo, A Farnsworth, D Fink, WM Hochachka, PE Howell, FA La Sorte, AC Lees, S Marsden, R Martin, RO Martin, JF Masello, ET Miller, Y Moodley, A Musgrove, D Noble, V Ojeda, P Quillfeldt, JA Royle, V Ruiz-Gutierrez, JL Tella, P Yorio, C Youngflesh, A Johnston (2022)    
