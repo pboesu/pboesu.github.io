@@ -60,7 +60,7 @@ parameters, and observable quantities.
 
 **Papers:**    
 Boersch-Supan et al. (2022): [Bayesian inference for models of moult duration and timing in birds](https://doi.org/10.48550/arXiv.2205.12120)    
-Boersch-Supan & Johnson (2018): [Two case studies detailing Bayesian inference for dynamic energy budget models](https://doi.org/10.1016/j.seares.2018.07.014)<br>
+Boersch-Supan & Johnson (2018): [Bayesian inference for dynamic energy budget models](https://doi.org/10.1016/j.seares.2018.07.014)<br>
 Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)    
     
 **Software:**    
@@ -75,9 +75,9 @@ More recently I have become interested in building models to answer questions fr
 </td></tr></table>
 
 #### Related Publications    
-Nguyen, Boersch-Supan et al. 2021: [Interventions can shift the thermal optimum for parasitic disease transmission](https://doi.org/10.1073/pnas.2017537118)    
-Ryan, Lippi, Boersch-Supan et al. 2017: [Quantifying Seasonal and Diel Variation in Anopheline and Culex Human Biting Rates in Southern Ecuador](https://doi.org/10.1101/192773)    
-Youker-Smith, Boersch-Supan et al. 2018:[Environmental drivers of ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1101/321299)
+Nguyen, Boersch-Supan et al. 2021: [Interventions shift the thermal optimum for disease transmission](https://doi.org/10.1073/pnas.2017537118)    
+Ryan, Lippi, Boersch-Supan et al. 2017: [Seasonal and Diel Variation in Mosquito Biting Rates](https://doi.org/10.1101/192773)    
+Youker-Smith, Boersch-Supan et al. 2018: [Ranavirus in free living amphibians in constructed ponds](https://doi.org/10.1101/321299)
 
 ## Marine Ecology<a name="seamounts">&nbsp;</a>
 <table style="width:80%"><tr><td>
