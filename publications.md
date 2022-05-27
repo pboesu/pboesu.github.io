@@ -29,7 +29,7 @@ Integrating structured and unstructured citizen science data to improve wildlife
 [![bioRxiv preprint](https://img.shields.io/badge/bioRxiv-preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
 * L Evans et al.      
-A niche-based approach for evaluating the mechanisms of community stability in butterflies    
+Mechanisms underpinning community stability along a latitudinal gradient: insights from a niche-based approach    
 Submitted to Ecology (05/2022)
 
 * HJ Hanmer,  **PH Boersch-Supan**, RA Robinson    
