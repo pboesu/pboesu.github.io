@@ -16,6 +16,7 @@ submenu:
 </td></tr></table>
 
 **Papers:**    
+Robinson et al. (2022) [Extreme uncertainty and unquantifiable bias do not inform population sizes](https://doi.org/10.1073/pnas.2113862119)    
 Boersch-Supan & Robinson (2021) [Integrating structured and unstructured citizen science data](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)    
 Boersch-Supan et al. (2019) [Robustness of simple avian population trend models](https://doi.org/10.1016/j.biocon.2019.108286)<br>
 Isaac et al. (2019) [Data integration for large-scale models of species distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)<br>
@@ -24,12 +25,13 @@ Isaac et al. (2019) [Data integration for large-scale models of species distribu
 
 ## Seabird Ecology<a name="albatross">&nbsp;</a>
 
-### Albatrosses and petrels
+### Albatrosses, petrels, gulls
 <table style="width:80%"><tr><td>
-<img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> Albatrosses are the largest seabirds and top-predators of the open ocean, but like other petrels their numbers are declining and many species are now endangered. I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of these birds by studying their bioenergetics and foraging strategies. 
+<img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of various flying seabirds by studying their bioenergetics and foraging movements. 
 </td></tr></table>
 
 **Papers:**<br> 
+Johnston, Thaxter, Boersch-Supan et al. (2022) [Avoidance and attraction of gulls to offshore wind farms](https://doi.org/10.3354/meps13964)<br>
 Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)<br>
 Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311)<br>
 Borrelle, Boersch-Supan et al. (2016): [Recovery of seabirds on islands eradicated of invasive predators](../public/Borrelle_et_al_2016_prepress.pdf)<br>
@@ -47,13 +49,9 @@ This work relies on a data base of several hundred thousand body mass time serie
 **Software:** [rucrdtw: R Bindings for the UCR Suite](https://cran.r-project.org/package=rucrdtw)
 
 
-## Bayesian inference for dynamic models of biological systems<a name="deBInfer">&nbsp;</a>
+## Bayesian inference for models of biological systems<a name="deBInfer">&nbsp;</a>
 <table style="width:80%"><tr><td>
-<img class="img-research" src="/public/images/bayesian_inference.jpg"> Differential equations (DEs) are commonly used to model the temporal evolution of dynamic
-systems in science and engineering, but statistical methods for comparing DE models to data
-and for parameter inference are relatively poorly developed. This is especially problematic in
-the presence of latent model states or parameters, when observations are noisy or when only a
-small number of observed time points are available.<br>
+<img class="img-research" src="/public/images/bayesian_inference.jpg"> Statistical methods for estimating model parameters are often challenged by the nature of ecological data. This is especially problematic in the presence of latent model states or parameters, when observations are noisy or when only sparse or incomplete observations are available.<br>
 Bayesian approaches offer a coherent framework for parameter inference that can account for
 multiple sources of uncertainty, while making use of prior information. This approach further
 offers a rigorous methodology modeling the link between unobservable model states and
@@ -61,10 +59,12 @@ parameters, and observable quantities.
 </td></tr></table>
 
 **Papers:**    
+Boersch-Supan et al. (2022): [Bayesian inference for models of moult duration and timing in birds](https://doi.org/10.48550/arXiv.2205.12120)    
 Boersch-Supan & Johnson (2018): [Two case studies detailing Bayesian inference for dynamic energy budget models](https://doi.org/10.1016/j.seares.2018.07.014)<br>
 Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)    
     
 **Software:**    
+[https://github.com/pboesu/moultmcmc](https://github.com/pboesu/moultmcmc)    
 [https://github.com/pboesu/debinfer](https://github.com/pboesu/debinfer)
 
 ## Disease and Vector Ecology<a name="disease">&nbsp;</a>
