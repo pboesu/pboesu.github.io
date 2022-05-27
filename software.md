@@ -28,7 +28,7 @@ Fast time series subsequence search under dynamic time warping in R. This packag
 This R package provides Bayesian inference for models of avian primary moult.<br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 [![R-CMD-check](https://github.com/pboesu/moultmcmc/workflows/R-CMD-check/badge.svg)](https://github.com/pboesu/moultmcmc/actions)
-[![DOI:10.6084/m9.figshare.14601513.v2](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.14601513.v2-blue.svg)](https://doi.org/10.6084/m9.figshare.14601513.v2)
+[![DOI:10.48550](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2205.12120-blue.svg)](https://doi.org/10.48550/arXiv.2205.12120)
 
 [seabirdeb](https://github.com/pboesu/seabirdeb)<br>
 This R package provides compiled dynamic energy budget models for seabirds. <br>
