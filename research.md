@@ -21,6 +21,10 @@ Boersch-Supan & Robinson (2021) [Integrating structured and unstructured citizen
 Boersch-Supan et al. (2019) [Robustness of simple avian population trend models](https://doi.org/10.1016/j.biocon.2019.108286)<br>
 Isaac et al. (2019) [Data integration for large-scale models of species distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)<br>
 
+**Reports:**    
+Boersch-Supan & Robinson (2022) [Evaluating terrestrial bird trends for Welsh Statement Areas](https://data.jncc.gov.uk/data/39254c2d-37e7-46d9-ae63-4739228e1b0d/jncc-report-716.pdf)    
+Mancini et al. (2022) [An introduction to model-based data integration for biodiversity assessments](https://data.jncc.gov.uk/data/1c774649-3cf8-4964-bf38-443a12accd09/introduction-to-model-based-data-integration.pdf)    
+
 **Presentation:** [Integrating citizen science data sets to improve a national bird monitoring scheme](https://youtu.be/yejolG6GyPU)
 
 ## Seabird Ecology<a name="albatross">&nbsp;</a>
