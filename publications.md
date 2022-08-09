@@ -32,9 +32,7 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 Mechanisms underpinning community stability along a latitudinal gradient: insights from a niche-based approach    
 Submitted to Ecology (05/2022)
 
-* HJ Hanmer,  **PH Boersch-Supan**, RA Robinson    
-Differential changes in lifecycle-phase phenology provide a window into regional population declines    
-In revision for Biology Letters (05/2022)     
+  
 
 
 
@@ -48,6 +46,11 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+1. HJ Hanmer\*,  **PH Boersch-Supan**\*, RA Robinson (in press)        
+**Differential changes in lifecycle-event phenology provide a window into regional population declines**    
+Biology Letters    
+\**joint first authors*
+
 1. LC Evans, Y Melero, R Schmucki, **PH Boersch-Supan**, L Brotons, C Fontaine, F Jiguet, M Kuussaari, D Massimino, RA Robinson, DB Roy, O Schweiger, J Settele, C Stefanescu, CAM van Turnhout, TH Oliver (2022)       
 [Bioclimatic context of species’ populations determines community stability](https://doi.org/10.1111/geb.13527)    
 Global Ecology and Biogeography     
@@ -78,7 +81,7 @@ ReScience C
 [Interventions can shift the thermal optimum for parasitic disease transmission.](https://doi.org/10.1073/pnas.2017537118)    
 Proceedings of the National Academy of Sciences 118:e2017537118    
 [![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2017537118-blue.svg)](https://doi.org/10.1073/pnas.2017537118) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1073/pnas.2017537118)        
-*joint corresponding authors    
+\**joint corresponding authors*
 
 1. DA O'Brien, ML Taylor, HD Masonjones, **PH Boersch-Supan**, OR O'Shea (2021)  
 [An experimental assessment of social tolerance and den ecology in a high-density octopus population.](https://doi.org/10.1007/s00227-021-03865-4)    
