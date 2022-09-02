@@ -46,9 +46,10 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
-1. HJ Hanmer\*,  **PH Boersch-Supan**\*, RA Robinson (in press)        
-**Differential changes in lifecycle-event phenology provide a window into regional population declines**    
+1. HJ Hanmer\*,  **PH Boersch-Supan**\*, RA Robinson (2022)        
+[Differential changes in lifecycle-event phenology provide a window into regional population declines](https://doi.org/10.1098/rsbl.2022.0186)    
 Biology Letters    
+[![DOI](https://img.shields.io/badge/DOI-10.1098%2Frsbl.2022.0186-blue.svg)](https://doi.org/10.1098/rsbl.2022.0186) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1098/rsbl.2022.0186)   
 \**joint first authors*
 
 1. LC Evans, Y Melero, R Schmucki, **PH Boersch-Supan**, L Brotons, C Fontaine, F Jiguet, M Kuussaari, D Massimino, RA Robinson, DB Roy, O Schweiger, J Settele, C Stefanescu, CAM van Turnhout, TH Oliver (2022)       
