@@ -46,6 +46,10 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+1. AE Barnes, JG Davies, B Martay, **PH Boersch-Supan**, SJ Harris, DG Noble, JW Pearce-Higgins, RA Robinson (in press)    
+Rare and declining bird species benefit most from designating protected areas for conservation in the UK    
+Nature Ecology & Evolution
+
 1. HJ Hanmer\*,  **PH Boersch-Supan**\*, RA Robinson (2022)        
 [Differential changes in lifecycle-event phenology provide a window into regional population declines](https://doi.org/10.1098/rsbl.2022.0186)    
 Biology Letters    
