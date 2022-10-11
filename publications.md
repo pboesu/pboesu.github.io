@@ -47,7 +47,7 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
 1. AE Barnes, JG Davies, B Martay, **PH Boersch-Supan**, SJ Harris, DG Noble, JW Pearce-Higgins, RA Robinson (in press)    
-Rare and declining bird species benefit most from designating protected areas for conservation in the UK    
+**Rare and declining bird species benefit most from designating protected areas for conservation in the UK**    
 Nature Ecology & Evolution
 
 1. HJ Hanmer\*,  **PH Boersch-Supan**\*, RA Robinson (2022)        
