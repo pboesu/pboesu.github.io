@@ -20,7 +20,7 @@ _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=e
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3ABoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)   
 
 * **PH Boersch-Supan**, HJ Hanmer, RA Robinson    
-[Bayesian inference for models of moult duration and timing in birds](https://doi.org/10.48550/arXiv.2205.12120)    
+[Bayesian inference for models of moult duration and timing](https://doi.org/10.48550/arXiv.2205.12120)    
 [![arXiv preprint](https://img.shields.io/badge/arXiv-preprint-brightgreen.svg)](https://doi.org/10.48550/arXiv.2205.12120)
 
 *  **PH Boersch-Supan**, RA Robinson    
@@ -46,9 +46,10 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
-1. AE Barnes, JG Davies, B Martay, **PH Boersch-Supan**, SJ Harris, DG Noble, JW Pearce-Higgins, RA Robinson (in press)    
-**Rare and declining bird species benefit most from designating protected areas for conservation in the UK**    
-Nature Ecology & Evolution
+1. AE Barnes, JG Davies, B Martay, **PH Boersch-Supan**, SJ Harris, DG Noble, JW Pearce-Higgins, RA Robinson (2022)    
+[Rare and declining bird species benefit most from designating protected areas for conservation in the UK](https://doi.org/10.1038/s41559-022-01927-4)    
+Nature Ecology & Evolution    
+[![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41559--022--01927--4-blue.svg)](https://doi.org/10.1038/s41559-022-01927-4) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1038/s41559-022-01927-4)  
 
 1. HJ Hanmer\*,  **PH Boersch-Supan**\*, RA Robinson (2022)        
 [Differential changes in lifecycle-event phenology provide a window into regional population declines](https://doi.org/10.1098/rsbl.2022.0186)    
