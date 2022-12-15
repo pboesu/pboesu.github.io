@@ -32,6 +32,10 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 Mechanisms underpinning community stability along a latitudinal gradient: insights from a niche-based approach    
 Submitted to Ecology (05/2022)
 
+* **PH Boersch-Supan**, ATK Lee, HD Oschadleus    
+A demonstration of the value of recapture data for informing moult phenology models for species with imperfect moult data    
+Submitted to Ostrich (12/2022)
+
   
 
 
