@@ -21,6 +21,7 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 
 * **PH Boersch-Supan**, HJ Hanmer, RA Robinson    
 [Bayesian inference for models of moult duration and timing](https://doi.org/10.48550/arXiv.2205.12120)    
+Submitted to Methods in Ecology and Evolution (01/2023)    
 [![arXiv preprint](https://img.shields.io/badge/arXiv-preprint-brightgreen.svg)](https://doi.org/10.48550/arXiv.2205.12120)
 
 *  **PH Boersch-Supan**, RA Robinson    
