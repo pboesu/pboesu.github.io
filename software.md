@@ -7,6 +7,11 @@ The computational tools I develop in my own work are often useful beyond that pa
 
 
 ## Software packages I am a lead developer for
+[moultmcmc](https://github.com/pboesu/moultmcmc)<br>
+This R package provides Bayesian inference for models of avian primary moult.<br>
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![R-CMD-check](https://github.com/pboesu/moultmcmc/workflows/R-CMD-check/badge.svg)](https://github.com/pboesu/moultmcmc/actions)
+[![DOI:10.48550](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2205.12120-blue.svg)](https://doi.org/10.48550/arXiv.2205.12120)
 
 [deBInfer: Bayesian inference for dynamical models of biological systems in R](https://github.com/pboesu/debinfer) (with SJ Ryan and LR Johnson)<br>
 An R framework for Bayesian parameter inference in ordinary and delay differential equation models.<br>
@@ -24,11 +29,10 @@ Fast time series subsequence search under dynamic time warping in R. This packag
 ![Peer Reviewed Software](https://img.shields.io/badge/Peer%20Reviewed-%E2%9C%93-green.svg)
 [![status](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc/status.svg)](http://joss.theoj.org/papers/17bb01f6599983da0597e1aeec4d3bfc)
 
-[moultmcmc](https://github.com/pboesu/moultmcmc)<br>
-This R package provides Bayesian inference for models of avian primary moult.<br>
+[ewp: Exponentially weighted Poisson regression](https://github.com/pboesu/ewp)<br>
+Modelling interface for underdispersed count data.<br>
 [![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
-[![R-CMD-check](https://github.com/pboesu/moultmcmc/workflows/R-CMD-check/badge.svg)](https://github.com/pboesu/moultmcmc/actions)
-[![DOI:10.48550](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2205.12120-blue.svg)](https://doi.org/10.48550/arXiv.2205.12120)
+[![R-CMD-check](https://github.com/pboesu/ewp/workflows/R-CMD-check/badge.svg)](https://github.com/pboesu/ewp/actions)
 
 [seabirdeb](https://github.com/pboesu/seabirdeb)<br>
 This R package provides compiled dynamic energy budget models for seabirds. <br>
