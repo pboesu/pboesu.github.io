@@ -236,8 +236,8 @@ Ecology and Evolution 7:9257–9266
 Vignettes are a type of long-form documentation in the R world. They are a bit like a book chapter or an academic paper, but are usually more explicit on the computational details. I have written or co-authored the following vignettes:
 
 ### moultmcmc: Bayesian inference for moult phenology models
-[Getting started with moultmcmc](https://pboesu.github.io/moultmcmc/articles/getting-started.html)
-[Extended moult models](https://pboesu.github.io/moultmcmc/articles/extended-moult-models.html)
+[Getting started with moultmcmc](https://pboesu.github.io/moultmcmc/articles/getting-started.html)    
+[Extended moult models](https://pboesu.github.io/moultmcmc/articles/extended-moult-models.html)    
 [Moult data likelihoods and model priors](https://pboesu.github.io/moultmcmc/articles/moult-likelihoods.html)
 
 
