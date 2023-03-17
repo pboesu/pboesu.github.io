@@ -29,9 +29,7 @@ Submitted to Methods in Ecology and Evolution (01/2023)
 ~~Submitted to Journal of Applied Ecology (11/2020)~~     
 [![bioRxiv preprint](https://img.shields.io/badge/bioRxiv-preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
-* L Evans et al.      
-Mechanisms underpinning community stability along a latitudinal gradient: insights from a niche-based approach    
-Submitted to Ecology (05/2022)
+
 
 * **PH Boersch-Supan**, ATK Lee, HD Oschadleus    
 A demonstration of the value of recapture data for informing moult phenology models for species with imperfect moult data    
@@ -51,6 +49,11 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+1. LC Evans, Y Melero, R Schmucki, **PH Boersch-Supan**, L Brotons, C Fontaine, F Jiguet, M Kuussaari, D Massimino, RA Robinson, DB Roy, O Schweiger, J Settele, C Stefanescu, CAM van Turnhout, TH Oliver (2023)    
+[Mechanisms underpinning community stability along a latitudinal gradient: insights from a niche-based approach](https://doi.org/10.1111/gcb.16684)    
+Global Change Biology    
+[![DOI](https://img.shields.io/badge/DOI-10.1111%2Fgcb.16684-blue.svg)](https://doi.org/10.1111/gcb.16684)
+
 1. AE Barnes, JG Davies, B Martay, **PH Boersch-Supan**, SJ Harris, DG Noble, JW Pearce-Higgins, RA Robinson (2022)    
 [Rare and declining bird species benefit most from designating protected areas for conservation in the UK](https://doi.org/10.1038/s41559-022-01927-4)    
 Nature Ecology & Evolution    
