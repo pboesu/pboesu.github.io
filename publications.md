@@ -20,13 +20,11 @@ _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=e
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3ABoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)   
 
 * **PH Boersch-Supan**, HJ Hanmer, RA Robinson    
-[Bayesian inference for models of moult duration and timing](https://doi.org/10.48550/arXiv.2205.12120)    
-Submitted to Methods in Ecology and Evolution (01/2023)    
+[Bayesian inference for models of moult duration and timing](https://doi.org/10.48550/arXiv.2205.12120)        
 [![arXiv preprint](https://img.shields.io/badge/arXiv-preprint-brightgreen.svg)](https://doi.org/10.48550/arXiv.2205.12120)
 
 *  **PH Boersch-Supan**, RA Robinson    
-[Integrating structured and unstructured citizen science data to improve wildlife population monitoring](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)    
-~~Submitted to Journal of Applied Ecology (11/2020)~~     
+[Integrating structured and unstructured citizen science data to improve wildlife population monitoring](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)         
 [![bioRxiv preprint](https://img.shields.io/badge/bioRxiv-preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
 
