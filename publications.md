@@ -27,18 +27,9 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 [Integrating structured and unstructured citizen science data to improve wildlife population monitoring](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)         
 [![bioRxiv preprint](https://img.shields.io/badge/bioRxiv-preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
-
-
 * **PH Boersch-Supan**, ATK Lee, HD Oschadleus    
 A demonstration of the value of recapture data for informing moult phenology models for species with imperfect moult data    
 Submitted to Ostrich (12/2022)
-
-  
-
-
-
-
-
 
 <!--SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
 **Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
@@ -47,7 +38,11 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
-1. LC Evans, Y Melero, R Schmucki, **PH Boersch-Supan**, L Brotons, C Fontaine, F Jiguet, M Kuussaari, D Massimino, RA Robinson, DB Roy, O Schweiger, J Settele, C Stefanescu, CAM van Turnhout, TH Oliver (2023)    
+1. HD Oschadleus, **PH Boersch-Supan** (in press)     
+Sunning in Yellow Bishops *Euplectes capensis*    
+Ostrich    
+
+3. LC Evans, Y Melero, R Schmucki, **PH Boersch-Supan**, L Brotons, C Fontaine, F Jiguet, M Kuussaari, D Massimino, RA Robinson, DB Roy, O Schweiger, J Settele, C Stefanescu, CAM van Turnhout, TH Oliver (2023)    
 [Mechanisms underpinning community stability along a latitudinal gradient: insights from a niche-based approach](https://doi.org/10.1111/gcb.16684)    
 Global Change Biology    
 [![DOI](https://img.shields.io/badge/DOI-10.1111%2Fgcb.16684-blue.svg)](https://doi.org/10.1111/gcb.16684)
