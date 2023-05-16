@@ -64,6 +64,7 @@ parameters, and observable quantities.
 
 **Papers:**    
 Boersch-Supan et al. (2022): [Bayesian inference for models of moult duration and timing in birds](https://doi.org/10.48550/arXiv.2205.12120)    
+Boersch-Supan & Robinson (2021) [Integrating structured and unstructured citizen science data](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)    
 Boersch-Supan & Johnson (2018): [Bayesian inference for dynamic energy budget models](https://doi.org/10.1016/j.seares.2018.07.014)<br>
 Boersch-Supan et al. (2016): [deBInfer: Bayesian inference for dynamical models of biological systems in R](http://doi.org/10.1111/2041-210X.12679)    
     
