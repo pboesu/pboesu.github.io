@@ -46,7 +46,7 @@ Ostrich
 3. LC Evans, Y Melero, R Schmucki, **PH Boersch-Supan**, L Brotons, C Fontaine, F Jiguet, M Kuussaari, D Massimino, RA Robinson, DB Roy, O Schweiger, J Settele, C Stefanescu, CAM van Turnhout, TH Oliver (2023)    
 [Mechanisms underpinning community stability along a latitudinal gradient: insights from a niche-based approach](https://doi.org/10.1111/gcb.16684)    
 Global Change Biology    
-[![DOI](https://img.shields.io/badge/DOI-10.1111%2Fgcb.16684-blue.svg)](https://doi.org/10.1111/gcb.16684)
+[![DOI](https://img.shields.io/badge/DOI-10.1111%2Fgcb.16684-blue.svg)](https://doi.org/10.1111/gcb.16684) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1111/gcb.16684)  
 
 1. AE Barnes, JG Davies, B Martay, **PH Boersch-Supan**, SJ Harris, DG Noble, JW Pearce-Higgins, RA Robinson (2022)    
 [Rare and declining bird species benefit most from designating protected areas for conservation in the UK](https://doi.org/10.1038/s41559-022-01927-4)    
