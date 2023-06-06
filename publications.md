@@ -38,9 +38,10 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
-1. HD Oschadleus, **PH Boersch-Supan** (in press)     
-Sunning in Yellow Bishops *Euplectes capensis*    
+1. HD Oschadleus, **PH Boersch-Supan** (2023)     
+[Sunning in Yellow Bishops *Euplectes capensis*](https://doi.org/10.2989/00306525.2023.2216375)    
 Ostrich    
+[![DOI](https://img.shields.io/badge/DOI-10.2989%2F00306525.2023.2216375-blue.svg)](https://doi.org/10.2989/00306525.2023.2216375)
 
 3. LC Evans, Y Melero, R Schmucki, **PH Boersch-Supan**, L Brotons, C Fontaine, F Jiguet, M Kuussaari, D Massimino, RA Robinson, DB Roy, O Schweiger, J Settele, C Stefanescu, CAM van Turnhout, TH Oliver (2023)    
 [Mechanisms underpinning community stability along a latitudinal gradient: insights from a niche-based approach](https://doi.org/10.1111/gcb.16684)    
