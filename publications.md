@@ -27,9 +27,7 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 [Integrating structured and unstructured citizen science data to improve wildlife population monitoring](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)         
 [![bioRxiv preprint](https://img.shields.io/badge/bioRxiv-preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
-* **PH Boersch-Supan**, ATK Lee, HD Oschadleus    
-A demonstration of the value of recapture data for informing moult phenology models for species with imperfect moult data    
-Submitted to Ostrich (12/2022)
+
 
 <!--SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
 **Seabird island nitroscapes: predictors of the distribution of seabird nutrient enrichment in soils and leaves**  
@@ -38,6 +36,10 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+1. **PH Boersch-Supan**, ATK Lee, HD Oschadleus (in press)      
+A demonstration of the value of recapture data for informing moult phenology models for species with imperfect moult data     
+Ostrich
+
 1. HD Oschadleus, **PH Boersch-Supan** (2023)     
 [Sunning in Yellow Bishops *Euplectes capensis*](https://doi.org/10.2989/00306525.2023.2216375)    
 Ostrich    
