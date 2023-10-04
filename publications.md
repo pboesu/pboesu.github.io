@@ -27,6 +27,14 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 [Integrating structured and unstructured citizen science data to improve wildlife population monitoring](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)         
 [![bioRxiv preprint](https://img.shields.io/badge/bioRxiv-preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
+* D Johnston, C Thaxter, **P Boersch-Supan**, ... , E Humphries
+Flight heights obtained from GPS versus altimeters influence estimates of collision risk with offshore wind turbines in Lesser Black-backed Gulls    
+Submitted to Movement Ecology
+
+* J Border, **P Boersch-Supan**, ..., S Baillie    
+Spatial variation in spring arrival patterns of Afro-Palearctic bird migration across Europe    
+Submitted to GEB
+
 
 
 <!--SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
