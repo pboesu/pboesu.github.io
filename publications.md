@@ -35,6 +35,14 @@ Submitted to Marine Biology
 *Spatial variation in spring arrival patterns of Afro-Palearctic bird migration across Europe*    
 Submitted to GEB
 
+*  **PH Boersch-Supan**, CH Brighton, CB Thaxter, ASCP Cook    
+*Natural body size variation in seabirds provides a fundamental challenge for flight height determination by single-camera photogrammetry.*    
+Submitted to Marine Biology
+
+*  CH Brighton, D Massimino, AE Barnes, **PH Boersch-Supan**, B Martay, JW Pearce-Higgins, DE Bowler, HMJ Hoskins    
+*Protected areas in good condition have a positive effect on bird population trends*     
+Submitted to Biological Conservation
+
 
 
 <!--SB Borrelle, HP Jones, **PH Boersch-Supan**, DR Towns  
