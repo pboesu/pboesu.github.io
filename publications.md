@@ -52,14 +52,15 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a>
+1. **PH Boersch-Supan**, ATK Lee, HD Oschadleus (in press)      
+[A demonstration of the value of recapture data for informing moult phenology models for species with imperfect moult data](https://doi.org/10.2989/00306525.2023.2248396)     
+Ostrich    
+[![DOI](https://img.shields.io/badge/DOI-10.2989%2F00306525.2023.2248396-blue.svg)](https://doi.org/10.2989/00306525.2023.2248396)
+
 1. D Johnston, C Thaxter, **P Boersch-Supan**, ... , E Humphries (2023)    
 [Flight heights obtained from GPS versus altimeters influence estimates of collision risk with offshore wind turbines in Lesser Black-backed Gulls](https://doi.org/10.1186/s40462-023-00431-z)    
 Movement Ecology    
 [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs40462--023--00431--z-blue.svg)](https://doi.org/10.1186/s40462-023-00431-z)
-
-1. **PH Boersch-Supan**, ATK Lee, HD Oschadleus (in press)      
-A demonstration of the value of recapture data for informing moult phenology models for species with imperfect moult data     
-Ostrich
 
 1. HD Oschadleus, **PH Boersch-Supan** (2023)     
 [Sunning in Yellow Bishops *Euplectes capensis*](https://doi.org/10.2989/00306525.2023.2216375)    
