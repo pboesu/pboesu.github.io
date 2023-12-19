@@ -51,8 +51,13 @@ Submitted to the New Zealand Journal of Ecology
 [Manuscript available on request](mailto:pboesu@gmail.com)  -->
 
 
-## Peer-reviewed articles<a name="Papers">&nbsp;</a>
-1. **PH Boersch-Supan**, ATK Lee, HD Oschadleus (in press)      
+## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
+
+1. **PH Boersch-Supan**, HJ Hanmer, RA Robinson (in press)    
+[Extended molt phenology models improve inferences about molt duration and timing](https://doi.org/10.48550/arXiv.2205.12120)        
+Ornithology
+
+1. **PH Boersch-Supan**, ATK Lee, HD Oschadleus (2023)      
 [A demonstration of the value of recapture data for informing moult phenology models for species with imperfect moult data](https://doi.org/10.2989/00306525.2023.2248396)     
 Ostrich    
 [![DOI](https://img.shields.io/badge/DOI-10.2989%2F00306525.2023.2248396-blue.svg)](https://doi.org/10.2989/00306525.2023.2248396)
