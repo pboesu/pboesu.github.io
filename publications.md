@@ -19,10 +19,6 @@ _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=e
 
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3ABoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)   
 
-* **PH Boersch-Supan**, HJ Hanmer, RA Robinson    
-[Bayesian inference for models of moult duration and timing](https://doi.org/10.48550/arXiv.2205.12120)        
-[![arXiv preprint](https://img.shields.io/badge/arXiv-preprint-brightgreen.svg)](https://doi.org/10.48550/arXiv.2205.12120)
-
 *  **PH Boersch-Supan**, RA Robinson    
 [Integrating structured and unstructured citizen science data to improve wildlife population monitoring](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)         
 [![bioRxiv preprint](https://img.shields.io/badge/bioRxiv-preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
@@ -34,10 +30,6 @@ Submitted to Marine Biology
 * J Border, **P Boersch-Supan**, ..., S Baillie    
 *Spatial variation in spring arrival patterns of Afro-Palearctic bird migration across Europe*    
 Submitted to GEB
-
-*  **PH Boersch-Supan**, CH Brighton, CB Thaxter, ASCP Cook    
-*Natural body size variation in seabirds provides a fundamental challenge for flight height determination by single-camera photogrammetry.*    
-Submitted to Marine Biology
 
 *  CH Brighton, D Massimino, AE Barnes, **PH Boersch-Supan**, B Martay, JW Pearce-Higgins, DE Bowler, HMJ Hoskins    
 *Protected areas in good condition have a positive effect on bird population trends*     
@@ -53,9 +45,14 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
-1. **PH Boersch-Supan**, HJ Hanmer, RA Robinson (in press)    
-[Extended molt phenology models improve inferences about molt duration and timing](https://doi.org/10.48550/arXiv.2205.12120)        
-Ornithology
+1. **PH Boersch-Supan**, CH Brighton, CB Thaxter, ASCP Cook (in press)     
+Natural body size variation in seabirds provides a fundamental challenge for flight height determination by single-camera photogrammetry.    
+Marine Biology    
+
+1. **PH Boersch-Supan**, HJ Hanmer, RA Robinson (2024)    
+[Extended molt phenology models improve inferences about molt duration and timing](https://doi.org/10.1093/ornithology/ukae003)        
+Ornithology    
+[![DOI](https://img.shields.io/badge/DOI-10.1093%2Fornithology%2Fukae003-blue.svg)](https://doi.org/10.1093/ornithology/ukae003) [![Free preprint](https://img.shields.io/badge/arXiv-preprint-brightgreen.svg)](https://doi.org/10.48550/arXiv.2205.12120)
 
 1. **PH Boersch-Supan**, ATK Lee, HD Oschadleus (2023)      
 [A demonstration of the value of recapture data for informing moult phenology models for species with imperfect moult data](https://doi.org/10.2989/00306525.2023.2248396)     
