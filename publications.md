@@ -45,6 +45,11 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
+1. CH Brighton, D Massimino, **PH Boersch-Supan**, AE Barnes, B Martay, DE Bowler, HMJ Hoskins, JW Pearce-
+Higgins (in press)
+The benefits of protected areas for bird population trends may depend on their condition.    
+Biological Conservation
+
 1. **PH Boersch-Supan**, CH Brighton, CB Thaxter, ASCP Cook (in press)     
 Natural body size variation in seabirds provides a fundamental challenge for flight height determination by single-camera photogrammetry.    
 Marine Biology    
