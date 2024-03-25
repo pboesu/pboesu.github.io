@@ -31,9 +31,6 @@ Submitted to Marine Biology
 *Spatial variation in spring arrival patterns of Afro-Palearctic bird migration across Europe*    
 Submitted to GEB
 
-*  CH Brighton, D Massimino, AE Barnes, **PH Boersch-Supan**, B Martay, JW Pearce-Higgins, DE Bowler, HMJ Hoskins    
-*Protected areas in good condition have a positive effect on bird population trends*     
-Submitted to Biological Conservation
 
 
 
@@ -45,9 +42,8 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
-1. CH Brighton, D Massimino, **PH Boersch-Supan**, AE Barnes, B Martay, DE Bowler, HMJ Hoskins, JW Pearce-
-Higgins (in press)
-The benefits of protected areas for bird population trends may depend on their condition.    
+1. CH Brighton, D Massimino, **PH Boersch-Supan**, AE Barnes, B Martay, DE Bowler, HMJ Hoskins, JW Pearce-Higgins (in press)    
+The benefits of protected areas for bird population trends may depend on their condition.      
 Biological Conservation
 
 1. **PH Boersch-Supan**, CH Brighton, CB Thaxter, ASCP Cook (in press)     
