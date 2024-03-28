@@ -42,9 +42,10 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
-1. CH Brighton, D Massimino, **PH Boersch-Supan**, AE Barnes, B Martay, DE Bowler, HMJ Hoskins, JW Pearce-Higgins (in press)    
-The benefits of protected areas for bird population trends may depend on their condition.      
-Biological Conservation
+1. CH Brighton, D Massimino, **PH Boersch-Supan**, AE Barnes, B Martay, DE Bowler, HMJ Hoskins, JW Pearce-Higgins (2024)    
+[The benefits of protected areas for bird population trends may depend on their condition.](https://doi.org/10.1016/j.biocon.2024.110553)      
+Biological Conservation    
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.biocon.2024.110553-blue.svg)](https://doi.org/10.1016/j.biocon.2024.110553) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1016/j.biocon.2024.110553)  
 
 1. **PH Boersch-Supan**, CH Brighton, CB Thaxter, ASCP Cook (in press)     
 Natural body size variation in seabirds provides a fundamental challenge for flight height determination by single-camera photogrammetry.    
