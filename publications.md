@@ -27,9 +27,11 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 *Influence of wind on kittiwake* Rissa tridactyla *flight and offshore wind turbine collision risk*    
 Submitted to Marine Biology
 
-* J Border, **P Boersch-Supan**, ..., S Baillie    
-*Spatial variation in spring arrival patterns of Afro-Palearctic bird migration across Europe*    
-Submitted to GEB
+* CJ Pollock, DT Johnston, **PH Boersch-Supan**, ..., ASCP Cook    
+*Avoidance and attraction responses of kittiwakes to three offshore wind farms in the North Sea*
+Submitted to Marine Biology     
+
+
 
 
 
@@ -41,6 +43,10 @@ Submitted to the New Zealand Journal of Ecology
 
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
+
+1. J Border, **P Boersch-Supan**, ..., S Baillie (in press)    
+Spatial variation in spring arrival patterns of Afro-Palearctic bird migration across Europe    
+GEB
 
 1. CH Brighton, D Massimino, **PH Boersch-Supan**, AE Barnes, B Martay, DE Bowler, HMJ Hoskins, JW Pearce-Higgins (2024)    
 [The benefits of protected areas for bird population trends may depend on their condition.](https://doi.org/10.1016/j.biocon.2024.110553)      
