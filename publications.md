@@ -23,13 +23,7 @@ Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/s
 [Integrating structured and unstructured citizen science data to improve wildlife population monitoring](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)         
 [![bioRxiv preprint](https://img.shields.io/badge/bioRxiv-preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
 
-* JG Davies, **PH Boersch-Supan**, GD Clewley, EM Humphreys, NJ O'Hanlon, J Shamoun-Baranes, CB Thaxter, E Weston, ASCP Cook    
-*Influence of wind on kittiwake* Rissa tridactyla *flight and offshore wind turbine collision risk*    
-Submitted to Marine Biology
 
-* CJ Pollock, DT Johnston, **PH Boersch-Supan**, ..., ASCP Cook    
-*Avoidance and attraction responses of kittiwakes to three offshore wind farms in the North Sea*
-Submitted to Marine Biology     
 
 
 
@@ -44,18 +38,30 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
-1. J Border, **P Boersch-Supan**, ..., S Baillie (in press)    
-Spatial variation in spring arrival patterns of Afro-Palearctic bird migration across Europe    
-GEB
+1. JG Davies, **PH Boersch-Supan**, GD Clewley, EM Humphreys, NJ O'Hanlon, J Shamoun-Baranes, CB Thaxter, E Weston, ASCP Cook (2024)    
+[Influence of wind on kittiwake flight and offshore wind turbine collision risk](https://doi.org/10.1007/s00227-024-04508-0)     
+Marine Biology    
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00227--024--04508--0-blue.svg)](https://doi.org/10.1007/s00227-024-04508-0)
+
+1. CJ Pollock, DT Johnston, **PH Boersch-Supan**, ..., ASCP Cook (2024)    
+[Avoidance and attraction responses of kittiwakes to three offshore wind farms in the North Sea](https://doi.org/10.1007/s00227-024-04542-y)     
+Marine Biology    
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00227--024--04542--y-blue.svg)](https://doi.org/10.1007/s00227-024-04542-y) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1007/s00227-024-04542-y)  
+
+1. J Border, **P Boersch-Supan**, ..., S Baillie (2024)    
+[Spatial variation in spring arrival patterns of Afro-Palearctic bird migration across Europe](https://doi.org/10.1111/geb.13850)     
+Global Ecology and Biogeography    
+[![DOI](https://img.shields.io/badge/DOI-10.1111%2Fgeb.13850-blue.svg)](https://doi.org/10.1111/geb.13850) 
 
 1. CH Brighton, D Massimino, **PH Boersch-Supan**, AE Barnes, B Martay, DE Bowler, HMJ Hoskins, JW Pearce-Higgins (2024)    
 [The benefits of protected areas for bird population trends may depend on their condition.](https://doi.org/10.1016/j.biocon.2024.110553)      
 Biological Conservation    
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.biocon.2024.110553-blue.svg)](https://doi.org/10.1016/j.biocon.2024.110553) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1016/j.biocon.2024.110553)  
 
-1. **PH Boersch-Supan**, CH Brighton, CB Thaxter, ASCP Cook (in press)     
-Natural body size variation in seabirds provides a fundamental challenge for flight height determination by single-camera photogrammetry.    
+1. **PH Boersch-Supan**, CH Brighton, CB Thaxter, ASCP Cook (2024)     
+[Natural body size variation in seabirds provides a fundamental challenge for flight height determination by single-camera photogrammetry.](https://doi.org/10.1007/s00227-024-04396-4)    
 Marine Biology    
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00227--024--04396--4-blue.svg)](https://doi.org/10.1007/s00227-024-04396-4)
 
 1. **PH Boersch-Supan**, HJ Hanmer, RA Robinson (2024)    
 [Extended molt phenology models improve inferences about molt duration and timing](https://doi.org/10.1093/ornithology/ukae003)        
