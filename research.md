@@ -16,6 +16,8 @@ submenu:
 </td></tr></table>
 
 **Papers:**    
+Brighton et al. (2024) [The benefits of protected areas for bird population trends may depend on their condition](https://doi.org/10.1016/j.biocon.2024.110553)
+Barnes et al. (2022) [Rare and declining bird species benefit most from designating protected areas](https://doi.org/10.1038/s41559-022-01927-4)
 Robinson et al. (2022) [Extreme uncertainty and unquantifiable bias do not inform population sizes](https://doi.org/10.1073/pnas.2113862119)    
 Boersch-Supan & Robinson (2021) [Integrating structured and unstructured citizen science data](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)    
 Boersch-Supan et al. (2019) [Robustness of simple avian population trend models](https://doi.org/10.1016/j.biocon.2019.108286)<br>
@@ -29,13 +31,23 @@ Mancini et al. (2022) [An introduction to model-based data integration for biodi
 
 ## Seabird Ecology<a name="albatross">&nbsp;</a>
 
-### Albatrosses, petrels, gulls
+### Offshore renewable energy
+<table style="width:80%"><tr><td>
+<img class="img-research" src="/public/images/600650761.jpg"> I am interested in the impact of offshore renewable energy infrastructure on birds, and in the monitoring challenges provided by this setting. Recent work includes assessments of observation technologies, as well as the study of bird behaviour around wind farms. 
+</td></tr></table>
+
+**Papers:**<br> 
+Boersch-Supan et al. (2024) [A fundamental challenge for flight height determination by photogrammetry](https://doi.org/10.1007/s00227-024-04396-4)
+Pollock, Johnston, Boersch-Supan et al. (2024) [Avoidance and attraction of kittiwakes to offshore wind farms](https://doi.org/10.1007/s00227-024-04542-y)
+Davies, Boersch-Supan et al. (2024) [Influence of wind on kittiwake flight and collision risk](https://doi.org/10.1007/s00227-024-04508-0)
+Johnston, Thaxter, Boersch-Supan et al. (2022) [Avoidance and attraction of gulls to offshore wind farms](https://doi.org/10.3354/meps13964)<br>
+
+### Albatrosses & petrels
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of various flying seabirds by studying their bioenergetics and foraging movements. 
 </td></tr></table>
 
 **Papers:**<br> 
-Johnston, Thaxter, Boersch-Supan et al. (2022) [Avoidance and attraction of gulls to offshore wind farms](https://doi.org/10.3354/meps13964)<br>
 Johnson, Boersch-Supan et al. (2017) [Sampling scale and movement model identifiability](https://doi.org/10.1002/ece3.3461)<br>
 Boersch-Supan et al. (2017) [Surface temperatures of albatross eggs and nests](https://doi.org/10.1080/01584197.2017.1406311)<br>
 Borrelle, Boersch-Supan et al. (2016): [Recovery of seabirds on islands eradicated of invasive predators](../public/Borrelle_et_al_2016_prepress.pdf)<br>
