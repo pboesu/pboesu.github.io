@@ -16,10 +16,10 @@ submenu:
 </td></tr></table>
 
 **Papers:**    
-Brighton et al. (2024) [The benefits of protected areas for bird population trends may depend on their condition](https://doi.org/10.1016/j.biocon.2024.110553)
-Barnes et al. (2022) [Rare and declining bird species benefit most from designating protected areas](https://doi.org/10.1038/s41559-022-01927-4)
-Robinson et al. (2022) [Extreme uncertainty and unquantifiable bias do not inform population sizes](https://doi.org/10.1073/pnas.2113862119)    
-Boersch-Supan & Robinson (2021) [Integrating structured and unstructured citizen science data](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)    
+Brighton et al. (2024) [The benefits of protected areas for bird population trends may depend on their condition](https://doi.org/10.1016/j.biocon.2024.110553)<br>
+Barnes et al. (2022) [Rare and declining bird species benefit most from designating protected areas](https://doi.org/10.1038/s41559-022-01927-4)<br>
+Robinson et al. (2022) [Extreme uncertainty and unquantifiable bias do not inform population sizes](https://doi.org/10.1073/pnas.2113862119)<br>
+Boersch-Supan & Robinson (2021) [Integrating structured and unstructured citizen science data](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)<br>
 Boersch-Supan et al. (2019) [Robustness of simple avian population trend models](https://doi.org/10.1016/j.biocon.2019.108286)<br>
 Isaac et al. (2019) [Data integration for large-scale models of species distributions](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30255-1)<br>
 
@@ -37,9 +37,9 @@ Mancini et al. (2022) [An introduction to model-based data integration for biodi
 </td></tr></table>
 
 **Papers:**<br> 
-Boersch-Supan et al. (2024) [A fundamental challenge for flight height determination by photogrammetry](https://doi.org/10.1007/s00227-024-04396-4)
-Pollock, Johnston, Boersch-Supan et al. (2024) [Avoidance and attraction of kittiwakes to offshore wind farms](https://doi.org/10.1007/s00227-024-04542-y)
-Davies, Boersch-Supan et al. (2024) [Influence of wind on kittiwake flight and collision risk](https://doi.org/10.1007/s00227-024-04508-0)
+Boersch-Supan et al. (2024) [A fundamental challenge for flight height determination by photogrammetry](https://doi.org/10.1007/s00227-024-04396-4)<br>
+Pollock, Johnston, Boersch-Supan et al. (2024) [Avoidance and attraction of kittiwakes to offshore wind farms](https://doi.org/10.1007/s00227-024-04542-y)<br>
+Davies, Boersch-Supan et al. (2024) [Influence of wind on kittiwake flight and collision risk](https://doi.org/10.1007/s00227-024-04508-0)<br>
 Johnston, Thaxter, Boersch-Supan et al. (2022) [Avoidance and attraction of gulls to offshore wind farms](https://doi.org/10.3354/meps13964)<br>
 
 ### Albatrosses & petrels
