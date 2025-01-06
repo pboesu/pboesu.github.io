@@ -39,9 +39,10 @@ Submitted to the New Zealand Journal of Ecology
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
 1. CJ Macgregor, S Gillings, DE Balmer, **PH Boersch-Supan**, SJ Harris, HFR Hereward, EM Humphreys, JW Pearce-Higgins,
-RC Taylor, G Troost, PW Atkinson (in press)    
-*Impacts of highly-pathogenic avian influenza on seabird populations in the North Sea are detectable in seawatchers’ migration counts*    
-Bird Study    
+RC Taylor, G Troost, PW Atkinson (2024)    
+[Impacts of highly-pathogenic avian influenza on seabird populations in the North Sea are detectable in seawatchers’ migration counts](https://doi.org/10.1080/00063657.2024.2440826)       
+Bird Study     
+[![DOI](https://img.shields.io/badge/DOI-10.1080%2F00063657.2024.2440826-blue.svg)](https://doi.org/10.1080/00063657.2024.2440826)      
 
 1. JG Davies, **PH Boersch-Supan**, GD Clewley, EM Humphreys, NJ O'Hanlon, J Shamoun-Baranes, CB Thaxter, E Weston, ASCP Cook (2024)    
 [Influence of wind on kittiwake flight and offshore wind turbine collision risk](https://doi.org/10.1007/s00227-024-04508-0)     
