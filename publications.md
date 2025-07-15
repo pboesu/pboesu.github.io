@@ -38,6 +38,20 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
+1. JA Clarke, JA Smith, E Leech, **PH Boersch-Supan**, RA Robinson (in press)      
+How many eggs are too many? – utilising an under-dispersed count data model to gain insights into evolutionary productivity constraints on bird species    
+Environmetrics
+
+1. NJ O’Hanlon, GD Clewley, DT Johnston, CB Thaxter, S Langlois Lopez, LR Quinn, **PH Boersch-Supan**, EA Masden, F Daunt, J Wilson, NHK Burton, EM Humphreys (2025)      
+[Partial niche partitioning in three sympatric gull species through foraging areas and habitat selection](https://doi.org/10.1002/ece3.71577)    
+Ecology and Evolution    
+[![DOI](https://img.shields.io/badge/DOI-10.1002%2Fece3.71577-blue.svg)](https://doi.org/10.1002/ece3.71577) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1002/ece3.71577)  
+
+1. F Burns, S Mordue, N Al-Fulaij, **PH Boersch-Supan**, KL Boughey, P Briggs, MA Eaton, C Harrower, AC Jackson, S Langton, F Mancini, D Noble, CR Shortall, CA Smith, RJ Pakeman (2025)     
+[State of nature 2023 terrestrial and freshwater animal dataset for the United Kingdom and its constituent countries](https://doi.org/10.1016/j.dib.2025.111646)    
+Data in Brief      
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.dib.2025.111646-blue.svg)](https://doi.org/10.1016/j.dib.2025.111646) 
+
 1. CJ Macgregor, S Gillings, DE Balmer, **PH Boersch-Supan**, SJ Harris, HFR Hereward, EM Humphreys, JW Pearce-Higgins,
 RC Taylor, G Troost, PW Atkinson (2024)    
 [Impacts of highly-pathogenic avian influenza on seabird populations in the North Sea are detectable in seawatchers’ migration counts](https://doi.org/10.1080/00063657.2024.2440826)       
