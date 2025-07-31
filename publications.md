@@ -38,9 +38,10 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
-1. JA Clarke, JA Smith, E Leech, **PH Boersch-Supan**, RA Robinson (in press)      
+1. JA Clarke, JA Smith, E Leech, **PH Boersch-Supan**, RA Robinson (2025)      
 How many eggs are too many? – utilising an under-dispersed count data model to gain insights into evolutionary productivity constraints on bird species    
-Environmetrics
+Environmetrics     
+[![DOI](https://img.shields.io/badge/DOI-10.1002%2Fenv.70032-blue.svg)](https://doi.org/10.1002/env.70032)     
 
 1. NJ O’Hanlon, GD Clewley, DT Johnston, CB Thaxter, S Langlois Lopez, LR Quinn, **PH Boersch-Supan**, EA Masden, F Daunt, J Wilson, NHK Burton, EM Humphreys (2025)      
 [Partial niche partitioning in three sympatric gull species through foraging areas and habitat selection](https://doi.org/10.1002/ece3.71577)    
