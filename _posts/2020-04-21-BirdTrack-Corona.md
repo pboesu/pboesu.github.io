@@ -6,7 +6,7 @@ tags:
 - citizen science
 ---
 
-*This blog post was originally published on the [BTO's website](http://bit.ly/BTODataBlog)*
+*This blog post was originally published on the [BTO's website](https://www.bto.org/our-work/news/blog/birdtrack-swiss-army-knife-btos-toolkit)*
 
 As we head into the fourth week of staying at home you may have noticed that the reporting rate trends on the [BirdTrack website](http://www.birdtrack.net) are starting to look rather unusual this year.
 Since Mid-March there is a spike in reporting for House Sparrows, Oystercatcher reports are crashing, whilst for Wrens the reporting rate curve looks pretty normal.
