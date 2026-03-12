@@ -38,6 +38,10 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
+1. B Martay et al. (in press)    
+Habitat and spatial trends of UK wintering waterbird populations over 50 years    
+Conservation Biology     
+
 1. WJ Sutherland, ND Burgess, SV Edwards, JPG Jones, PS Soltis, D Tilman, JM Allen, HT Andrianandrasana, CJ Armour, T August, KS Bawa, S Bailey, T Birch, PH Boersch-Supan, J Cavender-Bares, M Blaxter, R Chaplin-Kramer, BH Daru, A De Palma, C Eisenberg, CS Elphick, RP Freckleton, WF Frick, A Gonzalez, SJ Goetz, L Greenspoon, CM Grozingeree, DL Hankins, J Hazell, NJB Isaac, M Lambertini, HA Lewin, O Mac Aodha, A Madhavapeddy, E Milner-Gulland, R Milo, J O’Dwyer, A Purvis, N Salafsky, H Tallis, I Tanshi, V Vijay, M Wikelski, DR Williams, SH Woodard, GE Robinson (2026)    
 [Nine changes needed to deliver a radical transformation in biodiversity measurement](https://doi.org/10.1073/pnas.2519345123)    
 Proceedings of the National Academy of Sciences    
