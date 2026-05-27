@@ -38,19 +38,21 @@ Submitted to the New Zealand Journal of Ecology
 
 ## Peer-reviewed articles<a name="Papers">&nbsp;</a> 
 
-1. B Martay et al. (in press)    
-Habitat and spatial trends of UK wintering waterbird populations over 50 years    
-Conservation Biology     
+1. B Martay, **PH Boersch-Supan**, JW Pearce-Higgins, GE Austin, NHK Burton, D Noble, K Peck, SR Wotton, & TM Frost (2026)    
+[Habitat and spatial trends of UK wintering waterbird populations over 50 years](https://doi.org/10.1111/cobi.70310)    
+Conservation Biology    
+[![DOI](https://img.shields.io/badge/DOI-10.1111%2Fcobi.70310-blue.svg)](https://doi.org/10.1111/cobi.70310) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1111/cobi.70310)  
+    
 
 1. WJ Sutherland, ND Burgess, SV Edwards, JPG Jones, PS Soltis, D Tilman, JM Allen, HT Andrianandrasana, CJ Armour, T August, KS Bawa, S Bailey, T Birch, PH Boersch-Supan, J Cavender-Bares, M Blaxter, R Chaplin-Kramer, BH Daru, A De Palma, C Eisenberg, CS Elphick, RP Freckleton, WF Frick, A Gonzalez, SJ Goetz, L Greenspoon, CM Grozingeree, DL Hankins, J Hazell, NJB Isaac, M Lambertini, HA Lewin, O Mac Aodha, A Madhavapeddy, E Milner-Gulland, R Milo, J O’Dwyer, A Purvis, N Salafsky, H Tallis, I Tanshi, V Vijay, M Wikelski, DR Williams, SH Woodard, GE Robinson (2026)    
 [Nine changes needed to deliver a radical transformation in biodiversity measurement](https://doi.org/10.1073/pnas.2519345123)    
 Proceedings of the National Academy of Sciences    
-[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2519345123-blue.svg)](https://doi.org/10.1073/pnas.2519345123) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](10.1073/pnas.2519345123)  
+[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2519345123-blue.svg)](https://doi.org/10.1073/pnas.2519345123) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1073/pnas.2519345123)  
 
 1. A Gonzalez, T August, S Bailey, K Bobiwash, **PH Boersch-Supan**, ND Burgess, BH Daru, CS Elphick, RP Freckleton, WF Frick, AC Hughes, NJB Isaac, JPG Jones, M Lambertini, O Mac Aodha, A Madhavapeddy, EJ Milner-Gulland, A Purvis, N Salafsky, WJ Sutherland, I Tanshi, V Vijay, SH Woodard, DR Williams (2026)    
 [From data to decisions: Toward a Biodiversity Monitoring Standards Framework](https://doi.org/10.1073/pnas.2519347123)    
 Proceedings of the National Academy of Sciences    
-[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2519347123-blue.svg)](https://doi.org/10.1073/pnas.2519347123) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](10.1073/pnas.2519347123)  
+[![DOI](https://img.shields.io/badge/DOI-10.1073%2Fpnas.2519347123-blue.svg)](https://doi.org/10.1073/pnas.2519347123) [![Open access](https://img.shields.io/badge/Open-access-brightgreen.svg)](https://doi.org/10.1073/pnas.2519347123)  
 
 1. JA Clarke, JA Smith, E Leech, **PH Boersch-Supan**, RA Robinson (2025)      
 [How many eggs are too many? – utilising an under-dispersed count data model to gain insights into evolutionary productivity constraints on bird species](https://doi.org/10.1002/env.70032)    
