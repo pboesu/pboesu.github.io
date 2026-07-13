@@ -4,6 +4,7 @@ title: Publications etc.
 submenu:
   - { hook: "Papers", title: "Papers" }
   - { hook: "Forthcoming", title: "Preprints" }
+  - { hook: "Reports", title: "Reports" }
   - { hook: "Vignettes", title: "R Vignettes" }
   - { href: "/software", title: "Software" }
   - { hook: "Presentations", title: "Presentations" }
@@ -302,6 +303,73 @@ Ecology and Evolution 7:9257–9266
   [![Open Access](https://img.shields.io/badge/Open-Access-brightgreen.svg)](../public/MEPS_BIOT_prepress.pdf)
   <!--<div data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pbio.1001234" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div>-->
   {: reversed="reversed"}
+
+## Reports, Book Chapters, Theses<a name="Reports">&nbsp;</a>
+
+1. Caulfield EB, Clarke JA, Burton NHK, **Boersch-Supan PH**, Frost TM, Balmer DE, Woodward ID (2026): Winter gulls in the United Kingdom: Results from the 2023/24–2024/25 Winter Gull (Roost) Survey. BTO Research Report 807. British Trust for Ornithology, Thetford, Norfolk.
+
+2. Valantiejus Z, **Boersch-Supan PH**, Thaxter C, Collier M, Donovan C, White B (2026): Best practice guidance for the collection, management and analysis of data to support post-construction seabird collision monitoring at offshore wind farms. The Carbon Trust, London, UK.
+
+3. Valantiejus Z, **Boersch-Supan PH**, Thaxter C, Collier M, Page A, Boronkay C, Martins E, White B (2026): Best practice guidance for the installation of monitoring equipment to support post-construction seabird collision monitoring at offshore wind farms. The Carbon Trust, London, UK.
+
+4. Newson SE, **Boersch-Supan P**, Atkinson PW (2025). Understanding statistical power in passive acoustic monitoring of bats: evaluating survey and sampling protocols in the Bailiwick of Guernsey. BTO Research Report 798. British Trust for Ornithology, Thetford.
+
+5. Rhoades J, Feather A, Harwood A, Banks A, **Boersch-Supan PH** (2025): Evaluating aerial LiDAR and other approaches to avian flight height measurement – ReSCUE Project Validation Study Report. BTO Research Report 796. British Trust for Ornithology, Thetford, Norfolk.
+
+6. Rhoades J, Johnston DT, Humphreys EM, **Boersch-Supan PH** (2025): *Review of methods used to calculate scale of artificial nesting structures proposed as a compensation measure for Kittiwake mortality at offshore wind farms.* BTO Research Report 788. British Trust for Ornithology, Thetford, UK.
+
+7. Brighton CH, Clarke JA, **Boersch-Supan PH** (2025): *Scientific support to the trial of Spoor AI at the European Offshore Wind Deployment Centre.* BTO Research Report 781. British Trust for Ornithology, Thetford, UK.
+
+8. Feather AP, Burton NHK, Johnston DT, **Boersch-Supan PH** (2025): *A review of existing methods to collect data on seabird flight height distributions and their use in offshore wind farm impact assessments.* BTO Research Report 780. British Trust for Ornithology, Thetford, UK.
+
+9. Bennett S, Rhoades J, **Boersch-Supan PH**, Humphreys EM, Davies J, Upton A (2025): *Modelled changes to seabird presence and abundance across the MarPAMM region in response to predicted changes in climatic and oceanographic variables.* BTO Research Report 767. British Trust for Ornithology, Thetford, UK.
+
+10. Green RM, Thaxter CB, Johnston DT, **Boersch-Supan PH**, Bouten W, Burton NHK (2023): *Assessing movements of Lesser Black-backed Gulls using GPS tracking devices in relation to the Galloper Wind Farm.* BTO Research Report 758. British Trust for Ornithology, Thetford. 190pp.
+
+11. O’Hanlon NJ, Harris SJ, Thaxter CB, **Boersch-Supan PH**, Robinson RA, Balmer DE, Burton NHK (2024): *Seabird population and demographic monitoring in the UK: a review and recommendations for future sampling.* BTO Research Report 754. British Trust for Ornithology, Thetford, UK.
+
+12. Cook ASCP, Thaxter CB, Davies J, Green RMW, Wischnewski S, **Boersch-Supan P** (2023): *Understanding seabird behaviour at sea part 2: improved estimates of collision risk model parameters.* Scottish Government Report. 110pp.
+
+13. Burns F, Mordue S, al Fulaij N, **Boersch-Supan PH**, Boswell J, Boyd RJ, Bradfer-Lawrence T, de Ornellas P, de Palma A, de Zylva P, Dennis EB, Foster S, Gilbert G, Halliwell L, Hawkins K, Haysom KA, Holland MM, Hughes J, Jackson AC, Mancini F, Mathews F, McQuatters-Gollop A, Noble DG, O’Brien D, Pescott OL, Purvis A, Simkin J, Smith A, Stanbury AJ, Villemot J, Walker KJ, Walton P, Webb TJ, Williams J, Wilson R, Gregory RD (2023): *State of Nature 2023.* The State of Nature Partnership, United Kingdom. 108pp. <http://www.stateofnature.org.uk>
+
+14. White TB, Amano T, **Boersch-Supan P**, Christie A, Freckleton R, Quinzin MC, Rezaie AM, Sutherland WJ, Yamashita H (2022): *Gathering and Assessing Pieces of Evidence.* Chapter 2 in Sutherland WJ (Ed.) *Transforming Conservation - A Practical Guide to Evidence and Decision Making.* Open Book Publishers. <https://doi.org/10.11647/OBP.0321>
+
+15. **Boersch-Supan PH**, Robinson RA (2022): *Evaluating terrestrial bird trends for Welsh Statement Areas.* JNCC Report No. 716. JNCC, Peterborough. 86pp. <https://data.jncc.gov.uk/data/39254c2d-37e7-46d9-ae63-4739228e1b0d/jncc-report-716.pdf>
+
+16. Mancini F, **Boersch-Supan PH**, Robinson RA, Harris M, Pocock MJO (2022): *An introduction to model based data integration for biodiversity assessments.* JNCC, Peterborough. 30pp. ISBN 978-1-86107-639-7. <https://hub.jncc.gov.uk/assets/1c774649-3cf8-4964-bf38-443a12accd09>
+
+17. Macgregor CJ, **Boersch-Supan PH**, Burton NHK, Carss DN, Newson SE, Pearce-Higgins JW, Robinson RA, Taylor RC (2022): *Informing decisions on lethal control of Cormorant and Goosander in Wales: scenarios from population viability modelling.* Report to Natural Resources Wales. 78pp.
+
+18. **Boersch-Supan PH**, Thaxter CB, Cook ASCP (2021): *Appraisal and analysis of flight height data collected in the Firth of Forth on behalf of SSE Renewables.* Report to SSE. 44pp.
+
+19. Taylor RC, **Boersch-Supan PH**, Cooper J, O'Connell P, Wetherhill A, Bowgen K, Calladine J (2021): *Results from the 2020/21 winter census of Cormorant and Goosander in Wales.* Report to Natural Resources Wales.
+
+20. **Boersch-Supan PH** (2020): *Puffinus puffinus - Manx shearwater.* Species account in Keller V et al. (Eds.) *European Breeding Bird Atlas 2.* Lynx Edicions.
+
+21. Taylor RC, Austin GE, **Boersch-Supan PH**, Bowgen K, Burton NHK, Calladine J, Noble D, Robinson RA (2020): *2020/21 winter census of cormorant and goosander in Wales.* NRW Science Report. Natural Resources Wales. 23pp.
+
+22. Austin GE, Balmer DE, **Boersch-Supan PH**, Calbrade NA (2020): *Analysis of Wetland Bird Survey (WeBS) Data for Lindisfarne National Nature Reserve: site and count sector-level trends winter 1993/94 to 2018/19.* BTO Research Report No. 729. British Trust for Ornithology, Thetford. 101pp.
+
+23. Woodward ID, Austin GE, Balmer DE, **Boersch-Supan PH**, Irwin CG, Scott MS, Thaxter C, Webb A, Burton NHK (2019): *Improving Methods for Counting Dispersed Bird Populations: Urban Gull Case Study.* Report to DEFRA. British Trust for Ornithology, Thetford. 54pp.
+
+24. Hayhow DB, Eaton MA, Stanbury AJ, Burns F, Kirby WB, Bailey N, Beckmann B, Bedford J, **Boersch-Supan P**, et al. (2019): *The State of Nature 2019.* The State of Nature Partnership, United Kingdom. 108pp.
+
+25. Border JA, Calladine J, **Boersch-Supan PH**, Hunt M, Pearce-Higgins JW (2019): *Correlates of change in breeding bird populations of the Peak District Moorlands from 1990 and 2004/5 to 2018.* Report to Moors for the Future Partnership. Edale, United Kingdom. 86pp.
+
+26. Border JA, Massimino D, Newson SE, **Boersch-Supan PH**, Hunt M, Pearce-Higgins JW (2019): *Changes in moorland breeding birds of the Peak District Moorlands.* Report to Moors for the Future Partnership. Edale, United Kingdom. 50pp.
+
+27. **Boersch-Supan PH** (2019): *Integrating data sources to better estimate avian population trends – A case study reconstructing the colonisation of Eastern England by Cetti’s Warbler.* Report to JNCC. British Trust for Ornithology, Thetford, United Kingdom. 8pp.
+
+28. **Boersch-Supan PH** (2013): *The ecology of scattering layer biota around Indian Ocean seamounts and islands.* PhD Thesis, University of St Andrews, UK. 219pp. <http://hdl.handle.net/10023/11440>
+
+29. **Boersch-Supan PH**, Webster CN (2012): *Net sampling and acoustic surveys of deep-scattering layers and their interactions with seamounts.* In Rogers AD, Taylor MT (Eds.) *Benthic biodiversity of seamounts in the southwest Indian Ocean. Cruise report – R/V James Cook 066.* University of Oxford / NERC. 235pp.
+
+30. Rogers AD, Alvheim O, Bemanaja E, Benivary D, **Boersch-Supan PH**, et al. (2009): *Cruise Report “Dr. Fridtjof Nansen” Southern Indian Ocean Seamounts.* IUCN, Gland, Switzerland. 188pp.
+
+31. **Boersch-Supan PH** (2009): *Gelatinous zooplankton distribution along the western Irish shelf-edge.* MRes Thesis, University of St Andrews, United Kingdom. 67pp.     
+ {: reversed="reversed"}
+
+
 
 ## R Vignettes<a name="Vignettes">&nbsp;</a>
 Vignettes are a type of long-form documentation in the R world. They are a bit like a book chapter or an academic paper, but are usually more explicit on the computational details. I have written or co-authored the following vignettes:
