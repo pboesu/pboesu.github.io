@@ -42,6 +42,13 @@ Pollock, Johnston, Boersch-Supan et al. (2024) [Avoidance and attraction of kitt
 Davies, Boersch-Supan et al. (2024) [Influence of wind on kittiwake flight and collision risk](https://doi.org/10.1007/s00227-024-04508-0)<br>
 Johnston, Thaxter, Boersch-Supan et al. (2022) [Avoidance and attraction of gulls to offshore wind farms](https://doi.org/10.3354/meps13964)<br>
 
+**Reports:**<br> 
+Rhoades et al. (2025) [Evaluating aerial LiDAR and other approaches to avian flight height measurement](https://www.bto.org/our-work/science/publications/reports/bto-research-reports/00796-measuring-flight-height)<br>
+Rhoades et al. (2025) [Scaling compensation measures for Kittiwake mortality](https://www.bto.org/our-work/science/publications/reports/bto-research-reports/00788-rhoades-et-al-kittiwakes-renewables)<br>
+Brighton et al. (2025) [Spoor AI trial at the European Offshore Wind Deployment Centre](https://www.bto.org/our-work/science/publications/reports/bto-research-reports/00781-scientific-support-to-spoor-ai-trial)<br>
+Feather et al. (2025) [A review of methods to collect seabird flight height data](https://www.bto.org/our-work/science/publications/reports/bto-research-reports/00780-review-flight-height-estimation-methods)
+
+
 ### Albatrosses & petrels
 <table style="width:80%"><tr><td>
 <img class="img-research" src="http://leah.johnson-gramacy.com/albatross/wp-content/gallery/at-sea/JC66-800px-wm-2573.jpg"> I am using a combination of mathematical and statistical models and several decades of observational data to understand the factors affecting the population dynamics of various flying seabirds by studying their bioenergetics and foraging movements. 
