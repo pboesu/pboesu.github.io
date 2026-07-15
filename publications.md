@@ -20,6 +20,12 @@ _My Google Scholar Profile is_ [here](http://scholar.google.co.uk/citations?hl=e
 
 Preprints of some of my work can be found on [bioRxiv](https://www.biorxiv.org/search/author1%3ABoersch-Supan) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Boersch-Supan%2C+P+H)   
 
+* Patrick E, Clarke JA, Burton NHK, **Boersch-Supan PH**, Frost TM, Balmer DE, Quinn, L, Anthony S, Murphy M, Macnamara C, Woodward ID    
+*Winter Gulls in the United Kingdom 2023/24-2024/25.*    
+Submitted to Bird Study.
+* Martay B, Dennis EB, Bourn NAD, Fox R, Hordley LA, Barnes AE, **Boersch-Supan PH**, Pearce-Higgins JW, Robinson RA     
+*Butterflies benefit from protected areas designated for habitat conservation.*    
+Submitted to Biological Conservation.
 *  **PH Boersch-Supan**, RA Robinson    
 [Integrating structured and unstructured citizen science data to improve wildlife population monitoring](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)         
 [![bioRxiv preprint](https://img.shields.io/badge/bioRxiv-preprint-brightgreen.svg)](https://www.biorxiv.org/content/10.1101/2021.03.03.431294v1)
